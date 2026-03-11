@@ -1,10 +1,11 @@
 import os
 import pandas as pd
 from core.generators.lyria_adapter import LyriaAdapter
-from core.generators.acestep_adapter import AceStepAdapter
+# from core.generators.acestep_adapter import AceStepAdapter
 from core.feature_extraction import PIPELINE
 
-generation_outputs_dir = "/content/drive/MyDrive"
+generation_outputs_dir_cloud = "/content/drive/MyDrive" # for google cloud
+generation_outputs_dir_local = 'data/audio_files' # for package
 
 # TODO:  run generation
 # def run_generation():
@@ -34,13 +35,14 @@ generation_outputs_dir = "/content/drive/MyDrive"
 #                 print(f'Generated {out_name}')
 
 # TODO:  run feature extraction
-def run_feature_extraction():
+def run_feature_extraction(generation_outputs_dir):
     for subdir in os.listdir(generation_outputs_dir):
         subdir_path = os.path.join(generation_outputs_dir, subdir)
+        print(subdir_path)
         if not os.path.isdir(subdir_path):
             continue
-        df = PIPELINE.process_directory(subdir_path)
-        df.to_csv(os.path.join(generation_outputs_dir, f"{subdir}_features.csv"), index=False)
+        # df = PIPELINE.process_directory(subdir_path)
+        # df.to_csv(os.path.join(generation_outputs_dir, f"{subdir}_features.csv"), index=False)
 # audio_models = {
 #     'acestep': {'base_path': '/content/drive/MyDrive/AceStep_Output',},
 #     'lyria': {'base_path': '/content/drive/MyDrive/Lyria_Output'}
@@ -75,7 +77,7 @@ def main():
     # run_generation()
     # run_feature_extraction()
     # run_plotting_analysis()
-    run_feature_extraction()
+    run_feature_extraction(generation_outputs_dir_local)
 
     pass
 

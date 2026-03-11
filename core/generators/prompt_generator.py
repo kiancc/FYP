@@ -85,6 +85,7 @@ class GeneratePrompts:
 
     def generate_tempo_change_prompt(self, genre):
         generated_bpms = set()
+        
         for tempo_mod in self.constraints['tempo_change']:
             direction = 'increases' if tempo_mod > 0 else 'decreases'
             for low_bpm, high_bpm in self.constraints['tempo']:

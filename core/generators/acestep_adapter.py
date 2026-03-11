@@ -6,23 +6,23 @@ from core.generators.base import MusicGenerator
 csv_path = "/content/master_prompts_v2.csv"   # path to your CSV in Colab
 checkpoint_dir = None                         # None => auto-download to cache, or "/path/to/checkpoints"
 outputs_dir = "/content/drive/MyDrive/AceStep_Output"
-audio_duration = 180.0                         # seconds (default)
-infer_steps = 360
-guidance_scale = 15.0
-device_id = 0
-torch_compile = False
-cpu_offload = False
 
 class AceStepAdapter(MusicGenerator):
 
     def __init__(self):
         self.model_name = 'AceStep-1.5'
+        self.audio_duration = 180.0 # find reference on best duration window from docs, max is 180
+        self.infer_steps = 360
+        self.guidance_scale = 15.0
+        self.device_id = 0
+        self.torch_compile = False
+        self.cpu_offload = False
         self.model = ACEStepPipeline(
             checkpoint_dir=checkpoint_dir,
-            device_id=device_id,
+            device_id=self.device_id,
             dtype="bfloat16",
-            torch_compile=torch_compile,
-            cpu_offload=cpu_offload
+            torch_compile=self.torch_compile,
+            cpu_offload=self.cpu_offload
         )
 
     def generate(self, prompt):

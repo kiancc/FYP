@@ -1,6 +1,9 @@
 librosa
 essentia
-# git+https://github.com/ace-step/ACE-Step.git
+git+https://github.com/ace-step/ACE-Step.git
 seaborn
 pandas
 matplotlib
+google
+google-auth
+requests

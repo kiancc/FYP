@@ -12,7 +12,7 @@ class LyriaAdapter(MusicGenerator):
     
     def __init__(self):
         self.model_name = 'Lyria-002'
-        self.music_model = LYRIA_MODEL
+        self.music_model = LYRIA_MODEL # model is limited to 30 seconds
 
     def generate(self, prompt):
         prediction = self.generate_music(
