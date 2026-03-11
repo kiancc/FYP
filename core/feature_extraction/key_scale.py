@@ -1,6 +1,9 @@
 import essentia
 import essentia.streaming as es
 
+# note we dont use sr at all, its just so the method signature matches for the librosa method calls in pipeline.py.
+# not that elegant but will fix later, it works for now.
+
 def extract_essentia_key_scale(audio, file_idx):
     key, scale = essentia_detect_key(audio)
     
@@ -14,7 +17,7 @@ def extract_essentia_key_scale(audio, file_idx):
 def essentia_detect_key(audio):
 
     # Initialize algorithms we will use.
-    loader = audio
+    loader = es.VectorInput(audio)
     framecutter = es.FrameCutter(frameSize=4096, hopSize=2048, silentFrames='noise')
     windowing = es.Windowing(type='blackmanharris62')
     spectrum = es.Spectrum()
@@ -48,7 +51,7 @@ def essentia_detect_key(audio):
     pool = essentia.Pool()
 
     # Connect streaming algorithms.
-    loader.audio >> framecutter.signal
+    loader.data >> framecutter.signal
     framecutter.frame >> windowing.frame >> spectrum.frame
     spectrum.spectrum >> spectralpeaks.spectrum
     spectralpeaks.magnitudes >> hpcp.magnitudes
@@ -64,6 +67,6 @@ def essentia_detect_key(audio):
     # Run streaming network.
     essentia.run(loader)
 
-    print("Estimated key and scale:", pool['tonal.key_key'] + " " + pool['tonal.key_scale'])
+    # print("Estimated key and scale:", pool['tonal.key_key'] + " " + pool['tonal.key_scale'])
 
     return (pool['tonal.key_key'], pool['tonal.key_scale'])
