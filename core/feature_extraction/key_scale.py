@@ -1,7 +1,7 @@
 import essentia
 import essentia.streaming as es
 
-def get_essentia_key_scale(audio, file_idx):
+def extract_essentia_key_scale(audio, file_idx):
     key, scale = essentia_detect_key(audio)
     
     return {
@@ -9,7 +9,6 @@ def get_essentia_key_scale(audio, file_idx):
         'key': key,
         'scale': scale
     }
-
     
 # Taken from https://essentia.upf.edu/tutorial_tonal_hpcpkeyscale.html
 def essentia_detect_key(audio):
