@@ -7,31 +7,31 @@ from core.feature_extraction import PIPELINE
 generation_outputs_dir = "/content/drive/MyDrive"
 
 # TODO:  run generation
-def run_generation():
-    prompt_tasks_path = "/content/master_prompts_v2.csv" # need to make this not hardcoded
-    prompt_tasks_df = pd.read_csv(prompt_tasks_path, dtype=str)
+# def run_generation():
+#     prompt_tasks_path = "/content/master_prompts_v2.csv" # need to make this not hardcoded
+#     prompt_tasks_df = pd.read_csv(prompt_tasks_path, dtype=str)
 
-    # generate songs
-    for generator in [LyriaAdapter(), AceStepAdapter()]:
-        already_processed = set()
+#     # generate songs
+#     for generator in [LyriaAdapter(), AceStepAdapter()]:
+#         already_processed = set()
 
-        for root, dirs, files in os.walk(generation_outputs_dir):
-            for file_ in files:
-                already_processed.add(file_)
+#         for root, dirs, files in os.walk(generation_outputs_dir):
+#             for file_ in files:
+#                 already_processed.add(file_)
 
-        print(f'Generating audio for {generator.model_name}')
-        for i, row in prompt_tasks_df.iterrows():
-            file_idx = row["file_idx"]
-            file_idx = row["file_idx"]
-            prompt_text = row['prompt'].strip()
-            out_name = f"{generator.model_name}_{file_idx}.wav"
-            out_path = os.path.join(generation_outputs_dir, generator.model_name, out_name)
-            if out_name in already_processed:
-                print('File already existss')
-            else:
-                audio_b64 = generator.generate(prompt_text)
-                generator.save(audio_b64, out_path)
-                print(f'Generated {out_name}')
+#         print(f'Generating audio for {generator.model_name}')
+#         for i, row in prompt_tasks_df.iterrows():
+#             file_idx = row["file_idx"]
+#             file_idx = row["file_idx"]
+#             prompt_text = row['prompt'].strip()
+#             out_name = f"{generator.model_name}_{file_idx}.wav"
+#             out_path = os.path.join(generation_outputs_dir, generator.model_name, out_name)
+#             if out_name in already_processed:
+#                 print('File already existss')
+#             else:
+#                 audio_b64 = generator.generate(prompt_text)
+#                 generator.save(audio_b64, out_path)
+#                 print(f'Generated {out_name}')
 
 # TODO:  run feature extraction
 def run_feature_extraction():
