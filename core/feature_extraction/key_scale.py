@@ -4,11 +4,11 @@ import essentia.streaming as es
 # note we dont use sr at all, its just so the method signature matches for the librosa method calls in pipeline.py.
 # not that elegant but will fix later, it works for now.
 
-def extract_essentia_key_scale(audio, file_idx):
+def extract_essentia_key_scale(audio, file_id):
     key, scale = essentia_detect_key(audio)
     
     return {
-        'file_idx': file_idx,
+        'file_id': file_id,
         'key': key,
         'scale': scale
     }
