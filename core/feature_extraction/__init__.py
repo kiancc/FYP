@@ -5,5 +5,5 @@ from core.feature_extraction.pipeline import FeaturePipeline
 PIPELINE = FeaturePipeline([
     ('librosa', extract_bpm_librosa),
     ('essentia', extract_bpm_essentia),
-    # ('essentia', extract_essentia_key_scale),
+    ('essentia', extract_essentia_key_scale),
 ])
