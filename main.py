@@ -22,10 +22,10 @@ generation_outputs_dir_local = 'data/audio_files' # for package
 
 #         print(f'Generating audio for {generator.model_name}')
 #         for i, row in prompt_tasks_df.iterrows():
-#             file_idx = row["file_idx"]
-#             file_idx = row["file_idx"]
+#             file_id = row["file_id"]
+#             file_id = row["file_id"]
 #             prompt_text = row['prompt'].strip()
-#             out_name = f"{generator.model_name}_{file_idx}.wav"
+#             out_name = f"{generator.model_name}_{file_id}.wav"
 #             out_path = os.path.join(generation_outputs_dir, generator.model_name, out_name)
 #             if out_name in already_processed:
 #                 print('File already existss')
@@ -45,7 +45,6 @@ def run_feature_extraction(generation_outputs_dir):
             continue
 
         df = PIPELINE.process_directory(subdir_path)
-        print(df)
         df.to_csv(os.path.join(outdir, f"{subdir}_features.csv"), index=False)
 # audio_models = {
 #     'acestep': {'base_path': '/content/drive/MyDrive/AceStep_Output',},

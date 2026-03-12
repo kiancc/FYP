@@ -73,7 +73,7 @@ for audio_model in audio_model_files:
     for task, task_df in split_dfs.items():
         # print(task_df.columns)
         if task == 'tempo':
-            bpm_cols = [c for c in task_df.columns if '_bpm' in c]
+            bpm_cols = [c for c in task_df.columns if 'bpm' in c]
 
             for col in bpm_cols:
                 measured = pd.to_numeric(task_df[col], errors='coerce')
@@ -136,7 +136,7 @@ This shows a box plot for the difference between the target BPM and the measured
 for model_name, model_data in audio_model_files.items():
     tempo_df = model_data['proccessed_tasks']['tempo'].copy()
     tempo_df['target'] = pd.to_numeric(tempo_df['target'], errors='coerce')
-
+    print(tempo_df.columns)
     plt.figure(figsize=(14, 6))
 
     # Box plot for Essentia BPM absolute errors by genre
@@ -162,6 +162,7 @@ for model_name, model_data in audio_model_files.items():
 
 for model_name, model_data in audio_model_files.items():
     key_df = model_data['proccessed_tasks']['key'].copy()
+    print(key_df.head())
 
     key_df['target_root'] = key_df['target'].str.split(' ').str[0]
     key_df['is_correct'] = (key_df['target_root'].str.strip() == key_df['key'].str.strip()).astype(int)
