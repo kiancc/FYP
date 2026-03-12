@@ -49,11 +49,10 @@ for model_name in audio_model_files:
     for feature_type in audio_model_files[model_name]:
         if feature_type not in ['dataframe']:
             feature_df = audio_model_files[model_name][feature_type]
-            prefixed_df = feature_df.add_prefix(f"{feature_type}_")
-            prefixed_df = prefixed_df.rename(columns={f"{feature_type}_file_id": "file_id"})
-            current_model_df = current_model_df.merge(prefixed_df, how='left', on="file_id")
+            # prefixed_df = feature_df.add_prefix(f"{feature_type}_")
+            # prefixed_df = prefixed_df.rename(columns={f"{feature_type}_file_id": "file_id"})
+            current_model_df = current_model_df.merge(feature_df, how='left', on="file_id")
 
-    print(current_model_df.columns)
     audio_model_files[model_name]['dataframe'] = current_model_df
 
 """### Process tasks
@@ -102,13 +101,13 @@ for model_name, model_data in audio_model_files.items():
     plt.figure(figsize=(14, 6))
 
     # Diagonal line
-    min_bpm = min(tempo_df['target'].min(), tempo_df['_bpm_essentia'].min(), tempo_df['_bpm_librosa'].min())
-    max_bpm = max(tempo_df['target'].max(), tempo_df['_bpm_essentia'].max(), tempo_df['_bpm_librosa'].max())
+    min_bpm = min(tempo_df['target'].min(), tempo_df['bpm_essentia'].min(), tempo_df['bpm_librosa'].min())
+    max_bpm = max(tempo_df['target'].max(), tempo_df['bpm_essentia'].max(), tempo_df['bpm_librosa'].max())
     diagonal_line = [min_bpm, max_bpm]
 
     # Essentia BPM plotting
     plt.subplot(1, 2, 1)
-    sns.scatterplot(data=tempo_df, x='target', y='_bpm_essentia', hue='genre', palette='viridis')
+    sns.scatterplot(data=tempo_df, x='target', y='bpm_essentia', hue='genre', palette='viridis')
     plt.plot(diagonal_line, diagonal_line, color='red', linestyle='--', label='Perfect Prediction')
     plt.title(f'{model_name} Target vs Essentia BPM by Genre')
     plt.xlabel('Target BPM')
@@ -118,7 +117,7 @@ for model_name, model_data in audio_model_files.items():
 
     # Librosa BPM plotting
     plt.subplot(1, 2, 2)
-    sns.scatterplot(data=tempo_df, x='target', y='_bpm_librosa', hue='genre', palette='viridis')
+    sns.scatterplot(data=tempo_df, x='target', y='bpm_librosa', hue='genre', palette='viridis')
     plt.plot(diagonal_line, diagonal_line, color='red', linestyle='--', label='Perfect Prediction')
     plt.title(f'{model_name} Target vs Librosa BPM by Genre')
     plt.xlabel('Target BPM')
@@ -142,7 +141,7 @@ for model_name, model_data in audio_model_files.items():
 
     # Box plot for Essentia BPM absolute errors by genre
     plt.subplot(1, 2, 1)
-    sns.boxplot(data=tempo_df, x='genre', y='_bpm_essentia_abs_error', hue='genre', palette='viridis', legend=False)
+    sns.boxplot(data=tempo_df, x='genre', y='bpm_essentia_abs_error', hue='genre', palette='viridis', legend=False)
     plt.title('Essentia BPM Absolute Error by Genre')
     plt.xlabel('Genre')
     plt.ylabel('Absolute Error (BPM)')
@@ -150,7 +149,7 @@ for model_name, model_data in audio_model_files.items():
 
     # Box plot for Librosa BPM absolute errors by genre
     plt.subplot(1, 2, 2)
-    sns.boxplot(data=tempo_df, x='genre', y='_bpm_librosa_abs_error', hue='genre', palette='viridis', legend=False)
+    sns.boxplot(data=tempo_df, x='genre', y='bpm_librosa_abs_error', hue='genre', palette='viridis', legend=False)
     plt.title('Librosa BPM Absolute Error by Genre')
     plt.xlabel('Genre')
     plt.ylabel('Absolute Error (BPM)')
@@ -165,7 +164,7 @@ for model_name, model_data in audio_model_files.items():
     key_df = model_data['proccessed_tasks']['key'].copy()
 
     key_df['target_root'] = key_df['target'].str.split(' ').str[0]
-    key_df['is_correct'] = (key_df['target_root'].str.strip() == key_df['essentia_key_scale_key'].str.strip()).astype(int)
+    key_df['is_correct'] = (key_df['target_root'].str.strip() == key_df['key'].str.strip()).astype(int)
 
     plt.figure(figsize=(10, 5))
     sns.barplot(data=key_df, x='genre', y='is_correct', palette='magma', errorbar=None)

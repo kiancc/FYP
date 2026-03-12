@@ -1,0 +1,3962 @@
+[
+    {
+        "id": "d8ad42dec39b430388f3655cfc570c25",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "71",
+        "prompt": "Generate a Pop song at 71 BPM.",
+        "file_id": "Pop_tempo_71_d8ad42dec39b430388f3655cfc570c25"
+    },
+    {
+        "id": "1d21b9c3f24440e0ad3b1d7d0e3ebd4e",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "75",
+        "prompt": "Generate a Pop song at 75 BPM.",
+        "file_id": "Pop_tempo_75_1d21b9c3f24440e0ad3b1d7d0e3ebd4e"
+    },
+    {
+        "id": "af767aab0ae8466e9457d388eac42e30",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "69",
+        "prompt": "Generate a Pop song at 69 BPM.",
+        "file_id": "Pop_tempo_69_af767aab0ae8466e9457d388eac42e30"
+    },
+    {
+        "id": "43f33cfd1bc844a4824032f8312c5592",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "73",
+        "prompt": "Generate a Pop song at 73 BPM.",
+        "file_id": "Pop_tempo_73_43f33cfd1bc844a4824032f8312c5592"
+    },
+    {
+        "id": "e96bfa84bac84f31962b26f5de41c890",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "107",
+        "prompt": "Generate a Pop song at 107 BPM.",
+        "file_id": "Pop_tempo_107_e96bfa84bac84f31962b26f5de41c890"
+    },
+    {
+        "id": "438f4d065759423ab794eedab65f3b95",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "114",
+        "prompt": "Generate a Pop song at 114 BPM.",
+        "file_id": "Pop_tempo_114_438f4d065759423ab794eedab65f3b95"
+    },
+    {
+        "id": "80d685f3b5a24783b91ac231d61a3b4a",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "100",
+        "prompt": "Generate a Pop song at 100 BPM.",
+        "file_id": "Pop_tempo_100_80d685f3b5a24783b91ac231d61a3b4a"
+    },
+    {
+        "id": "9cea87b2c93c4c65bb3b60fdb51460eb",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "113",
+        "prompt": "Generate a Pop song at 113 BPM.",
+        "file_id": "Pop_tempo_113_9cea87b2c93c4c65bb3b60fdb51460eb"
+    },
+    {
+        "id": "bbf4a1af4e694742a22582abb8bd4f12",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "156",
+        "prompt": "Generate a Pop song at 156 BPM.",
+        "file_id": "Pop_tempo_156_bbf4a1af4e694742a22582abb8bd4f12"
+    },
+    {
+        "id": "1e306b671b90457d97efe4c344cb8975",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "155",
+        "prompt": "Generate a Pop song at 155 BPM.",
+        "file_id": "Pop_tempo_155_1e306b671b90457d97efe4c344cb8975"
+    },
+    {
+        "id": "09527d85033f4c8ebea5147f9c72371d",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "180",
+        "prompt": "Generate a Pop song at 180 BPM.",
+        "file_id": "Pop_tempo_180_09527d85033f4c8ebea5147f9c72371d"
+    },
+    {
+        "id": "f8ec3164a348465599a8de0464c95f9f",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "154",
+        "prompt": "Generate a Pop song at 154 BPM.",
+        "file_id": "Pop_tempo_154_f8ec3164a348465599a8de0464c95f9f"
+    },
+    {
+        "id": "3017155e577145efb26381a69c9e4e81",
+        "genre": "Pop",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Pop song in C Major.",
+        "file_id": "Pop_key_C-Major_3017155e577145efb26381a69c9e4e81"
+    },
+    {
+        "id": "35a8beb23d8d403fad7f59476ecf4c0d",
+        "genre": "Pop",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Pop song in C Minor.",
+        "file_id": "Pop_key_C-Minor_35a8beb23d8d403fad7f59476ecf4c0d"
+    },
+    {
+        "id": "c8d803ea8fcd4977b6370fbe1d7239cb",
+        "genre": "Pop",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Pop song in D Major.",
+        "file_id": "Pop_key_D-Major_c8d803ea8fcd4977b6370fbe1d7239cb"
+    },
+    {
+        "id": "62fba9a37a454e8b91eda1f3a0c2020e",
+        "genre": "Pop",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Pop song in D Minor.",
+        "file_id": "Pop_key_D-Minor_62fba9a37a454e8b91eda1f3a0c2020e"
+    },
+    {
+        "id": "6bcab4bffe2a4b359fe9c10fc009bf23",
+        "genre": "Pop",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Pop song in F Major.",
+        "file_id": "Pop_key_F-Major_6bcab4bffe2a4b359fe9c10fc009bf23"
+    },
+    {
+        "id": "0ee3677097c3461daf10a89e73b575af",
+        "genre": "Pop",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Pop song in F Minor.",
+        "file_id": "Pop_key_F-Minor_0ee3677097c3461daf10a89e73b575af"
+    },
+    {
+        "id": "52c4d3a0f83b495ea4e8762052abd305",
+        "genre": "Pop",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Pop song in B Major.",
+        "file_id": "Pop_key_B-Major_52c4d3a0f83b495ea4e8762052abd305"
+    },
+    {
+        "id": "6b27cebb09fa44c5a7a6acc25ec25a81",
+        "genre": "Pop",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Pop song in B Minor.",
+        "file_id": "Pop_key_B-Minor_6b27cebb09fa44c5a7a6acc25ec25a81"
+    },
+    {
+        "id": "cc88e2a7b72f40109461553cd044b5ab",
+        "genre": "Pop",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Pop song in C# Major.",
+        "file_id": "Pop_key_C#-Major_cc88e2a7b72f40109461553cd044b5ab"
+    },
+    {
+        "id": "b4a7438edbfd4d14b8598b101fb429ed",
+        "genre": "Pop",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Pop song in C# Minor.",
+        "file_id": "Pop_key_C#-Minor_b4a7438edbfd4d14b8598b101fb429ed"
+    },
+    {
+        "id": "6010118594164ab68f89c2cfa27a02f8",
+        "genre": "Pop",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Pop song in F# Major.",
+        "file_id": "Pop_key_F#-Major_6010118594164ab68f89c2cfa27a02f8"
+    },
+    {
+        "id": "c607a5bc438f482b8f6b36314cf22749",
+        "genre": "Pop",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Pop song in F# Minor.",
+        "file_id": "Pop_key_F#-Minor_c607a5bc438f482b8f6b36314cf22749"
+    },
+    {
+        "id": "782fbfea09bd4a29a5811ebd6edd1e67",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Pop song in B Major that modulates to the fifth degree.",
+        "file_id": "Pop_key-modulation_to-the-fifth-degree_782fbfea09bd4a29a5811ebd6edd1e67"
+    },
+    {
+        "id": "19e5b00e71e54c91b3ca6f3b9180f254",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Pop song in C Minor that modulates to the fifth degree.",
+        "file_id": "Pop_key-modulation_to-the-fifth-degree_19e5b00e71e54c91b3ca6f3b9180f254"
+    },
+    {
+        "id": "cd977f484f0843358f4e945e444ac25e",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Pop song in B Major that modulates to the relative Minor.",
+        "file_id": "Pop_key-modulation_to-the-relative-Minor_cd977f484f0843358f4e945e444ac25e"
+    },
+    {
+        "id": "d198258a1d454c95a4418140f65db4f2",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Pop song in F Major that modulates to the relative Minor.",
+        "file_id": "Pop_key-modulation_to-the-relative-Minor_d198258a1d454c95a4418140f65db4f2"
+    },
+    {
+        "id": "95a40b4069fe4cdca0abe58c3491a824",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Pop song in C Minor that modulates to the relative Major.",
+        "file_id": "Pop_key-modulation_to-the-relative-Major_95a40b4069fe4cdca0abe58c3491a824"
+    },
+    {
+        "id": "8783b4c03bec412388da587a1653492b",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Pop song in F# Minor that modulates to the relative Major.",
+        "file_id": "Pop_key-modulation_to-the-relative-Major_8783b4c03bec412388da587a1653492b"
+    },
+    {
+        "id": "dae3ff36a51141b0ab94fd435b8655f5",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Pop song in C# Major that modulates to the parallel Minor.",
+        "file_id": "Pop_key-modulation_to-the-parallel-Minor_dae3ff36a51141b0ab94fd435b8655f5"
+    },
+    {
+        "id": "03bab853321d4010ab6c0de570eb1181",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Pop song in F# Major that modulates to the parallel Minor.",
+        "file_id": "Pop_key-modulation_to-the-parallel-Minor_03bab853321d4010ab6c0de570eb1181"
+    },
+    {
+        "id": "029142eeb3a846c488e44c6fbcb5fb65",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Pop song in C Minor that modulates to the parallel Major.",
+        "file_id": "Pop_key-modulation_to-the-parallel-Major_029142eeb3a846c488e44c6fbcb5fb65"
+    },
+    {
+        "id": "fb9006b2b1c54994b9363e88f3c60c54",
+        "genre": "Pop",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Pop song in F# Minor that modulates to the parallel Major.",
+        "file_id": "Pop_key-modulation_to-the-parallel-Major_fb9006b2b1c54994b9363e88f3c60c54"
+    },
+    {
+        "id": "a90bdff6a2ef4ff8bf165413e04e74f0",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "0.25 (78 to 97)",
+        "prompt": "Generate a Pop song at 78 BPM that increases to 97.",
+        "file_id": "Pop_tempo-change_0.25-(78-to-97)_a90bdff6a2ef4ff8bf165413e04e74f0"
+    },
+    {
+        "id": "65a90e21ec484dfea7d492d53e2c8ab9",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "0.25 (101 to 126)",
+        "prompt": "Generate a Pop song at 101 BPM that increases to 126.",
+        "file_id": "Pop_tempo-change_0.25-(101-to-126)_65a90e21ec484dfea7d492d53e2c8ab9"
+    },
+    {
+        "id": "495bef689b63462e97e608c73cd904d3",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "0.25 (158 to 197)",
+        "prompt": "Generate a Pop song at 158 BPM that increases to 197.",
+        "file_id": "Pop_tempo-change_0.25-(158-to-197)_495bef689b63462e97e608c73cd904d3"
+    },
+    {
+        "id": "eaea2f807be74f97a99b12f82aa2295d",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "-0.25 (62 to 46)",
+        "prompt": "Generate a Pop song at 62 BPM that decreases to 46.",
+        "file_id": "Pop_tempo-change_-0.25-(62-to-46)_eaea2f807be74f97a99b12f82aa2295d"
+    },
+    {
+        "id": "e1d126bdffbd4c6c8a51dd1387342dc9",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "-0.25 (126 to 94)",
+        "prompt": "Generate a Pop song at 126 BPM that decreases to 94.",
+        "file_id": "Pop_tempo-change_-0.25-(126-to-94)_e1d126bdffbd4c6c8a51dd1387342dc9"
+    },
+    {
+        "id": "0560ae91c5594b219a82c2dc44e3861d",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "-0.25 (140 to 105)",
+        "prompt": "Generate a Pop song at 140 BPM that decreases to 105.",
+        "file_id": "Pop_tempo-change_-0.25-(140-to-105)_0560ae91c5594b219a82c2dc44e3861d"
+    },
+    {
+        "id": "c2562a4f2cd847f9a38e91870e1fe215",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "0.5 (76 to 114)",
+        "prompt": "Generate a Pop song at 76 BPM that increases to 114.",
+        "file_id": "Pop_tempo-change_0.5-(76-to-114)_c2562a4f2cd847f9a38e91870e1fe215"
+    },
+    {
+        "id": "4e9982c4ab3d4c82a0ad19be7d4b65dc",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "0.5 (111 to 166)",
+        "prompt": "Generate a Pop song at 111 BPM that increases to 166.",
+        "file_id": "Pop_tempo-change_0.5-(111-to-166)_4e9982c4ab3d4c82a0ad19be7d4b65dc"
+    },
+    {
+        "id": "0c557f2d45af4c99a86d364db57c4f6d",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "0.5 (155 to 232)",
+        "prompt": "Generate a Pop song at 155 BPM that increases to 232.",
+        "file_id": "Pop_tempo-change_0.5-(155-to-232)_0c557f2d45af4c99a86d364db57c4f6d"
+    },
+    {
+        "id": "5a97f82df4e4491dacde88780d7a87e7",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "-0.5 (75 to 37)",
+        "prompt": "Generate a Pop song at 75 BPM that decreases to 37.",
+        "file_id": "Pop_tempo-change_-0.5-(75-to-37)_5a97f82df4e4491dacde88780d7a87e7"
+    },
+    {
+        "id": "b6afa49756cd48bab0c1762a6fbb7503",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "-0.5 (104 to 52)",
+        "prompt": "Generate a Pop song at 104 BPM that decreases to 52.",
+        "file_id": "Pop_tempo-change_-0.5-(104-to-52)_b6afa49756cd48bab0c1762a6fbb7503"
+    },
+    {
+        "id": "c692f9aeef2841fb8407dcfe1405beb4",
+        "genre": "Pop",
+        "task": "tempo change",
+        "target": "-0.5 (159 to 79)",
+        "prompt": "Generate a Pop song at 159 BPM that decreases to 79.",
+        "file_id": "Pop_tempo-change_-0.5-(159-to-79)_c692f9aeef2841fb8407dcfe1405beb4"
+    },
+    {
+        "id": "ebe50bcfedcc4b7e8fa7b458370b87ec",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Pop song with a 4/4 time signature at 69 BPM.",
+        "file_id": "Pop_time-signature_4/4_ebe50bcfedcc4b7e8fa7b458370b87ec"
+    },
+    {
+        "id": "de164616a15d4c97a037c48daeaaa2e6",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Pop song with a 4/4 time signature at 110 BPM.",
+        "file_id": "Pop_time-signature_4/4_de164616a15d4c97a037c48daeaaa2e6"
+    },
+    {
+        "id": "a1daf8e1978d4715a5ca485c57fa9670",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Pop song with a 4/4 time signature at 169 BPM.",
+        "file_id": "Pop_time-signature_4/4_a1daf8e1978d4715a5ca485c57fa9670"
+    },
+    {
+        "id": "90f2984fbc794da680dfa9bf6eea4768",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Pop song with a 3/4 time signature at 74 BPM.",
+        "file_id": "Pop_time-signature_3/4_90f2984fbc794da680dfa9bf6eea4768"
+    },
+    {
+        "id": "72bea0e17ea845a79928a83b3338dd33",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Pop song with a 3/4 time signature at 102 BPM.",
+        "file_id": "Pop_time-signature_3/4_72bea0e17ea845a79928a83b3338dd33"
+    },
+    {
+        "id": "88b709f5865c4bcea3282a44055cef29",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Pop song with a 3/4 time signature at 150 BPM.",
+        "file_id": "Pop_time-signature_3/4_88b709f5865c4bcea3282a44055cef29"
+    },
+    {
+        "id": "51def828b79b4a4bb3958e0b2f5c9173",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Pop song with a 5/4 time signature at 82 BPM.",
+        "file_id": "Pop_time-signature_5/4_51def828b79b4a4bb3958e0b2f5c9173"
+    },
+    {
+        "id": "890a5c2f4bff4209b8b1ca8f408c2a3d",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Pop song with a 5/4 time signature at 115 BPM.",
+        "file_id": "Pop_time-signature_5/4_890a5c2f4bff4209b8b1ca8f408c2a3d"
+    },
+    {
+        "id": "60676c9403e24f8584a31772815dd351",
+        "genre": "Pop",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Pop song with a 5/4 time signature at 140 BPM.",
+        "file_id": "Pop_time-signature_5/4_60676c9403e24f8584a31772815dd351"
+    },
+    {
+        "id": "d094ef4fd1d54d3ca02229cd534ca0c5",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "74",
+        "prompt": "Generate a Rock song at 74 BPM.",
+        "file_id": "Rock_tempo_74_d094ef4fd1d54d3ca02229cd534ca0c5"
+    },
+    {
+        "id": "02d2b373dd6d440d8cffe2bb3d4a135c",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "86",
+        "prompt": "Generate a Rock song at 86 BPM.",
+        "file_id": "Rock_tempo_86_02d2b373dd6d440d8cffe2bb3d4a135c"
+    },
+    {
+        "id": "8308b894e85b4c8888cc310d679b8253",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "87",
+        "prompt": "Generate a Rock song at 87 BPM.",
+        "file_id": "Rock_tempo_87_8308b894e85b4c8888cc310d679b8253"
+    },
+    {
+        "id": "d08694c7e8644b45906283e86471069a",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "75",
+        "prompt": "Generate a Rock song at 75 BPM.",
+        "file_id": "Rock_tempo_75_d08694c7e8644b45906283e86471069a"
+    },
+    {
+        "id": "fe0bb4119df04efdbd7bedd30f25eae9",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "100",
+        "prompt": "Generate a Rock song at 100 BPM.",
+        "file_id": "Rock_tempo_100_fe0bb4119df04efdbd7bedd30f25eae9"
+    },
+    {
+        "id": "32df362e8e1e42d5925cc8c1ce6b42bd",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "129",
+        "prompt": "Generate a Rock song at 129 BPM.",
+        "file_id": "Rock_tempo_129_32df362e8e1e42d5925cc8c1ce6b42bd"
+    },
+    {
+        "id": "a28c04cb43d74b699e3d76211dc99b00",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "126",
+        "prompt": "Generate a Rock song at 126 BPM.",
+        "file_id": "Rock_tempo_126_a28c04cb43d74b699e3d76211dc99b00"
+    },
+    {
+        "id": "2a466974c722446da8e51a5459e721e7",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "115",
+        "prompt": "Generate a Rock song at 115 BPM.",
+        "file_id": "Rock_tempo_115_2a466974c722446da8e51a5459e721e7"
+    },
+    {
+        "id": "a24c4d7fb05545158d3f6bc4dd09404d",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "147",
+        "prompt": "Generate a Rock song at 147 BPM.",
+        "file_id": "Rock_tempo_147_a24c4d7fb05545158d3f6bc4dd09404d"
+    },
+    {
+        "id": "3e70524132154dc9b7701a14bc7bb529",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "169",
+        "prompt": "Generate a Rock song at 169 BPM.",
+        "file_id": "Rock_tempo_169_3e70524132154dc9b7701a14bc7bb529"
+    },
+    {
+        "id": "6292df53cfbb488ba5772770c1158898",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "179",
+        "prompt": "Generate a Rock song at 179 BPM.",
+        "file_id": "Rock_tempo_179_6292df53cfbb488ba5772770c1158898"
+    },
+    {
+        "id": "3dcd8aa2a1aa48c5a3ef49c51ecd80e7",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "145",
+        "prompt": "Generate a Rock song at 145 BPM.",
+        "file_id": "Rock_tempo_145_3dcd8aa2a1aa48c5a3ef49c51ecd80e7"
+    },
+    {
+        "id": "dcdd4ce81f234f3d9dbf742de79d7f2b",
+        "genre": "Rock",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Rock song in C Major.",
+        "file_id": "Rock_key_C-Major_dcdd4ce81f234f3d9dbf742de79d7f2b"
+    },
+    {
+        "id": "36c517a050d24d7097c20cdf9c4accf1",
+        "genre": "Rock",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Rock song in C Minor.",
+        "file_id": "Rock_key_C-Minor_36c517a050d24d7097c20cdf9c4accf1"
+    },
+    {
+        "id": "b02c5755cbfe426c89f0d00118541bc8",
+        "genre": "Rock",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Rock song in D Major.",
+        "file_id": "Rock_key_D-Major_b02c5755cbfe426c89f0d00118541bc8"
+    },
+    {
+        "id": "5d6e247cf2ed4c9b833934839c7905ef",
+        "genre": "Rock",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Rock song in D Minor.",
+        "file_id": "Rock_key_D-Minor_5d6e247cf2ed4c9b833934839c7905ef"
+    },
+    {
+        "id": "3b4ec034181c492b95fcad84ff75d0ba",
+        "genre": "Rock",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Rock song in F Major.",
+        "file_id": "Rock_key_F-Major_3b4ec034181c492b95fcad84ff75d0ba"
+    },
+    {
+        "id": "66360d860de94b82afc224054a3806df",
+        "genre": "Rock",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Rock song in F Minor.",
+        "file_id": "Rock_key_F-Minor_66360d860de94b82afc224054a3806df"
+    },
+    {
+        "id": "141b5430c5ca40bd9e686343d6d2f8f1",
+        "genre": "Rock",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Rock song in B Major.",
+        "file_id": "Rock_key_B-Major_141b5430c5ca40bd9e686343d6d2f8f1"
+    },
+    {
+        "id": "c42cf5607f704f92bc89b13bab265cd3",
+        "genre": "Rock",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Rock song in B Minor.",
+        "file_id": "Rock_key_B-Minor_c42cf5607f704f92bc89b13bab265cd3"
+    },
+    {
+        "id": "a617d6b2c6914517af7babd9580206b8",
+        "genre": "Rock",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Rock song in C# Major.",
+        "file_id": "Rock_key_C#-Major_a617d6b2c6914517af7babd9580206b8"
+    },
+    {
+        "id": "a83e853dffb34e3bb34c4af02be23dfa",
+        "genre": "Rock",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Rock song in C# Minor.",
+        "file_id": "Rock_key_C#-Minor_a83e853dffb34e3bb34c4af02be23dfa"
+    },
+    {
+        "id": "3bd14ba4c97d4c548b2addcb1e4bcfe2",
+        "genre": "Rock",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Rock song in F# Major.",
+        "file_id": "Rock_key_F#-Major_3bd14ba4c97d4c548b2addcb1e4bcfe2"
+    },
+    {
+        "id": "ab3cb8a378e040f5a97846402d44ca3b",
+        "genre": "Rock",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Rock song in F# Minor.",
+        "file_id": "Rock_key_F#-Minor_ab3cb8a378e040f5a97846402d44ca3b"
+    },
+    {
+        "id": "54ea94d0a7ef42b3a6202b4b15891e45",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Rock song in B Major that modulates to the fifth degree.",
+        "file_id": "Rock_key-modulation_to-the-fifth-degree_54ea94d0a7ef42b3a6202b4b15891e45"
+    },
+    {
+        "id": "2b49c6213b404f2fb15c7a8395ed16bb",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Rock song in C Minor that modulates to the fifth degree.",
+        "file_id": "Rock_key-modulation_to-the-fifth-degree_2b49c6213b404f2fb15c7a8395ed16bb"
+    },
+    {
+        "id": "a3bd2ae38d9440bf9aad9f5eeb15b4b9",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Rock song in D Major that modulates to the relative Minor.",
+        "file_id": "Rock_key-modulation_to-the-relative-Minor_a3bd2ae38d9440bf9aad9f5eeb15b4b9"
+    },
+    {
+        "id": "aeffcaafec5c4efc9822bc5842f83c3d",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Rock song in C Major that modulates to the relative Minor.",
+        "file_id": "Rock_key-modulation_to-the-relative-Minor_aeffcaafec5c4efc9822bc5842f83c3d"
+    },
+    {
+        "id": "40626dbed76047ea8800a8462aca5cf7",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Rock song in F# Minor that modulates to the relative Major.",
+        "file_id": "Rock_key-modulation_to-the-relative-Major_40626dbed76047ea8800a8462aca5cf7"
+    },
+    {
+        "id": "7e314301e6c7417791560581e722e25a",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Rock song in B Minor that modulates to the relative Major.",
+        "file_id": "Rock_key-modulation_to-the-relative-Major_7e314301e6c7417791560581e722e25a"
+    },
+    {
+        "id": "4a83bd0af5f640fe988722a7b862d0cc",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Rock song in F Major that modulates to the parallel Minor.",
+        "file_id": "Rock_key-modulation_to-the-parallel-Minor_4a83bd0af5f640fe988722a7b862d0cc"
+    },
+    {
+        "id": "693e4c529f224740a2debaca0dee6c89",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Rock song in B Major that modulates to the parallel Minor.",
+        "file_id": "Rock_key-modulation_to-the-parallel-Minor_693e4c529f224740a2debaca0dee6c89"
+    },
+    {
+        "id": "2cf26c19fa824a64a3b4b3692751f914",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Rock song in D Minor that modulates to the parallel Major.",
+        "file_id": "Rock_key-modulation_to-the-parallel-Major_2cf26c19fa824a64a3b4b3692751f914"
+    },
+    {
+        "id": "c0f0a7df7d8f43509b27500473628051",
+        "genre": "Rock",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Rock song in B Minor that modulates to the parallel Major.",
+        "file_id": "Rock_key-modulation_to-the-parallel-Major_c0f0a7df7d8f43509b27500473628051"
+    },
+    {
+        "id": "cced96265de44a9c93d2e607ca2e7d48",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "0.25 (90 to 112)",
+        "prompt": "Generate a Rock song at 90 BPM that increases to 112.",
+        "file_id": "Rock_tempo-change_0.25-(90-to-112)_cced96265de44a9c93d2e607ca2e7d48"
+    },
+    {
+        "id": "1c5e4ef7c7ea442480a2617aad3e36dc",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "0.25 (127 to 158)",
+        "prompt": "Generate a Rock song at 127 BPM that increases to 158.",
+        "file_id": "Rock_tempo-change_0.25-(127-to-158)_1c5e4ef7c7ea442480a2617aad3e36dc"
+    },
+    {
+        "id": "442ad237f3644162801e01a24a186ac0",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "0.25 (165 to 206)",
+        "prompt": "Generate a Rock song at 165 BPM that increases to 206.",
+        "file_id": "Rock_tempo-change_0.25-(165-to-206)_442ad237f3644162801e01a24a186ac0"
+    },
+    {
+        "id": "4bcae8674a0b49b38955d8aaad67d9dc",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "-0.25 (64 to 48)",
+        "prompt": "Generate a Rock song at 64 BPM that decreases to 48.",
+        "file_id": "Rock_tempo-change_-0.25-(64-to-48)_4bcae8674a0b49b38955d8aaad67d9dc"
+    },
+    {
+        "id": "2682a3feef9642ed9745754c5f8ed1cf",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "-0.25 (128 to 96)",
+        "prompt": "Generate a Rock song at 128 BPM that decreases to 96.",
+        "file_id": "Rock_tempo-change_-0.25-(128-to-96)_2682a3feef9642ed9745754c5f8ed1cf"
+    },
+    {
+        "id": "11a583e4e0664ff398ab31f8e430e645",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "-0.25 (180 to 135)",
+        "prompt": "Generate a Rock song at 180 BPM that decreases to 135.",
+        "file_id": "Rock_tempo-change_-0.25-(180-to-135)_11a583e4e0664ff398ab31f8e430e645"
+    },
+    {
+        "id": "5cdeb18e60374f74aa64758ef4337638",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "0.5 (82 to 123)",
+        "prompt": "Generate a Rock song at 82 BPM that increases to 123.",
+        "file_id": "Rock_tempo-change_0.5-(82-to-123)_5cdeb18e60374f74aa64758ef4337638"
+    },
+    {
+        "id": "c1e934e397a649c3b78314816d13ae5c",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "0.5 (108 to 162)",
+        "prompt": "Generate a Rock song at 108 BPM that increases to 162.",
+        "file_id": "Rock_tempo-change_0.5-(108-to-162)_c1e934e397a649c3b78314816d13ae5c"
+    },
+    {
+        "id": "e0eaf78222924e439614abab9a67e577",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "0.5 (155 to 232)",
+        "prompt": "Generate a Rock song at 155 BPM that increases to 232.",
+        "file_id": "Rock_tempo-change_0.5-(155-to-232)_e0eaf78222924e439614abab9a67e577"
+    },
+    {
+        "id": "96726159cb634ba8af9adfa3d1e0cafe",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "-0.5 (65 to 32)",
+        "prompt": "Generate a Rock song at 65 BPM that decreases to 32.",
+        "file_id": "Rock_tempo-change_-0.5-(65-to-32)_96726159cb634ba8af9adfa3d1e0cafe"
+    },
+    {
+        "id": "4e035ff4cbef4a8f86959ae417016ac1",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "-0.5 (118 to 59)",
+        "prompt": "Generate a Rock song at 118 BPM that decreases to 59.",
+        "file_id": "Rock_tempo-change_-0.5-(118-to-59)_4e035ff4cbef4a8f86959ae417016ac1"
+    },
+    {
+        "id": "8841a50a0a814f009f62afe560bdfb31",
+        "genre": "Rock",
+        "task": "tempo change",
+        "target": "-0.5 (140 to 70)",
+        "prompt": "Generate a Rock song at 140 BPM that decreases to 70.",
+        "file_id": "Rock_tempo-change_-0.5-(140-to-70)_8841a50a0a814f009f62afe560bdfb31"
+    },
+    {
+        "id": "6dd44260eb03420a8068a6653d006db8",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Rock song with a 4/4 time signature at 67 BPM.",
+        "file_id": "Rock_time-signature_4/4_6dd44260eb03420a8068a6653d006db8"
+    },
+    {
+        "id": "7661b68651314e6fa805a50b6f218f4c",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Rock song with a 4/4 time signature at 116 BPM.",
+        "file_id": "Rock_time-signature_4/4_7661b68651314e6fa805a50b6f218f4c"
+    },
+    {
+        "id": "0dae0104e8bb4ef8ba4db385dd2cf868",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Rock song with a 4/4 time signature at 155 BPM.",
+        "file_id": "Rock_time-signature_4/4_0dae0104e8bb4ef8ba4db385dd2cf868"
+    },
+    {
+        "id": "3f9ca625a131473f9155d348b29b8da6",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Rock song with a 3/4 time signature at 89 BPM.",
+        "file_id": "Rock_time-signature_3/4_3f9ca625a131473f9155d348b29b8da6"
+    },
+    {
+        "id": "f65ee510fde144e691489e871c7364e9",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Rock song with a 3/4 time signature at 103 BPM.",
+        "file_id": "Rock_time-signature_3/4_f65ee510fde144e691489e871c7364e9"
+    },
+    {
+        "id": "50e385e45274486c98f41d5ad549e1be",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Rock song with a 3/4 time signature at 146 BPM.",
+        "file_id": "Rock_time-signature_3/4_50e385e45274486c98f41d5ad549e1be"
+    },
+    {
+        "id": "773903520fc24fc49530a2408c73e6eb",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Rock song with a 5/4 time signature at 80 BPM.",
+        "file_id": "Rock_time-signature_5/4_773903520fc24fc49530a2408c73e6eb"
+    },
+    {
+        "id": "125893f8008443ac91e9c754fb85f9a3",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Rock song with a 5/4 time signature at 104 BPM.",
+        "file_id": "Rock_time-signature_5/4_125893f8008443ac91e9c754fb85f9a3"
+    },
+    {
+        "id": "93e7fd2009f342b4a39bfb988f596294",
+        "genre": "Rock",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Rock song with a 5/4 time signature at 157 BPM.",
+        "file_id": "Rock_time-signature_5/4_93e7fd2009f342b4a39bfb988f596294"
+    },
+    {
+        "id": "a37bce231a5a4e79bc4798226f1fc590",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "72",
+        "prompt": "Generate a Jazz song at 72 BPM.",
+        "file_id": "Jazz_tempo_72_a37bce231a5a4e79bc4798226f1fc590"
+    },
+    {
+        "id": "5a1b6cefc012483ab409633ef6d3335b",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "73",
+        "prompt": "Generate a Jazz song at 73 BPM.",
+        "file_id": "Jazz_tempo_73_5a1b6cefc012483ab409633ef6d3335b"
+    },
+    {
+        "id": "9dbdd196fa414fc5a9d17bb8d8a8fca1",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "61",
+        "prompt": "Generate a Jazz song at 61 BPM.",
+        "file_id": "Jazz_tempo_61_9dbdd196fa414fc5a9d17bb8d8a8fca1"
+    },
+    {
+        "id": "8dd6148a889745dc94df4fcfed469aa9",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "74",
+        "prompt": "Generate a Jazz song at 74 BPM.",
+        "file_id": "Jazz_tempo_74_8dd6148a889745dc94df4fcfed469aa9"
+    },
+    {
+        "id": "84d497bd35394fb4a1663ac347d8c92e",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "128",
+        "prompt": "Generate a Jazz song at 128 BPM.",
+        "file_id": "Jazz_tempo_128_84d497bd35394fb4a1663ac347d8c92e"
+    },
+    {
+        "id": "7cb58655047f458d8417b947f9f97b0f",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "123",
+        "prompt": "Generate a Jazz song at 123 BPM.",
+        "file_id": "Jazz_tempo_123_7cb58655047f458d8417b947f9f97b0f"
+    },
+    {
+        "id": "8ca9ad2909ea4cee9020cbbd66038833",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "114",
+        "prompt": "Generate a Jazz song at 114 BPM.",
+        "file_id": "Jazz_tempo_114_8ca9ad2909ea4cee9020cbbd66038833"
+    },
+    {
+        "id": "dfe07f5ad88f4ef3a980ddeec4f2697f",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "108",
+        "prompt": "Generate a Jazz song at 108 BPM.",
+        "file_id": "Jazz_tempo_108_dfe07f5ad88f4ef3a980ddeec4f2697f"
+    },
+    {
+        "id": "ef67af30540a463e93cabf3b42c6c6c9",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "142",
+        "prompt": "Generate a Jazz song at 142 BPM.",
+        "file_id": "Jazz_tempo_142_ef67af30540a463e93cabf3b42c6c6c9"
+    },
+    {
+        "id": "7ae7bd64f359416d97e288c9cdc3b89e",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "143",
+        "prompt": "Generate a Jazz song at 143 BPM.",
+        "file_id": "Jazz_tempo_143_7ae7bd64f359416d97e288c9cdc3b89e"
+    },
+    {
+        "id": "93611215ce9c498c9a8b7446488d4704",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "141",
+        "prompt": "Generate a Jazz song at 141 BPM.",
+        "file_id": "Jazz_tempo_141_93611215ce9c498c9a8b7446488d4704"
+    },
+    {
+        "id": "4b4f6d9d83af4304b91bea4886b17d55",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "152",
+        "prompt": "Generate a Jazz song at 152 BPM.",
+        "file_id": "Jazz_tempo_152_4b4f6d9d83af4304b91bea4886b17d55"
+    },
+    {
+        "id": "1fd8c704e6af42d7939cb42c19d9356b",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Jazz song in C Major.",
+        "file_id": "Jazz_key_C-Major_1fd8c704e6af42d7939cb42c19d9356b"
+    },
+    {
+        "id": "68a541a4568c4a27a1927299f7f20283",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Jazz song in C Minor.",
+        "file_id": "Jazz_key_C-Minor_68a541a4568c4a27a1927299f7f20283"
+    },
+    {
+        "id": "b749e481dd514d6db74d978a583fa5e7",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Jazz song in D Major.",
+        "file_id": "Jazz_key_D-Major_b749e481dd514d6db74d978a583fa5e7"
+    },
+    {
+        "id": "dcd89649fb5641a0a9b017b604afd7c6",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Jazz song in D Minor.",
+        "file_id": "Jazz_key_D-Minor_dcd89649fb5641a0a9b017b604afd7c6"
+    },
+    {
+        "id": "b5586bce2c3440c8bdf994bb68c0f72e",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Jazz song in F Major.",
+        "file_id": "Jazz_key_F-Major_b5586bce2c3440c8bdf994bb68c0f72e"
+    },
+    {
+        "id": "6319a357505f475da7a9ca5ef4605ae5",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Jazz song in F Minor.",
+        "file_id": "Jazz_key_F-Minor_6319a357505f475da7a9ca5ef4605ae5"
+    },
+    {
+        "id": "2d6fcd4791ef48d2971dd2172aa4919a",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Jazz song in B Major.",
+        "file_id": "Jazz_key_B-Major_2d6fcd4791ef48d2971dd2172aa4919a"
+    },
+    {
+        "id": "3f1011a52b9d487d9b00b31dfe2919e2",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Jazz song in B Minor.",
+        "file_id": "Jazz_key_B-Minor_3f1011a52b9d487d9b00b31dfe2919e2"
+    },
+    {
+        "id": "58a60ccef7d94dddb329a19914cc94cb",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Jazz song in C# Major.",
+        "file_id": "Jazz_key_C#-Major_58a60ccef7d94dddb329a19914cc94cb"
+    },
+    {
+        "id": "9a747bf3859440888f0fe6638791bed2",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Jazz song in C# Minor.",
+        "file_id": "Jazz_key_C#-Minor_9a747bf3859440888f0fe6638791bed2"
+    },
+    {
+        "id": "021afe73ede34f3da1fcb289bbf4c79c",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Jazz song in F# Major.",
+        "file_id": "Jazz_key_F#-Major_021afe73ede34f3da1fcb289bbf4c79c"
+    },
+    {
+        "id": "9435242532d34ea2acb6108854855f6a",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Jazz song in F# Minor.",
+        "file_id": "Jazz_key_F#-Minor_9435242532d34ea2acb6108854855f6a"
+    },
+    {
+        "id": "adee4e3c12d54cc7957a488012644da5",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Jazz song in F Minor that modulates to the fifth degree.",
+        "file_id": "Jazz_key-modulation_to-the-fifth-degree_adee4e3c12d54cc7957a488012644da5"
+    },
+    {
+        "id": "6ac62878233b4cd09f832dd46646b1bd",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Jazz song in C# Minor that modulates to the fifth degree.",
+        "file_id": "Jazz_key-modulation_to-the-fifth-degree_6ac62878233b4cd09f832dd46646b1bd"
+    },
+    {
+        "id": "24fec1e856ec41d39a0e40911838bb38",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Jazz song in F# Major that modulates to the relative Minor.",
+        "file_id": "Jazz_key-modulation_to-the-relative-Minor_24fec1e856ec41d39a0e40911838bb38"
+    },
+    {
+        "id": "adec01bd4e214681a62466ae0451654b",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Jazz song in C# Major that modulates to the relative Minor.",
+        "file_id": "Jazz_key-modulation_to-the-relative-Minor_adec01bd4e214681a62466ae0451654b"
+    },
+    {
+        "id": "f1174aa45b6c49dfb1be17a8d3f75cf3",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Jazz song in F Minor that modulates to the relative Major.",
+        "file_id": "Jazz_key-modulation_to-the-relative-Major_f1174aa45b6c49dfb1be17a8d3f75cf3"
+    },
+    {
+        "id": "18473fbfe18241c291b098c523f46f24",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Jazz song in F# Minor that modulates to the relative Major.",
+        "file_id": "Jazz_key-modulation_to-the-relative-Major_18473fbfe18241c291b098c523f46f24"
+    },
+    {
+        "id": "4d5f0faf32b44384883aed4e409ca0b3",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Jazz song in F Major that modulates to the parallel Minor.",
+        "file_id": "Jazz_key-modulation_to-the-parallel-Minor_4d5f0faf32b44384883aed4e409ca0b3"
+    },
+    {
+        "id": "9c6d7549af98402087dec811bbcf3608",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Jazz song in C Major that modulates to the parallel Minor.",
+        "file_id": "Jazz_key-modulation_to-the-parallel-Minor_9c6d7549af98402087dec811bbcf3608"
+    },
+    {
+        "id": "2e15e52cbf06421991a5b7e361ab7f10",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Jazz song in F# Minor that modulates to the parallel Major.",
+        "file_id": "Jazz_key-modulation_to-the-parallel-Major_2e15e52cbf06421991a5b7e361ab7f10"
+    },
+    {
+        "id": "01847a9e3ccb4a4db1a0c50f70a799cf",
+        "genre": "Jazz",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Jazz song in C Minor that modulates to the parallel Major.",
+        "file_id": "Jazz_key-modulation_to-the-parallel-Major_01847a9e3ccb4a4db1a0c50f70a799cf"
+    },
+    {
+        "id": "0f0e6045f4c44eb18ee9018e788fd0a5",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "0.25 (81 to 101)",
+        "prompt": "Generate a Jazz song at 81 BPM that increases to 101.",
+        "file_id": "Jazz_tempo-change_0.25-(81-to-101)_0f0e6045f4c44eb18ee9018e788fd0a5"
+    },
+    {
+        "id": "19d7fef878494a4883ce8dd5c6767681",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "0.25 (113 to 141)",
+        "prompt": "Generate a Jazz song at 113 BPM that increases to 141.",
+        "file_id": "Jazz_tempo-change_0.25-(113-to-141)_19d7fef878494a4883ce8dd5c6767681"
+    },
+    {
+        "id": "18a413f9ba4e4e798951a4db935c90de",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "0.25 (141 to 176)",
+        "prompt": "Generate a Jazz song at 141 BPM that increases to 176.",
+        "file_id": "Jazz_tempo-change_0.25-(141-to-176)_18a413f9ba4e4e798951a4db935c90de"
+    },
+    {
+        "id": "354007c93ee0493b9c437be2729683d3",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "-0.25 (75 to 56)",
+        "prompt": "Generate a Jazz song at 75 BPM that decreases to 56.",
+        "file_id": "Jazz_tempo-change_-0.25-(75-to-56)_354007c93ee0493b9c437be2729683d3"
+    },
+    {
+        "id": "46eed6fe27124ac6aee00cb4404070f8",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "-0.25 (109 to 81)",
+        "prompt": "Generate a Jazz song at 109 BPM that decreases to 81.",
+        "file_id": "Jazz_tempo-change_-0.25-(109-to-81)_46eed6fe27124ac6aee00cb4404070f8"
+    },
+    {
+        "id": "8047c78ff7984b83bba814d4b96fca2d",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "-0.25 (176 to 132)",
+        "prompt": "Generate a Jazz song at 176 BPM that decreases to 132.",
+        "file_id": "Jazz_tempo-change_-0.25-(176-to-132)_8047c78ff7984b83bba814d4b96fca2d"
+    },
+    {
+        "id": "a553620e5ddf41adaabf33f53d9621f5",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "0.5 (69 to 103)",
+        "prompt": "Generate a Jazz song at 69 BPM that increases to 103.",
+        "file_id": "Jazz_tempo-change_0.5-(69-to-103)_a553620e5ddf41adaabf33f53d9621f5"
+    },
+    {
+        "id": "f1c3f82441544bfa82d710e4c77cc63e",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "0.5 (103 to 154)",
+        "prompt": "Generate a Jazz song at 103 BPM that increases to 154.",
+        "file_id": "Jazz_tempo-change_0.5-(103-to-154)_f1c3f82441544bfa82d710e4c77cc63e"
+    },
+    {
+        "id": "6176947f57354ae38b32df11e784e264",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "0.5 (144 to 216)",
+        "prompt": "Generate a Jazz song at 144 BPM that increases to 216.",
+        "file_id": "Jazz_tempo-change_0.5-(144-to-216)_6176947f57354ae38b32df11e784e264"
+    },
+    {
+        "id": "a6c912add6cb4a11a8cbb08dc1d6b6b2",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "-0.5 (84 to 42)",
+        "prompt": "Generate a Jazz song at 84 BPM that decreases to 42.",
+        "file_id": "Jazz_tempo-change_-0.5-(84-to-42)_a6c912add6cb4a11a8cbb08dc1d6b6b2"
+    },
+    {
+        "id": "c1a3321fbc7049baac6f0fa6d4bab1c1",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "-0.5 (125 to 62)",
+        "prompt": "Generate a Jazz song at 125 BPM that decreases to 62.",
+        "file_id": "Jazz_tempo-change_-0.5-(125-to-62)_c1a3321fbc7049baac6f0fa6d4bab1c1"
+    },
+    {
+        "id": "06d82769df6e4073b1fc57109256731c",
+        "genre": "Jazz",
+        "task": "tempo change",
+        "target": "-0.5 (159 to 79)",
+        "prompt": "Generate a Jazz song at 159 BPM that decreases to 79.",
+        "file_id": "Jazz_tempo-change_-0.5-(159-to-79)_06d82769df6e4073b1fc57109256731c"
+    },
+    {
+        "id": "416fb985321a46d7b477844ac3dc5523",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Jazz song with a 4/4 time signature at 83 BPM.",
+        "file_id": "Jazz_time-signature_4/4_416fb985321a46d7b477844ac3dc5523"
+    },
+    {
+        "id": "65211431442b4cdb92ff23d65c42a6d3",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Jazz song with a 4/4 time signature at 115 BPM.",
+        "file_id": "Jazz_time-signature_4/4_65211431442b4cdb92ff23d65c42a6d3"
+    },
+    {
+        "id": "eb5250d3123d40619bd153656f03ac1a",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Jazz song with a 4/4 time signature at 155 BPM.",
+        "file_id": "Jazz_time-signature_4/4_eb5250d3123d40619bd153656f03ac1a"
+    },
+    {
+        "id": "c2f4998acc3e42c28b7b65756a08790c",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Jazz song with a 3/4 time signature at 77 BPM.",
+        "file_id": "Jazz_time-signature_3/4_c2f4998acc3e42c28b7b65756a08790c"
+    },
+    {
+        "id": "59e0f4543c33449cb818396eb152f06c",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Jazz song with a 3/4 time signature at 120 BPM.",
+        "file_id": "Jazz_time-signature_3/4_59e0f4543c33449cb818396eb152f06c"
+    },
+    {
+        "id": "74fcbbb1be4a44e68c794b5e3cc20824",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Jazz song with a 3/4 time signature at 170 BPM.",
+        "file_id": "Jazz_time-signature_3/4_74fcbbb1be4a44e68c794b5e3cc20824"
+    },
+    {
+        "id": "2ca52dd24bc54578afaabd133114fd4a",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Jazz song with a 5/4 time signature at 66 BPM.",
+        "file_id": "Jazz_time-signature_5/4_2ca52dd24bc54578afaabd133114fd4a"
+    },
+    {
+        "id": "4ce179bc305f433cbf59e51c7a1fab80",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Jazz song with a 5/4 time signature at 118 BPM.",
+        "file_id": "Jazz_time-signature_5/4_4ce179bc305f433cbf59e51c7a1fab80"
+    },
+    {
+        "id": "26bd1f97e1c84623bedb17eb02b92ea8",
+        "genre": "Jazz",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Jazz song with a 5/4 time signature at 168 BPM.",
+        "file_id": "Jazz_time-signature_5/4_26bd1f97e1c84623bedb17eb02b92ea8"
+    },
+    {
+        "id": "7456e0eaed0a402aad5d6a6b24e98cba",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "76",
+        "prompt": "Generate a Electronic song at 76 BPM.",
+        "file_id": "Electronic_tempo_76_7456e0eaed0a402aad5d6a6b24e98cba"
+    },
+    {
+        "id": "18fab1dcb3074c4ba2a91160d73ab01c",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "64",
+        "prompt": "Generate a Electronic song at 64 BPM.",
+        "file_id": "Electronic_tempo_64_18fab1dcb3074c4ba2a91160d73ab01c"
+    },
+    {
+        "id": "dc217e81fea74cf5b990738e7bb93b87",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "75",
+        "prompt": "Generate a Electronic song at 75 BPM.",
+        "file_id": "Electronic_tempo_75_dc217e81fea74cf5b990738e7bb93b87"
+    },
+    {
+        "id": "a7c69b8300134d918b5c3cfa98a8e4ac",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "77",
+        "prompt": "Generate a Electronic song at 77 BPM.",
+        "file_id": "Electronic_tempo_77_a7c69b8300134d918b5c3cfa98a8e4ac"
+    },
+    {
+        "id": "aeae5bc00d1a4dc5b1f4303e92d4b74a",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "102",
+        "prompt": "Generate a Electronic song at 102 BPM.",
+        "file_id": "Electronic_tempo_102_aeae5bc00d1a4dc5b1f4303e92d4b74a"
+    },
+    {
+        "id": "50d41eedf68642cb802872644b39a145",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "124",
+        "prompt": "Generate a Electronic song at 124 BPM.",
+        "file_id": "Electronic_tempo_124_50d41eedf68642cb802872644b39a145"
+    },
+    {
+        "id": "ec87a20b370f48bea97f447cc1a5cc76",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "120",
+        "prompt": "Generate a Electronic song at 120 BPM.",
+        "file_id": "Electronic_tempo_120_ec87a20b370f48bea97f447cc1a5cc76"
+    },
+    {
+        "id": "5d9965f3744847a4a5c85dd7d2d1d8b2",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "121",
+        "prompt": "Generate a Electronic song at 121 BPM.",
+        "file_id": "Electronic_tempo_121_5d9965f3744847a4a5c85dd7d2d1d8b2"
+    },
+    {
+        "id": "6d4438955687435f982a7df9d1ed2354",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "146",
+        "prompt": "Generate a Electronic song at 146 BPM.",
+        "file_id": "Electronic_tempo_146_6d4438955687435f982a7df9d1ed2354"
+    },
+    {
+        "id": "e9274521b8954de7928e15c3875de6ab",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "160",
+        "prompt": "Generate a Electronic song at 160 BPM.",
+        "file_id": "Electronic_tempo_160_e9274521b8954de7928e15c3875de6ab"
+    },
+    {
+        "id": "c776dabe7abf45a39b27b83a83da73a3",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "143",
+        "prompt": "Generate a Electronic song at 143 BPM.",
+        "file_id": "Electronic_tempo_143_c776dabe7abf45a39b27b83a83da73a3"
+    },
+    {
+        "id": "a2d138c8088d4955a0813191e5ecf1cd",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "169",
+        "prompt": "Generate a Electronic song at 169 BPM.",
+        "file_id": "Electronic_tempo_169_a2d138c8088d4955a0813191e5ecf1cd"
+    },
+    {
+        "id": "eb1447a7475f49ce8fd69531e18e066c",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Electronic song in C Major.",
+        "file_id": "Electronic_key_C-Major_eb1447a7475f49ce8fd69531e18e066c"
+    },
+    {
+        "id": "db3e1f8d55ae46e8ba2a19c6815a943e",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Electronic song in C Minor.",
+        "file_id": "Electronic_key_C-Minor_db3e1f8d55ae46e8ba2a19c6815a943e"
+    },
+    {
+        "id": "0672bfb3e21e4195975b057003cbf1d3",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Electronic song in D Major.",
+        "file_id": "Electronic_key_D-Major_0672bfb3e21e4195975b057003cbf1d3"
+    },
+    {
+        "id": "9faaf11d317b4216a3b14608d66e7a1b",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Electronic song in D Minor.",
+        "file_id": "Electronic_key_D-Minor_9faaf11d317b4216a3b14608d66e7a1b"
+    },
+    {
+        "id": "da705aa497074e63a42f4fb684dc738a",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Electronic song in F Major.",
+        "file_id": "Electronic_key_F-Major_da705aa497074e63a42f4fb684dc738a"
+    },
+    {
+        "id": "17ff288c27fb4c6c95295c9c11556e05",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Electronic song in F Minor.",
+        "file_id": "Electronic_key_F-Minor_17ff288c27fb4c6c95295c9c11556e05"
+    },
+    {
+        "id": "d59e6a6b2e8a430897371074c6d6d3c1",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Electronic song in B Major.",
+        "file_id": "Electronic_key_B-Major_d59e6a6b2e8a430897371074c6d6d3c1"
+    },
+    {
+        "id": "38a3a9cafe794b9bae466a180305385c",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Electronic song in B Minor.",
+        "file_id": "Electronic_key_B-Minor_38a3a9cafe794b9bae466a180305385c"
+    },
+    {
+        "id": "e79adc62606249adae955fe7727dcf9d",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Electronic song in C# Major.",
+        "file_id": "Electronic_key_C#-Major_e79adc62606249adae955fe7727dcf9d"
+    },
+    {
+        "id": "66aed40027fb4578a4c313353c2b8b36",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Electronic song in C# Minor.",
+        "file_id": "Electronic_key_C#-Minor_66aed40027fb4578a4c313353c2b8b36"
+    },
+    {
+        "id": "53f09dea43b54596974db675bb1edf58",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Electronic song in F# Major.",
+        "file_id": "Electronic_key_F#-Major_53f09dea43b54596974db675bb1edf58"
+    },
+    {
+        "id": "91c62c0afde44a2c95649628ce552b1c",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Electronic song in F# Minor.",
+        "file_id": "Electronic_key_F#-Minor_91c62c0afde44a2c95649628ce552b1c"
+    },
+    {
+        "id": "c0db2cfa9ea8436ca88d6a122b119c8f",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Electronic song in B Major that modulates to the fifth degree.",
+        "file_id": "Electronic_key-modulation_to-the-fifth-degree_c0db2cfa9ea8436ca88d6a122b119c8f"
+    },
+    {
+        "id": "f0bcbdd0c4864a94b1fd2f593655f413",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Electronic song in D Minor that modulates to the fifth degree.",
+        "file_id": "Electronic_key-modulation_to-the-fifth-degree_f0bcbdd0c4864a94b1fd2f593655f413"
+    },
+    {
+        "id": "fccb5a68f496435097ec3d06da7f9279",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Electronic song in F Major that modulates to the relative Minor.",
+        "file_id": "Electronic_key-modulation_to-the-relative-Minor_fccb5a68f496435097ec3d06da7f9279"
+    },
+    {
+        "id": "ec7e4e55682f431697b602e12cb9d84b",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Electronic song in F# Major that modulates to the relative Minor.",
+        "file_id": "Electronic_key-modulation_to-the-relative-Minor_ec7e4e55682f431697b602e12cb9d84b"
+    },
+    {
+        "id": "bb62ac4ecb8342f39d4708070316d1ed",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Electronic song in F Minor that modulates to the relative Major.",
+        "file_id": "Electronic_key-modulation_to-the-relative-Major_bb62ac4ecb8342f39d4708070316d1ed"
+    },
+    {
+        "id": "4175be7e32854594a8120617ffc0db44",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Electronic song in F# Minor that modulates to the relative Major.",
+        "file_id": "Electronic_key-modulation_to-the-relative-Major_4175be7e32854594a8120617ffc0db44"
+    },
+    {
+        "id": "a24a364379364176bd84524dc1feea2b",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Electronic song in F Major that modulates to the parallel Minor.",
+        "file_id": "Electronic_key-modulation_to-the-parallel-Minor_a24a364379364176bd84524dc1feea2b"
+    },
+    {
+        "id": "9e07c059537746859a6e1fc33d2a9c18",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Electronic song in F# Major that modulates to the parallel Minor.",
+        "file_id": "Electronic_key-modulation_to-the-parallel-Minor_9e07c059537746859a6e1fc33d2a9c18"
+    },
+    {
+        "id": "8f0f181cb4f645dcbafcb0eba97be680",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Electronic song in D Minor that modulates to the parallel Major.",
+        "file_id": "Electronic_key-modulation_to-the-parallel-Major_8f0f181cb4f645dcbafcb0eba97be680"
+    },
+    {
+        "id": "88b0fd1adcfe45bfb19be3f8d9fbb663",
+        "genre": "Electronic",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Electronic song in C# Minor that modulates to the parallel Major.",
+        "file_id": "Electronic_key-modulation_to-the-parallel-Major_88b0fd1adcfe45bfb19be3f8d9fbb663"
+    },
+    {
+        "id": "7409678efa6c4449b3a700e6bd871765",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "0.25 (64 to 80)",
+        "prompt": "Generate a Electronic song at 64 BPM that increases to 80.",
+        "file_id": "Electronic_tempo-change_0.25-(64-to-80)_7409678efa6c4449b3a700e6bd871765"
+    },
+    {
+        "id": "278bc117543846e2b7b31b6f61df98a2",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "0.25 (121 to 151)",
+        "prompt": "Generate a Electronic song at 121 BPM that increases to 151.",
+        "file_id": "Electronic_tempo-change_0.25-(121-to-151)_278bc117543846e2b7b31b6f61df98a2"
+    },
+    {
+        "id": "518b65442baa4bfd984ba56ee3a4ab8f",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "0.25 (174 to 217)",
+        "prompt": "Generate a Electronic song at 174 BPM that increases to 217.",
+        "file_id": "Electronic_tempo-change_0.25-(174-to-217)_518b65442baa4bfd984ba56ee3a4ab8f"
+    },
+    {
+        "id": "3f4dccb0e14549b1b367bb513014864e",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "-0.25 (82 to 61)",
+        "prompt": "Generate a Electronic song at 82 BPM that decreases to 61.",
+        "file_id": "Electronic_tempo-change_-0.25-(82-to-61)_3f4dccb0e14549b1b367bb513014864e"
+    },
+    {
+        "id": "4777b738d4394a4cb6400dc13ffbfef2",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "-0.25 (130 to 97)",
+        "prompt": "Generate a Electronic song at 130 BPM that decreases to 97.",
+        "file_id": "Electronic_tempo-change_-0.25-(130-to-97)_4777b738d4394a4cb6400dc13ffbfef2"
+    },
+    {
+        "id": "3251cfe5237f46159cb5f8e7e0c33398",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "-0.25 (154 to 115)",
+        "prompt": "Generate a Electronic song at 154 BPM that decreases to 115.",
+        "file_id": "Electronic_tempo-change_-0.25-(154-to-115)_3251cfe5237f46159cb5f8e7e0c33398"
+    },
+    {
+        "id": "83362c6ddbf64183bf09f9f7696149c7",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "0.5 (66 to 99)",
+        "prompt": "Generate a Electronic song at 66 BPM that increases to 99.",
+        "file_id": "Electronic_tempo-change_0.5-(66-to-99)_83362c6ddbf64183bf09f9f7696149c7"
+    },
+    {
+        "id": "0bb58eef3f814df1b4345d5857f14b5e",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "0.5 (116 to 174)",
+        "prompt": "Generate a Electronic song at 116 BPM that increases to 174.",
+        "file_id": "Electronic_tempo-change_0.5-(116-to-174)_0bb58eef3f814df1b4345d5857f14b5e"
+    },
+    {
+        "id": "52b8e7705a26428ab4a634902754eccd",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "0.5 (180 to 270)",
+        "prompt": "Generate a Electronic song at 180 BPM that increases to 270.",
+        "file_id": "Electronic_tempo-change_0.5-(180-to-270)_52b8e7705a26428ab4a634902754eccd"
+    },
+    {
+        "id": "ea716d39ba624f97913bb5900c1a86d0",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "-0.5 (87 to 43)",
+        "prompt": "Generate a Electronic song at 87 BPM that decreases to 43.",
+        "file_id": "Electronic_tempo-change_-0.5-(87-to-43)_ea716d39ba624f97913bb5900c1a86d0"
+    },
+    {
+        "id": "396c398e41264c3fb887db756ab13967",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "-0.5 (117 to 58)",
+        "prompt": "Generate a Electronic song at 117 BPM that decreases to 58.",
+        "file_id": "Electronic_tempo-change_-0.5-(117-to-58)_396c398e41264c3fb887db756ab13967"
+    },
+    {
+        "id": "f82324d94d9745c4b3d4e36f8498b4de",
+        "genre": "Electronic",
+        "task": "tempo change",
+        "target": "-0.5 (180 to 90)",
+        "prompt": "Generate a Electronic song at 180 BPM that decreases to 90.",
+        "file_id": "Electronic_tempo-change_-0.5-(180-to-90)_f82324d94d9745c4b3d4e36f8498b4de"
+    },
+    {
+        "id": "618b763af8d54d54a95a964eb57a8301",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Electronic song with a 4/4 time signature at 83 BPM.",
+        "file_id": "Electronic_time-signature_4/4_618b763af8d54d54a95a964eb57a8301"
+    },
+    {
+        "id": "1de9df79d4384329bfc36ca3da57a114",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Electronic song with a 4/4 time signature at 123 BPM.",
+        "file_id": "Electronic_time-signature_4/4_1de9df79d4384329bfc36ca3da57a114"
+    },
+    {
+        "id": "a173c17186884413a0b4a22cf73bdbeb",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Electronic song with a 4/4 time signature at 157 BPM.",
+        "file_id": "Electronic_time-signature_4/4_a173c17186884413a0b4a22cf73bdbeb"
+    },
+    {
+        "id": "8a1b1a8976dc4cfe943e900a20d90163",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Electronic song with a 3/4 time signature at 76 BPM.",
+        "file_id": "Electronic_time-signature_3/4_8a1b1a8976dc4cfe943e900a20d90163"
+    },
+    {
+        "id": "dc0a8787eedb4cf89877d46b4d333da8",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Electronic song with a 3/4 time signature at 100 BPM.",
+        "file_id": "Electronic_time-signature_3/4_dc0a8787eedb4cf89877d46b4d333da8"
+    },
+    {
+        "id": "f4b7a01a08cf4190b1072e149e2afd40",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Electronic song with a 3/4 time signature at 179 BPM.",
+        "file_id": "Electronic_time-signature_3/4_f4b7a01a08cf4190b1072e149e2afd40"
+    },
+    {
+        "id": "7e39d3a4d9c3417e9e3c08bd588fed21",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Electronic song with a 5/4 time signature at 79 BPM.",
+        "file_id": "Electronic_time-signature_5/4_7e39d3a4d9c3417e9e3c08bd588fed21"
+    },
+    {
+        "id": "16fecc4b762c43f7ab5aa372fba90c96",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Electronic song with a 5/4 time signature at 125 BPM.",
+        "file_id": "Electronic_time-signature_5/4_16fecc4b762c43f7ab5aa372fba90c96"
+    },
+    {
+        "id": "a9d26e3c489340d4a214e5983634d73e",
+        "genre": "Electronic",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Electronic song with a 5/4 time signature at 172 BPM.",
+        "file_id": "Electronic_time-signature_5/4_a9d26e3c489340d4a214e5983634d73e"
+    },
+    {
+        "id": "a8cd61fcea9840e99e3346bc74d64ec4",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "66",
+        "prompt": "Generate a Hip Hop song at 66 BPM.",
+        "file_id": "Hip-Hop_tempo_66_a8cd61fcea9840e99e3346bc74d64ec4"
+    },
+    {
+        "id": "164b8e2ebc0e4b6f89063008bd0b8e94",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "75",
+        "prompt": "Generate a Hip Hop song at 75 BPM.",
+        "file_id": "Hip-Hop_tempo_75_164b8e2ebc0e4b6f89063008bd0b8e94"
+    },
+    {
+        "id": "98e43e66022840ba8e49f75abd5dadab",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "78",
+        "prompt": "Generate a Hip Hop song at 78 BPM.",
+        "file_id": "Hip-Hop_tempo_78_98e43e66022840ba8e49f75abd5dadab"
+    },
+    {
+        "id": "87d6c687e5694eeab075ddf0e6fb67ef",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "71",
+        "prompt": "Generate a Hip Hop song at 71 BPM.",
+        "file_id": "Hip-Hop_tempo_71_87d6c687e5694eeab075ddf0e6fb67ef"
+    },
+    {
+        "id": "b0284209b52d40378a2a051fdfc5e0e6",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "104",
+        "prompt": "Generate a Hip Hop song at 104 BPM.",
+        "file_id": "Hip-Hop_tempo_104_b0284209b52d40378a2a051fdfc5e0e6"
+    },
+    {
+        "id": "e37a9dc38e1c498dacca56bc652db75b",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "122",
+        "prompt": "Generate a Hip Hop song at 122 BPM.",
+        "file_id": "Hip-Hop_tempo_122_e37a9dc38e1c498dacca56bc652db75b"
+    },
+    {
+        "id": "613b6699771b4e068793d94e63afdcde",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "114",
+        "prompt": "Generate a Hip Hop song at 114 BPM.",
+        "file_id": "Hip-Hop_tempo_114_613b6699771b4e068793d94e63afdcde"
+    },
+    {
+        "id": "bcc9d35713ba41dd938dc795fefd80d1",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "123",
+        "prompt": "Generate a Hip Hop song at 123 BPM.",
+        "file_id": "Hip-Hop_tempo_123_bcc9d35713ba41dd938dc795fefd80d1"
+    },
+    {
+        "id": "c556e56e3b9c48fd819106e360bb729d",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "151",
+        "prompt": "Generate a Hip Hop song at 151 BPM.",
+        "file_id": "Hip-Hop_tempo_151_c556e56e3b9c48fd819106e360bb729d"
+    },
+    {
+        "id": "f621be842c92447f92b380778d1aa8b1",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "146",
+        "prompt": "Generate a Hip Hop song at 146 BPM.",
+        "file_id": "Hip-Hop_tempo_146_f621be842c92447f92b380778d1aa8b1"
+    },
+    {
+        "id": "8ec80525960e4bf291de28011e04b7a4",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "152",
+        "prompt": "Generate a Hip Hop song at 152 BPM.",
+        "file_id": "Hip-Hop_tempo_152_8ec80525960e4bf291de28011e04b7a4"
+    },
+    {
+        "id": "8c6987990b6c43f39ae7d4cc79013e6a",
+        "genre": "Hip Hop",
+        "task": "tempo",
+        "target": "141",
+        "prompt": "Generate a Hip Hop song at 141 BPM.",
+        "file_id": "Hip-Hop_tempo_141_8c6987990b6c43f39ae7d4cc79013e6a"
+    },
+    {
+        "id": "aa5c860b88f64bdcaa1af7650d3de403",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Hip Hop song in C Major.",
+        "file_id": "Hip-Hop_key_C-Major_aa5c860b88f64bdcaa1af7650d3de403"
+    },
+    {
+        "id": "51a9e5d37d674d899a5be8667f7b0d51",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Hip Hop song in C Minor.",
+        "file_id": "Hip-Hop_key_C-Minor_51a9e5d37d674d899a5be8667f7b0d51"
+    },
+    {
+        "id": "7d2652c41c8645758ccb8ea08c90fc82",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Hip Hop song in D Major.",
+        "file_id": "Hip-Hop_key_D-Major_7d2652c41c8645758ccb8ea08c90fc82"
+    },
+    {
+        "id": "142ffb6728364024bb10f1876216911d",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Hip Hop song in D Minor.",
+        "file_id": "Hip-Hop_key_D-Minor_142ffb6728364024bb10f1876216911d"
+    },
+    {
+        "id": "6d8a0436acc24efe81bd97c06b97c7be",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Hip Hop song in F Major.",
+        "file_id": "Hip-Hop_key_F-Major_6d8a0436acc24efe81bd97c06b97c7be"
+    },
+    {
+        "id": "3b07bb412dc04398870c41e004314488",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Hip Hop song in F Minor.",
+        "file_id": "Hip-Hop_key_F-Minor_3b07bb412dc04398870c41e004314488"
+    },
+    {
+        "id": "55df09e9e91446ebb09a50dad926c617",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Hip Hop song in B Major.",
+        "file_id": "Hip-Hop_key_B-Major_55df09e9e91446ebb09a50dad926c617"
+    },
+    {
+        "id": "dda897b2c7f743ae994004520406bd85",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Hip Hop song in B Minor.",
+        "file_id": "Hip-Hop_key_B-Minor_dda897b2c7f743ae994004520406bd85"
+    },
+    {
+        "id": "50e08c8d44624746ac9b2f0353d7653c",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Hip Hop song in C# Major.",
+        "file_id": "Hip-Hop_key_C#-Major_50e08c8d44624746ac9b2f0353d7653c"
+    },
+    {
+        "id": "7331b77087f54fe29e4311e3db6869f9",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Hip Hop song in C# Minor.",
+        "file_id": "Hip-Hop_key_C#-Minor_7331b77087f54fe29e4311e3db6869f9"
+    },
+    {
+        "id": "327c70aa5cd54ab5ba3d3cb3b53aecd8",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Hip Hop song in F# Major.",
+        "file_id": "Hip-Hop_key_F#-Major_327c70aa5cd54ab5ba3d3cb3b53aecd8"
+    },
+    {
+        "id": "3662609576204d50a4cad309002a4a43",
+        "genre": "Hip Hop",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Hip Hop song in F# Minor.",
+        "file_id": "Hip-Hop_key_F#-Minor_3662609576204d50a4cad309002a4a43"
+    },
+    {
+        "id": "435b37a1768d4090831315dfb1f4f7be",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Hip Hop song in F# Major that modulates to the fifth degree.",
+        "file_id": "Hip-Hop_key-modulation_to-the-fifth-degree_435b37a1768d4090831315dfb1f4f7be"
+    },
+    {
+        "id": "54f8f55b6006408fb7e987acf4fc5d8f",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Hip Hop song in D Minor that modulates to the fifth degree.",
+        "file_id": "Hip-Hop_key-modulation_to-the-fifth-degree_54f8f55b6006408fb7e987acf4fc5d8f"
+    },
+    {
+        "id": "5eb7e80506984722bf91d1c344dfcd92",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Hip Hop song in C# Major that modulates to the relative Minor.",
+        "file_id": "Hip-Hop_key-modulation_to-the-relative-Minor_5eb7e80506984722bf91d1c344dfcd92"
+    },
+    {
+        "id": "9566a8e40be349d0953f41811c81d0bc",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Hip Hop song in F# Major that modulates to the relative Minor.",
+        "file_id": "Hip-Hop_key-modulation_to-the-relative-Minor_9566a8e40be349d0953f41811c81d0bc"
+    },
+    {
+        "id": "231ffe5e7de2493a934d8082cb622558",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Hip Hop song in D Minor that modulates to the relative Major.",
+        "file_id": "Hip-Hop_key-modulation_to-the-relative-Major_231ffe5e7de2493a934d8082cb622558"
+    },
+    {
+        "id": "5a26747acc644077a8a2a73342812050",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Hip Hop song in F Minor that modulates to the relative Major.",
+        "file_id": "Hip-Hop_key-modulation_to-the-relative-Major_5a26747acc644077a8a2a73342812050"
+    },
+    {
+        "id": "8f8567441891439192a76984dade25f3",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Hip Hop song in F Major that modulates to the parallel Minor.",
+        "file_id": "Hip-Hop_key-modulation_to-the-parallel-Minor_8f8567441891439192a76984dade25f3"
+    },
+    {
+        "id": "e1a83ccfbbfc44f7884a4ca3b32cac1e",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Hip Hop song in C Major that modulates to the parallel Minor.",
+        "file_id": "Hip-Hop_key-modulation_to-the-parallel-Minor_e1a83ccfbbfc44f7884a4ca3b32cac1e"
+    },
+    {
+        "id": "f635d27a96e54034b105e11378847be9",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Hip Hop song in C# Minor that modulates to the parallel Major.",
+        "file_id": "Hip-Hop_key-modulation_to-the-parallel-Major_f635d27a96e54034b105e11378847be9"
+    },
+    {
+        "id": "94f24b1bf1604b5a913f125bf546a677",
+        "genre": "Hip Hop",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Hip Hop song in F# Minor that modulates to the parallel Major.",
+        "file_id": "Hip-Hop_key-modulation_to-the-parallel-Major_94f24b1bf1604b5a913f125bf546a677"
+    },
+    {
+        "id": "f9d8f2fcfa024c5baed8f85ccad68e01",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "0.25 (63 to 78)",
+        "prompt": "Generate a Hip Hop song at 63 BPM that increases to 78.",
+        "file_id": "Hip-Hop_tempo-change_0.25-(63-to-78)_f9d8f2fcfa024c5baed8f85ccad68e01"
+    },
+    {
+        "id": "959eab4ed96a427eab9584ae59c18a25",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "0.25 (119 to 148)",
+        "prompt": "Generate a Hip Hop song at 119 BPM that increases to 148.",
+        "file_id": "Hip-Hop_tempo-change_0.25-(119-to-148)_959eab4ed96a427eab9584ae59c18a25"
+    },
+    {
+        "id": "c4d955a90fd94f9396c54cb490d7a69a",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "0.25 (164 to 205)",
+        "prompt": "Generate a Hip Hop song at 164 BPM that increases to 205.",
+        "file_id": "Hip-Hop_tempo-change_0.25-(164-to-205)_c4d955a90fd94f9396c54cb490d7a69a"
+    },
+    {
+        "id": "166a428ee0a043abbdffaab4a5218c10",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "-0.25 (79 to 59)",
+        "prompt": "Generate a Hip Hop song at 79 BPM that decreases to 59.",
+        "file_id": "Hip-Hop_tempo-change_-0.25-(79-to-59)_166a428ee0a043abbdffaab4a5218c10"
+    },
+    {
+        "id": "ccd2e15f58e24f6cac0ddfa96acce3bf",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "-0.25 (106 to 79)",
+        "prompt": "Generate a Hip Hop song at 106 BPM that decreases to 79.",
+        "file_id": "Hip-Hop_tempo-change_-0.25-(106-to-79)_ccd2e15f58e24f6cac0ddfa96acce3bf"
+    },
+    {
+        "id": "159b8d7fbe144404b31f2782c7424437",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "-0.25 (162 to 121)",
+        "prompt": "Generate a Hip Hop song at 162 BPM that decreases to 121.",
+        "file_id": "Hip-Hop_tempo-change_-0.25-(162-to-121)_159b8d7fbe144404b31f2782c7424437"
+    },
+    {
+        "id": "fb41b15c20ba44f489c31079169c08ba",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "0.5 (83 to 124)",
+        "prompt": "Generate a Hip Hop song at 83 BPM that increases to 124.",
+        "file_id": "Hip-Hop_tempo-change_0.5-(83-to-124)_fb41b15c20ba44f489c31079169c08ba"
+    },
+    {
+        "id": "1b8b780e679940f697c2f227f5aef3bb",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "0.5 (114 to 171)",
+        "prompt": "Generate a Hip Hop song at 114 BPM that increases to 171.",
+        "file_id": "Hip-Hop_tempo-change_0.5-(114-to-171)_1b8b780e679940f697c2f227f5aef3bb"
+    },
+    {
+        "id": "fb138cff20094c2a88e3ad58e0eb0c79",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "0.5 (163 to 244)",
+        "prompt": "Generate a Hip Hop song at 163 BPM that increases to 244.",
+        "file_id": "Hip-Hop_tempo-change_0.5-(163-to-244)_fb138cff20094c2a88e3ad58e0eb0c79"
+    },
+    {
+        "id": "8235a41d792f4bb9aa56d8a26aa40953",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "-0.5 (73 to 36)",
+        "prompt": "Generate a Hip Hop song at 73 BPM that decreases to 36.",
+        "file_id": "Hip-Hop_tempo-change_-0.5-(73-to-36)_8235a41d792f4bb9aa56d8a26aa40953"
+    },
+    {
+        "id": "ff83320232654140bcac29304296b6d2",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "-0.5 (100 to 50)",
+        "prompt": "Generate a Hip Hop song at 100 BPM that decreases to 50.",
+        "file_id": "Hip-Hop_tempo-change_-0.5-(100-to-50)_ff83320232654140bcac29304296b6d2"
+    },
+    {
+        "id": "11b47b6b087b431d9dbe90dd08dfb344",
+        "genre": "Hip Hop",
+        "task": "tempo change",
+        "target": "-0.5 (162 to 81)",
+        "prompt": "Generate a Hip Hop song at 162 BPM that decreases to 81.",
+        "file_id": "Hip-Hop_tempo-change_-0.5-(162-to-81)_11b47b6b087b431d9dbe90dd08dfb344"
+    },
+    {
+        "id": "788c3234426d4e828cfd271a6c6c3f9e",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Hip Hop song with a 4/4 time signature at 66 BPM.",
+        "file_id": "Hip-Hop_time-signature_4/4_788c3234426d4e828cfd271a6c6c3f9e"
+    },
+    {
+        "id": "65ddc29d9d63492c96ef42bec420a880",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Hip Hop song with a 4/4 time signature at 126 BPM.",
+        "file_id": "Hip-Hop_time-signature_4/4_65ddc29d9d63492c96ef42bec420a880"
+    },
+    {
+        "id": "c46699e2e4d7466593e8dc51caa482ce",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Hip Hop song with a 4/4 time signature at 145 BPM.",
+        "file_id": "Hip-Hop_time-signature_4/4_c46699e2e4d7466593e8dc51caa482ce"
+    },
+    {
+        "id": "5df83333caeb4232a99a724fd07801ce",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Hip Hop song with a 3/4 time signature at 66 BPM.",
+        "file_id": "Hip-Hop_time-signature_3/4_5df83333caeb4232a99a724fd07801ce"
+    },
+    {
+        "id": "e33c8f715a474b62bb54dd28d279f88e",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Hip Hop song with a 3/4 time signature at 130 BPM.",
+        "file_id": "Hip-Hop_time-signature_3/4_e33c8f715a474b62bb54dd28d279f88e"
+    },
+    {
+        "id": "c9afe054f8cd466d8222d97653b28322",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Hip Hop song with a 3/4 time signature at 164 BPM.",
+        "file_id": "Hip-Hop_time-signature_3/4_c9afe054f8cd466d8222d97653b28322"
+    },
+    {
+        "id": "dd464bcaa7224f379f536da3970c3626",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Hip Hop song with a 5/4 time signature at 73 BPM.",
+        "file_id": "Hip-Hop_time-signature_5/4_dd464bcaa7224f379f536da3970c3626"
+    },
+    {
+        "id": "4b7f3cc354b940ada1efb70413be08af",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Hip Hop song with a 5/4 time signature at 128 BPM.",
+        "file_id": "Hip-Hop_time-signature_5/4_4b7f3cc354b940ada1efb70413be08af"
+    },
+    {
+        "id": "84d41f4bf5584cbbb68eda0fcd14664f",
+        "genre": "Hip Hop",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Hip Hop song with a 5/4 time signature at 143 BPM.",
+        "file_id": "Hip-Hop_time-signature_5/4_84d41f4bf5584cbbb68eda0fcd14664f"
+    },
+    {
+        "id": "452f92c61b7646d9b82c9ba96ab56011",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "78",
+        "prompt": "Generate a Classical song at 78 BPM.",
+        "file_id": "Classical_tempo_78_452f92c61b7646d9b82c9ba96ab56011"
+    },
+    {
+        "id": "2f94720a1b9b4a188717c7fd7c17004e",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "66",
+        "prompt": "Generate a Classical song at 66 BPM.",
+        "file_id": "Classical_tempo_66_2f94720a1b9b4a188717c7fd7c17004e"
+    },
+    {
+        "id": "da02d228efe84e87af82e086de934531",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "73",
+        "prompt": "Generate a Classical song at 73 BPM.",
+        "file_id": "Classical_tempo_73_da02d228efe84e87af82e086de934531"
+    },
+    {
+        "id": "64d720092c544749a1b3e7e92757b266",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "84",
+        "prompt": "Generate a Classical song at 84 BPM.",
+        "file_id": "Classical_tempo_84_64d720092c544749a1b3e7e92757b266"
+    },
+    {
+        "id": "1586ec6b29a448f8af8638e71a529a58",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "123",
+        "prompt": "Generate a Classical song at 123 BPM.",
+        "file_id": "Classical_tempo_123_1586ec6b29a448f8af8638e71a529a58"
+    },
+    {
+        "id": "7c99e9f581e9417ea3429660be68b2f0",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "121",
+        "prompt": "Generate a Classical song at 121 BPM.",
+        "file_id": "Classical_tempo_121_7c99e9f581e9417ea3429660be68b2f0"
+    },
+    {
+        "id": "b966dcd754dc42edad4332e06f36bb63",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "117",
+        "prompt": "Generate a Classical song at 117 BPM.",
+        "file_id": "Classical_tempo_117_b966dcd754dc42edad4332e06f36bb63"
+    },
+    {
+        "id": "2c2caf1a8f514532b29d9e6b11dfed4a",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "110",
+        "prompt": "Generate a Classical song at 110 BPM.",
+        "file_id": "Classical_tempo_110_2c2caf1a8f514532b29d9e6b11dfed4a"
+    },
+    {
+        "id": "c26ba4339bea413392adc8297500dac5",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "142",
+        "prompt": "Generate a Classical song at 142 BPM.",
+        "file_id": "Classical_tempo_142_c26ba4339bea413392adc8297500dac5"
+    },
+    {
+        "id": "978c710527de446b8025e11e4d273b08",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "173",
+        "prompt": "Generate a Classical song at 173 BPM.",
+        "file_id": "Classical_tempo_173_978c710527de446b8025e11e4d273b08"
+    },
+    {
+        "id": "361413b1bb134481a163eb57594e8509",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "165",
+        "prompt": "Generate a Classical song at 165 BPM.",
+        "file_id": "Classical_tempo_165_361413b1bb134481a163eb57594e8509"
+    },
+    {
+        "id": "62fb06133cff42fd81da6b09724c76b2",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "162",
+        "prompt": "Generate a Classical song at 162 BPM.",
+        "file_id": "Classical_tempo_162_62fb06133cff42fd81da6b09724c76b2"
+    },
+    {
+        "id": "943266ea43f346408c89a0bb7bbdaa10",
+        "genre": "Classical",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Classical song in C Major.",
+        "file_id": "Classical_key_C-Major_943266ea43f346408c89a0bb7bbdaa10"
+    },
+    {
+        "id": "0e02f2dda5934c1bb5324d02bd3de0b7",
+        "genre": "Classical",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Classical song in C Minor.",
+        "file_id": "Classical_key_C-Minor_0e02f2dda5934c1bb5324d02bd3de0b7"
+    },
+    {
+        "id": "294c66b6c647485785bdb7a16c79c342",
+        "genre": "Classical",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Classical song in D Major.",
+        "file_id": "Classical_key_D-Major_294c66b6c647485785bdb7a16c79c342"
+    },
+    {
+        "id": "c5a8be44f05d45a3a9c036ae51abd88c",
+        "genre": "Classical",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Classical song in D Minor.",
+        "file_id": "Classical_key_D-Minor_c5a8be44f05d45a3a9c036ae51abd88c"
+    },
+    {
+        "id": "46649112f2914c4fab4d1ef3aac6d2bf",
+        "genre": "Classical",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Classical song in F Major.",
+        "file_id": "Classical_key_F-Major_46649112f2914c4fab4d1ef3aac6d2bf"
+    },
+    {
+        "id": "af24989aecf645cba0a440454b51b3a3",
+        "genre": "Classical",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Classical song in F Minor.",
+        "file_id": "Classical_key_F-Minor_af24989aecf645cba0a440454b51b3a3"
+    },
+    {
+        "id": "60ffb765cf7145ea8ff7f9ca563b8360",
+        "genre": "Classical",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Classical song in B Major.",
+        "file_id": "Classical_key_B-Major_60ffb765cf7145ea8ff7f9ca563b8360"
+    },
+    {
+        "id": "3a4936cf0721476581f546448d0107a5",
+        "genre": "Classical",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Classical song in B Minor.",
+        "file_id": "Classical_key_B-Minor_3a4936cf0721476581f546448d0107a5"
+    },
+    {
+        "id": "8ae9e62e8b874a4bb6b5304d757b0caf",
+        "genre": "Classical",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Classical song in C# Major.",
+        "file_id": "Classical_key_C#-Major_8ae9e62e8b874a4bb6b5304d757b0caf"
+    },
+    {
+        "id": "578317b6dc064ef7a151f5f4d44b5a0b",
+        "genre": "Classical",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Classical song in C# Minor.",
+        "file_id": "Classical_key_C#-Minor_578317b6dc064ef7a151f5f4d44b5a0b"
+    },
+    {
+        "id": "51842d24eb3b45a1959adfc791d727aa",
+        "genre": "Classical",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Classical song in F# Major.",
+        "file_id": "Classical_key_F#-Major_51842d24eb3b45a1959adfc791d727aa"
+    },
+    {
+        "id": "b717450cb7cf4b2d870a16ba5b35bc36",
+        "genre": "Classical",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Classical song in F# Minor.",
+        "file_id": "Classical_key_F#-Minor_b717450cb7cf4b2d870a16ba5b35bc36"
+    },
+    {
+        "id": "e2544dffcfad40d393a4bea144477398",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Classical song in C# Major that modulates to the fifth degree.",
+        "file_id": "Classical_key-modulation_to-the-fifth-degree_e2544dffcfad40d393a4bea144477398"
+    },
+    {
+        "id": "8d14ab78ed6d44d6801851a31f1f061c",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Classical song in F Major that modulates to the fifth degree.",
+        "file_id": "Classical_key-modulation_to-the-fifth-degree_8d14ab78ed6d44d6801851a31f1f061c"
+    },
+    {
+        "id": "d9c7101b0e30416688e35bdd556110be",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Classical song in D Major that modulates to the relative Minor.",
+        "file_id": "Classical_key-modulation_to-the-relative-Minor_d9c7101b0e30416688e35bdd556110be"
+    },
+    {
+        "id": "8659cbde6b5b4edc96dbf83de1a4895f",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Classical song in F Major that modulates to the relative Minor.",
+        "file_id": "Classical_key-modulation_to-the-relative-Minor_8659cbde6b5b4edc96dbf83de1a4895f"
+    },
+    {
+        "id": "360d64f66341471e840f800171072700",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Classical song in C Minor that modulates to the relative Major.",
+        "file_id": "Classical_key-modulation_to-the-relative-Major_360d64f66341471e840f800171072700"
+    },
+    {
+        "id": "7dbc925bb72b4dfc973692627ff35631",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Classical song in C# Minor that modulates to the relative Major.",
+        "file_id": "Classical_key-modulation_to-the-relative-Major_7dbc925bb72b4dfc973692627ff35631"
+    },
+    {
+        "id": "d3dbe0bb5374414aa630c53c52831016",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Classical song in D Major that modulates to the parallel Minor.",
+        "file_id": "Classical_key-modulation_to-the-parallel-Minor_d3dbe0bb5374414aa630c53c52831016"
+    },
+    {
+        "id": "69269391e9124db1a0d9f60382a3deff",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Classical song in B Major that modulates to the parallel Minor.",
+        "file_id": "Classical_key-modulation_to-the-parallel-Minor_69269391e9124db1a0d9f60382a3deff"
+    },
+    {
+        "id": "a23c7e457d8f442dadae94afe70ec9c8",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Classical song in B Minor that modulates to the parallel Major.",
+        "file_id": "Classical_key-modulation_to-the-parallel-Major_a23c7e457d8f442dadae94afe70ec9c8"
+    },
+    {
+        "id": "e93cd18b964d4d2e909929c4530a7bae",
+        "genre": "Classical",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Classical song in F# Minor that modulates to the parallel Major.",
+        "file_id": "Classical_key-modulation_to-the-parallel-Major_e93cd18b964d4d2e909929c4530a7bae"
+    },
+    {
+        "id": "d73e5a89a9434569aab615fdc7b1ebbd",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "0.25 (74 to 92)",
+        "prompt": "Generate a Classical song at 74 BPM that increases to 92.",
+        "file_id": "Classical_tempo-change_0.25-(74-to-92)_d73e5a89a9434569aab615fdc7b1ebbd"
+    },
+    {
+        "id": "b726c918aa934c1ab574ab046ca17d6e",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "0.25 (104 to 130)",
+        "prompt": "Generate a Classical song at 104 BPM that increases to 130.",
+        "file_id": "Classical_tempo-change_0.25-(104-to-130)_b726c918aa934c1ab574ab046ca17d6e"
+    },
+    {
+        "id": "43da57a9933b494f9d6272e81445ae09",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "0.25 (178 to 222)",
+        "prompt": "Generate a Classical song at 178 BPM that increases to 222.",
+        "file_id": "Classical_tempo-change_0.25-(178-to-222)_43da57a9933b494f9d6272e81445ae09"
+    },
+    {
+        "id": "7b805d4e4c1a439e88295f0da959996f",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "-0.25 (73 to 54)",
+        "prompt": "Generate a Classical song at 73 BPM that decreases to 54.",
+        "file_id": "Classical_tempo-change_-0.25-(73-to-54)_7b805d4e4c1a439e88295f0da959996f"
+    },
+    {
+        "id": "e764a33af2c845cf81fad947d4f77cff",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "-0.25 (130 to 97)",
+        "prompt": "Generate a Classical song at 130 BPM that decreases to 97.",
+        "file_id": "Classical_tempo-change_-0.25-(130-to-97)_e764a33af2c845cf81fad947d4f77cff"
+    },
+    {
+        "id": "70122c8185bd4c0d82ff2a2bfd48fea3",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "-0.25 (158 to 118)",
+        "prompt": "Generate a Classical song at 158 BPM that decreases to 118.",
+        "file_id": "Classical_tempo-change_-0.25-(158-to-118)_70122c8185bd4c0d82ff2a2bfd48fea3"
+    },
+    {
+        "id": "5c8e2fe5e16b4eefbc0df89382ded93e",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "0.5 (78 to 117)",
+        "prompt": "Generate a Classical song at 78 BPM that increases to 117.",
+        "file_id": "Classical_tempo-change_0.5-(78-to-117)_5c8e2fe5e16b4eefbc0df89382ded93e"
+    },
+    {
+        "id": "ad0cd684b4ce409ba6d4ae134ccd6bf4",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "0.5 (119 to 178)",
+        "prompt": "Generate a Classical song at 119 BPM that increases to 178.",
+        "file_id": "Classical_tempo-change_0.5-(119-to-178)_ad0cd684b4ce409ba6d4ae134ccd6bf4"
+    },
+    {
+        "id": "2c4ace434bc0420a8c92d037742af605",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "0.5 (166 to 249)",
+        "prompt": "Generate a Classical song at 166 BPM that increases to 249.",
+        "file_id": "Classical_tempo-change_0.5-(166-to-249)_2c4ace434bc0420a8c92d037742af605"
+    },
+    {
+        "id": "a322bc2dff514ca3850ca46d9442e20c",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "-0.5 (77 to 38)",
+        "prompt": "Generate a Classical song at 77 BPM that decreases to 38.",
+        "file_id": "Classical_tempo-change_-0.5-(77-to-38)_a322bc2dff514ca3850ca46d9442e20c"
+    },
+    {
+        "id": "734568714b1b4b84a750e5c012f01b90",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "-0.5 (102 to 51)",
+        "prompt": "Generate a Classical song at 102 BPM that decreases to 51.",
+        "file_id": "Classical_tempo-change_-0.5-(102-to-51)_734568714b1b4b84a750e5c012f01b90"
+    },
+    {
+        "id": "d780e8b4344343d3be37a46edd246d2a",
+        "genre": "Classical",
+        "task": "tempo change",
+        "target": "-0.5 (149 to 74)",
+        "prompt": "Generate a Classical song at 149 BPM that decreases to 74.",
+        "file_id": "Classical_tempo-change_-0.5-(149-to-74)_d780e8b4344343d3be37a46edd246d2a"
+    },
+    {
+        "id": "fcff25114753494f8df0393e68ef67fd",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Classical song with a 4/4 time signature at 79 BPM.",
+        "file_id": "Classical_time-signature_4/4_fcff25114753494f8df0393e68ef67fd"
+    },
+    {
+        "id": "edede3ccd1c54395b90c1c13569b864b",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Classical song with a 4/4 time signature at 101 BPM.",
+        "file_id": "Classical_time-signature_4/4_edede3ccd1c54395b90c1c13569b864b"
+    },
+    {
+        "id": "7f6568dea371478bb391ec9ac0ab6dfc",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Classical song with a 4/4 time signature at 159 BPM.",
+        "file_id": "Classical_time-signature_4/4_7f6568dea371478bb391ec9ac0ab6dfc"
+    },
+    {
+        "id": "3332e3e4d53c47d7ae2ca54b3006f5a1",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Classical song with a 3/4 time signature at 68 BPM.",
+        "file_id": "Classical_time-signature_3/4_3332e3e4d53c47d7ae2ca54b3006f5a1"
+    },
+    {
+        "id": "4740b459ded64b6f86b2debcd4831cd5",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Classical song with a 3/4 time signature at 109 BPM.",
+        "file_id": "Classical_time-signature_3/4_4740b459ded64b6f86b2debcd4831cd5"
+    },
+    {
+        "id": "4c4c3ad0d4ed45e4b16d0714efec1fae",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Classical song with a 3/4 time signature at 168 BPM.",
+        "file_id": "Classical_time-signature_3/4_4c4c3ad0d4ed45e4b16d0714efec1fae"
+    },
+    {
+        "id": "fb8b3fb5e2144ccfa9dafd4b3ccb9d94",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Classical song with a 5/4 time signature at 89 BPM.",
+        "file_id": "Classical_time-signature_5/4_fb8b3fb5e2144ccfa9dafd4b3ccb9d94"
+    },
+    {
+        "id": "1adf5bf685e94c2caeccaa9685336daa",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Classical song with a 5/4 time signature at 123 BPM.",
+        "file_id": "Classical_time-signature_5/4_1adf5bf685e94c2caeccaa9685336daa"
+    },
+    {
+        "id": "f5ef5f6eb1ca4280878c8f877589d478",
+        "genre": "Classical",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Classical song with a 5/4 time signature at 160 BPM.",
+        "file_id": "Classical_time-signature_5/4_f5ef5f6eb1ca4280878c8f877589d478"
+    },
+    {
+        "id": "33281910e2ab481a8545df3b4a38d3cf",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "62",
+        "prompt": "Generate a Metal song at 62 BPM.",
+        "file_id": "Metal_tempo_62_33281910e2ab481a8545df3b4a38d3cf"
+    },
+    {
+        "id": "cf8e2268bf0e4d9da17bbb7cddb452d8",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "88",
+        "prompt": "Generate a Metal song at 88 BPM.",
+        "file_id": "Metal_tempo_88_cf8e2268bf0e4d9da17bbb7cddb452d8"
+    },
+    {
+        "id": "edcf0af2195b4f06b25517b88cd844df",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "86",
+        "prompt": "Generate a Metal song at 86 BPM.",
+        "file_id": "Metal_tempo_86_edcf0af2195b4f06b25517b88cd844df"
+    },
+    {
+        "id": "ec70dc8ba02b422091c62e33c56097a5",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "80",
+        "prompt": "Generate a Metal song at 80 BPM.",
+        "file_id": "Metal_tempo_80_ec70dc8ba02b422091c62e33c56097a5"
+    },
+    {
+        "id": "7a8bcd05d29d41f69d9a6cff68415606",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "108",
+        "prompt": "Generate a Metal song at 108 BPM.",
+        "file_id": "Metal_tempo_108_7a8bcd05d29d41f69d9a6cff68415606"
+    },
+    {
+        "id": "8d92b70657474c1abf8ab0447bf5b952",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "112",
+        "prompt": "Generate a Metal song at 112 BPM.",
+        "file_id": "Metal_tempo_112_8d92b70657474c1abf8ab0447bf5b952"
+    },
+    {
+        "id": "b6044485046a4ea9b2eb06cf6c8d27c1",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "109",
+        "prompt": "Generate a Metal song at 109 BPM.",
+        "file_id": "Metal_tempo_109_b6044485046a4ea9b2eb06cf6c8d27c1"
+    },
+    {
+        "id": "d17c7de6e96840eeb9bc74320a6357c1",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "127",
+        "prompt": "Generate a Metal song at 127 BPM.",
+        "file_id": "Metal_tempo_127_d17c7de6e96840eeb9bc74320a6357c1"
+    },
+    {
+        "id": "3f13348c41bf464fbb361bcb565e1bc0",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "176",
+        "prompt": "Generate a Metal song at 176 BPM.",
+        "file_id": "Metal_tempo_176_3f13348c41bf464fbb361bcb565e1bc0"
+    },
+    {
+        "id": "e4181ed2f3ce43b399a28d7a871c287a",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "170",
+        "prompt": "Generate a Metal song at 170 BPM.",
+        "file_id": "Metal_tempo_170_e4181ed2f3ce43b399a28d7a871c287a"
+    },
+    {
+        "id": "8f9d0951325840a3a0986bea7e577c88",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "141",
+        "prompt": "Generate a Metal song at 141 BPM.",
+        "file_id": "Metal_tempo_141_8f9d0951325840a3a0986bea7e577c88"
+    },
+    {
+        "id": "f6481b336f8145d1aa49389b9643bae9",
+        "genre": "Metal",
+        "task": "tempo",
+        "target": "147",
+        "prompt": "Generate a Metal song at 147 BPM.",
+        "file_id": "Metal_tempo_147_f6481b336f8145d1aa49389b9643bae9"
+    },
+    {
+        "id": "ecadcf4551c9443894afff32c895881c",
+        "genre": "Metal",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Metal song in C Major.",
+        "file_id": "Metal_key_C-Major_ecadcf4551c9443894afff32c895881c"
+    },
+    {
+        "id": "f15684cfa0354920afc2a4565e27bba0",
+        "genre": "Metal",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Metal song in C Minor.",
+        "file_id": "Metal_key_C-Minor_f15684cfa0354920afc2a4565e27bba0"
+    },
+    {
+        "id": "6b2d54af69fe4ea48335dcc425e76c2b",
+        "genre": "Metal",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Metal song in D Major.",
+        "file_id": "Metal_key_D-Major_6b2d54af69fe4ea48335dcc425e76c2b"
+    },
+    {
+        "id": "37596645e32e4035a91b10a622a79374",
+        "genre": "Metal",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Metal song in D Minor.",
+        "file_id": "Metal_key_D-Minor_37596645e32e4035a91b10a622a79374"
+    },
+    {
+        "id": "c0810e761404483889d54390db633ed9",
+        "genre": "Metal",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Metal song in F Major.",
+        "file_id": "Metal_key_F-Major_c0810e761404483889d54390db633ed9"
+    },
+    {
+        "id": "b5e46e24df4f48fdaca414922353bc71",
+        "genre": "Metal",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Metal song in F Minor.",
+        "file_id": "Metal_key_F-Minor_b5e46e24df4f48fdaca414922353bc71"
+    },
+    {
+        "id": "23486425ab7c41c3a5b543e4c2713fe8",
+        "genre": "Metal",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Metal song in B Major.",
+        "file_id": "Metal_key_B-Major_23486425ab7c41c3a5b543e4c2713fe8"
+    },
+    {
+        "id": "2fda461fc4ab4154a7255541a5d613d7",
+        "genre": "Metal",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Metal song in B Minor.",
+        "file_id": "Metal_key_B-Minor_2fda461fc4ab4154a7255541a5d613d7"
+    },
+    {
+        "id": "a73539c949f746319cfab844de4b1272",
+        "genre": "Metal",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Metal song in C# Major.",
+        "file_id": "Metal_key_C#-Major_a73539c949f746319cfab844de4b1272"
+    },
+    {
+        "id": "7544bcefe7d1472ebd81938b02f639c9",
+        "genre": "Metal",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Metal song in C# Minor.",
+        "file_id": "Metal_key_C#-Minor_7544bcefe7d1472ebd81938b02f639c9"
+    },
+    {
+        "id": "52d9f634055c4652b4d81e0400511878",
+        "genre": "Metal",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Metal song in F# Major.",
+        "file_id": "Metal_key_F#-Major_52d9f634055c4652b4d81e0400511878"
+    },
+    {
+        "id": "d0e53bbc358e4dadb1ad777fc0f4a93b",
+        "genre": "Metal",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Metal song in F# Minor.",
+        "file_id": "Metal_key_F#-Minor_d0e53bbc358e4dadb1ad777fc0f4a93b"
+    },
+    {
+        "id": "e7cdff3023564632b46a8d640059ff1c",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Metal song in C# Major that modulates to the fifth degree.",
+        "file_id": "Metal_key-modulation_to-the-fifth-degree_e7cdff3023564632b46a8d640059ff1c"
+    },
+    {
+        "id": "9a6107965b0e405993d0924b84b9af11",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Metal song in D Minor that modulates to the fifth degree.",
+        "file_id": "Metal_key-modulation_to-the-fifth-degree_9a6107965b0e405993d0924b84b9af11"
+    },
+    {
+        "id": "0fdc3d6056f84dce900ea5fbc95ddda8",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Metal song in F Major that modulates to the relative Minor.",
+        "file_id": "Metal_key-modulation_to-the-relative-Minor_0fdc3d6056f84dce900ea5fbc95ddda8"
+    },
+    {
+        "id": "1c98eb74f28545f198e3b5883195149c",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Metal song in B Major that modulates to the relative Minor.",
+        "file_id": "Metal_key-modulation_to-the-relative-Minor_1c98eb74f28545f198e3b5883195149c"
+    },
+    {
+        "id": "c274e16083204b19916a978c967b63c0",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Metal song in B Minor that modulates to the relative Major.",
+        "file_id": "Metal_key-modulation_to-the-relative-Major_c274e16083204b19916a978c967b63c0"
+    },
+    {
+        "id": "263ac82bbe0d401db8c0aac754ce325b",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Metal song in C Minor that modulates to the relative Major.",
+        "file_id": "Metal_key-modulation_to-the-relative-Major_263ac82bbe0d401db8c0aac754ce325b"
+    },
+    {
+        "id": "091d86f3f13848a5981a825d12a22a81",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Metal song in C# Major that modulates to the parallel Minor.",
+        "file_id": "Metal_key-modulation_to-the-parallel-Minor_091d86f3f13848a5981a825d12a22a81"
+    },
+    {
+        "id": "d49aa5d3b9e74227abb8e56598612486",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Metal song in B Major that modulates to the parallel Minor.",
+        "file_id": "Metal_key-modulation_to-the-parallel-Minor_d49aa5d3b9e74227abb8e56598612486"
+    },
+    {
+        "id": "7e352b9d9b9b4242906b5b7cf0fb312f",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Metal song in C# Minor that modulates to the parallel Major.",
+        "file_id": "Metal_key-modulation_to-the-parallel-Major_7e352b9d9b9b4242906b5b7cf0fb312f"
+    },
+    {
+        "id": "595ca5c69e5446aaae9725c4a33fed73",
+        "genre": "Metal",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Metal song in C Minor that modulates to the parallel Major.",
+        "file_id": "Metal_key-modulation_to-the-parallel-Major_595ca5c69e5446aaae9725c4a33fed73"
+    },
+    {
+        "id": "f863d030069945668112e4bea822fe18",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "0.25 (65 to 81)",
+        "prompt": "Generate a Metal song at 65 BPM that increases to 81.",
+        "file_id": "Metal_tempo-change_0.25-(65-to-81)_f863d030069945668112e4bea822fe18"
+    },
+    {
+        "id": "428ae0c938cb46e8918ba1786382a733",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "0.25 (120 to 150)",
+        "prompt": "Generate a Metal song at 120 BPM that increases to 150.",
+        "file_id": "Metal_tempo-change_0.25-(120-to-150)_428ae0c938cb46e8918ba1786382a733"
+    },
+    {
+        "id": "c70729df30e94eb8b0bfe1176a3bb101",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "0.25 (152 to 190)",
+        "prompt": "Generate a Metal song at 152 BPM that increases to 190.",
+        "file_id": "Metal_tempo-change_0.25-(152-to-190)_c70729df30e94eb8b0bfe1176a3bb101"
+    },
+    {
+        "id": "e8742384ac814e22912fe68d94359bf1",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "-0.25 (85 to 63)",
+        "prompt": "Generate a Metal song at 85 BPM that decreases to 63.",
+        "file_id": "Metal_tempo-change_-0.25-(85-to-63)_e8742384ac814e22912fe68d94359bf1"
+    },
+    {
+        "id": "ceab47fa180c4b25804c139112b1fe15",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "-0.25 (123 to 92)",
+        "prompt": "Generate a Metal song at 123 BPM that decreases to 92.",
+        "file_id": "Metal_tempo-change_-0.25-(123-to-92)_ceab47fa180c4b25804c139112b1fe15"
+    },
+    {
+        "id": "31c6510ac22648fa8176e21684237bb3",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "-0.25 (173 to 129)",
+        "prompt": "Generate a Metal song at 173 BPM that decreases to 129.",
+        "file_id": "Metal_tempo-change_-0.25-(173-to-129)_31c6510ac22648fa8176e21684237bb3"
+    },
+    {
+        "id": "c580643ba27f4aa0a4ba46cc0beed880",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "0.5 (61 to 91)",
+        "prompt": "Generate a Metal song at 61 BPM that increases to 91.",
+        "file_id": "Metal_tempo-change_0.5-(61-to-91)_c580643ba27f4aa0a4ba46cc0beed880"
+    },
+    {
+        "id": "03ebb9d6cc5e40beaa69e98169885e3c",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "0.5 (117 to 175)",
+        "prompt": "Generate a Metal song at 117 BPM that increases to 175.",
+        "file_id": "Metal_tempo-change_0.5-(117-to-175)_03ebb9d6cc5e40beaa69e98169885e3c"
+    },
+    {
+        "id": "9afefa91032b46dd95a7f8b6e85021a2",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "0.5 (145 to 217)",
+        "prompt": "Generate a Metal song at 145 BPM that increases to 217.",
+        "file_id": "Metal_tempo-change_0.5-(145-to-217)_9afefa91032b46dd95a7f8b6e85021a2"
+    },
+    {
+        "id": "e23b3d76143549d1bb1f7ca278dad69b",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "-0.5 (68 to 34)",
+        "prompt": "Generate a Metal song at 68 BPM that decreases to 34.",
+        "file_id": "Metal_tempo-change_-0.5-(68-to-34)_e23b3d76143549d1bb1f7ca278dad69b"
+    },
+    {
+        "id": "f0e944f32cca44a28ab08a1b93964e5d",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "-0.5 (100 to 50)",
+        "prompt": "Generate a Metal song at 100 BPM that decreases to 50.",
+        "file_id": "Metal_tempo-change_-0.5-(100-to-50)_f0e944f32cca44a28ab08a1b93964e5d"
+    },
+    {
+        "id": "ce00184be45746b0a2d757e4e98672dc",
+        "genre": "Metal",
+        "task": "tempo change",
+        "target": "-0.5 (141 to 70)",
+        "prompt": "Generate a Metal song at 141 BPM that decreases to 70.",
+        "file_id": "Metal_tempo-change_-0.5-(141-to-70)_ce00184be45746b0a2d757e4e98672dc"
+    },
+    {
+        "id": "703ca46f07cd4c219c16b1be8ff60c21",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Metal song with a 4/4 time signature at 77 BPM.",
+        "file_id": "Metal_time-signature_4/4_703ca46f07cd4c219c16b1be8ff60c21"
+    },
+    {
+        "id": "9bda4ca0d35245a7b2fd2c469fe5cdf8",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Metal song with a 4/4 time signature at 103 BPM.",
+        "file_id": "Metal_time-signature_4/4_9bda4ca0d35245a7b2fd2c469fe5cdf8"
+    },
+    {
+        "id": "e39e8bee4b574b9c97cfe630d39f8c40",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Metal song with a 4/4 time signature at 157 BPM.",
+        "file_id": "Metal_time-signature_4/4_e39e8bee4b574b9c97cfe630d39f8c40"
+    },
+    {
+        "id": "b8fd928c0b854fe1a5db2042ea0bb0f2",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Metal song with a 3/4 time signature at 66 BPM.",
+        "file_id": "Metal_time-signature_3/4_b8fd928c0b854fe1a5db2042ea0bb0f2"
+    },
+    {
+        "id": "5e4f12c107884635933591e89a2f9b53",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Metal song with a 3/4 time signature at 103 BPM.",
+        "file_id": "Metal_time-signature_3/4_5e4f12c107884635933591e89a2f9b53"
+    },
+    {
+        "id": "8ae988063f03450db8dddce308d265ba",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Metal song with a 3/4 time signature at 147 BPM.",
+        "file_id": "Metal_time-signature_3/4_8ae988063f03450db8dddce308d265ba"
+    },
+    {
+        "id": "6983adc75b0b431083b362cd8f0e175c",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Metal song with a 5/4 time signature at 75 BPM.",
+        "file_id": "Metal_time-signature_5/4_6983adc75b0b431083b362cd8f0e175c"
+    },
+    {
+        "id": "023c417cf0314156aa3be157b075b870",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Metal song with a 5/4 time signature at 115 BPM.",
+        "file_id": "Metal_time-signature_5/4_023c417cf0314156aa3be157b075b870"
+    },
+    {
+        "id": "37808f9b713f48d999b0c28af6994cfc",
+        "genre": "Metal",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Metal song with a 5/4 time signature at 162 BPM.",
+        "file_id": "Metal_time-signature_5/4_37808f9b713f48d999b0c28af6994cfc"
+    },
+    {
+        "id": "1d8f40602d054c17ba3ddaaa417241db",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "60",
+        "prompt": "Generate a Country song at 60 BPM.",
+        "file_id": "Country_tempo_60_1d8f40602d054c17ba3ddaaa417241db"
+    },
+    {
+        "id": "8efe0fd38a714c41b3a88131e7e311ec",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "88",
+        "prompt": "Generate a Country song at 88 BPM.",
+        "file_id": "Country_tempo_88_8efe0fd38a714c41b3a88131e7e311ec"
+    },
+    {
+        "id": "279514486d14419e8c754c2060154a90",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "62",
+        "prompt": "Generate a Country song at 62 BPM.",
+        "file_id": "Country_tempo_62_279514486d14419e8c754c2060154a90"
+    },
+    {
+        "id": "f2ff9dd2470544559680039e4a870f5e",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "82",
+        "prompt": "Generate a Country song at 82 BPM.",
+        "file_id": "Country_tempo_82_f2ff9dd2470544559680039e4a870f5e"
+    },
+    {
+        "id": "67f60b984c0a41e09b595612190cc928",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "108",
+        "prompt": "Generate a Country song at 108 BPM.",
+        "file_id": "Country_tempo_108_67f60b984c0a41e09b595612190cc928"
+    },
+    {
+        "id": "5dec3ee6a9d044cfb4430c78495af641",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "121",
+        "prompt": "Generate a Country song at 121 BPM.",
+        "file_id": "Country_tempo_121_5dec3ee6a9d044cfb4430c78495af641"
+    },
+    {
+        "id": "6f85cc9e84ce4d12a72d611ee56ef1d1",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "113",
+        "prompt": "Generate a Country song at 113 BPM.",
+        "file_id": "Country_tempo_113_6f85cc9e84ce4d12a72d611ee56ef1d1"
+    },
+    {
+        "id": "bc1128b22dd64f4da1271ec063ebf08b",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "127",
+        "prompt": "Generate a Country song at 127 BPM.",
+        "file_id": "Country_tempo_127_bc1128b22dd64f4da1271ec063ebf08b"
+    },
+    {
+        "id": "d8a40d322f94462a98389bf9b0356a3e",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "147",
+        "prompt": "Generate a Country song at 147 BPM.",
+        "file_id": "Country_tempo_147_d8a40d322f94462a98389bf9b0356a3e"
+    },
+    {
+        "id": "3332ea7996034f7fb76f10aa84c51221",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "161",
+        "prompt": "Generate a Country song at 161 BPM.",
+        "file_id": "Country_tempo_161_3332ea7996034f7fb76f10aa84c51221"
+    },
+    {
+        "id": "328e82fae6e7493fa495f122300926d5",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "166",
+        "prompt": "Generate a Country song at 166 BPM.",
+        "file_id": "Country_tempo_166_328e82fae6e7493fa495f122300926d5"
+    },
+    {
+        "id": "e2cc5f71cb134ee8a250b9e7d59aa123",
+        "genre": "Country",
+        "task": "tempo",
+        "target": "178",
+        "prompt": "Generate a Country song at 178 BPM.",
+        "file_id": "Country_tempo_178_e2cc5f71cb134ee8a250b9e7d59aa123"
+    },
+    {
+        "id": "262e085d203044a685a3a3d0013053fb",
+        "genre": "Country",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Country song in C Major.",
+        "file_id": "Country_key_C-Major_262e085d203044a685a3a3d0013053fb"
+    },
+    {
+        "id": "9b97d19e478a42129d26095f71bf8ff4",
+        "genre": "Country",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Country song in C Minor.",
+        "file_id": "Country_key_C-Minor_9b97d19e478a42129d26095f71bf8ff4"
+    },
+    {
+        "id": "906f93db9c204763a9ef4ee642504351",
+        "genre": "Country",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Country song in D Major.",
+        "file_id": "Country_key_D-Major_906f93db9c204763a9ef4ee642504351"
+    },
+    {
+        "id": "ad572e44092a48239a96399a3e3f1134",
+        "genre": "Country",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Country song in D Minor.",
+        "file_id": "Country_key_D-Minor_ad572e44092a48239a96399a3e3f1134"
+    },
+    {
+        "id": "7f44b16b94494bfd807f3e5448031f55",
+        "genre": "Country",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Country song in F Major.",
+        "file_id": "Country_key_F-Major_7f44b16b94494bfd807f3e5448031f55"
+    },
+    {
+        "id": "8a7064d51ed64e5eb1245a556b5d21f4",
+        "genre": "Country",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Country song in F Minor.",
+        "file_id": "Country_key_F-Minor_8a7064d51ed64e5eb1245a556b5d21f4"
+    },
+    {
+        "id": "f9e62850c40347219cadd9a719c36cef",
+        "genre": "Country",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Country song in B Major.",
+        "file_id": "Country_key_B-Major_f9e62850c40347219cadd9a719c36cef"
+    },
+    {
+        "id": "b7f07d10ab5c4955888ad76b0a7a5cd5",
+        "genre": "Country",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Country song in B Minor.",
+        "file_id": "Country_key_B-Minor_b7f07d10ab5c4955888ad76b0a7a5cd5"
+    },
+    {
+        "id": "923c0fe61a8e4acf9aa69156775bc658",
+        "genre": "Country",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Country song in C# Major.",
+        "file_id": "Country_key_C#-Major_923c0fe61a8e4acf9aa69156775bc658"
+    },
+    {
+        "id": "dbf3cb06750b41c8ace93d19dc764c42",
+        "genre": "Country",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Country song in C# Minor.",
+        "file_id": "Country_key_C#-Minor_dbf3cb06750b41c8ace93d19dc764c42"
+    },
+    {
+        "id": "0e988f0d57004575bc4712a0062097c5",
+        "genre": "Country",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Country song in F# Major.",
+        "file_id": "Country_key_F#-Major_0e988f0d57004575bc4712a0062097c5"
+    },
+    {
+        "id": "b32bb36675824f1b9416397f836d1ec6",
+        "genre": "Country",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Country song in F# Minor.",
+        "file_id": "Country_key_F#-Minor_b32bb36675824f1b9416397f836d1ec6"
+    },
+    {
+        "id": "c54d3301dd3345c496777513a1773b90",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Country song in C Major that modulates to the fifth degree.",
+        "file_id": "Country_key-modulation_to-the-fifth-degree_c54d3301dd3345c496777513a1773b90"
+    },
+    {
+        "id": "465772b6db5141a0b605640709eca3a6",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Country song in D Major that modulates to the fifth degree.",
+        "file_id": "Country_key-modulation_to-the-fifth-degree_465772b6db5141a0b605640709eca3a6"
+    },
+    {
+        "id": "b0dc92d8110145a78ac69ba6a0d2829b",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Country song in C# Major that modulates to the relative Minor.",
+        "file_id": "Country_key-modulation_to-the-relative-Minor_b0dc92d8110145a78ac69ba6a0d2829b"
+    },
+    {
+        "id": "b066a64b6a914c54ae8f97f38cba3351",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Country song in B Major that modulates to the relative Minor.",
+        "file_id": "Country_key-modulation_to-the-relative-Minor_b066a64b6a914c54ae8f97f38cba3351"
+    },
+    {
+        "id": "0bd3553bb7c84c3b9252c205b8068ecb",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Country song in C# Minor that modulates to the relative Major.",
+        "file_id": "Country_key-modulation_to-the-relative-Major_0bd3553bb7c84c3b9252c205b8068ecb"
+    },
+    {
+        "id": "d7c7baf3c9ee4ade8f62d2eb36bd9d59",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Country song in F# Minor that modulates to the relative Major.",
+        "file_id": "Country_key-modulation_to-the-relative-Major_d7c7baf3c9ee4ade8f62d2eb36bd9d59"
+    },
+    {
+        "id": "58e4964dc1464a98a810069dad4b03be",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Country song in C Major that modulates to the parallel Minor.",
+        "file_id": "Country_key-modulation_to-the-parallel-Minor_58e4964dc1464a98a810069dad4b03be"
+    },
+    {
+        "id": "306233a29032444e8ffa41de49e12d2e",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Country song in D Major that modulates to the parallel Minor.",
+        "file_id": "Country_key-modulation_to-the-parallel-Minor_306233a29032444e8ffa41de49e12d2e"
+    },
+    {
+        "id": "19c6d286fdf5455e810f013c01331348",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Country song in F# Minor that modulates to the parallel Major.",
+        "file_id": "Country_key-modulation_to-the-parallel-Major_19c6d286fdf5455e810f013c01331348"
+    },
+    {
+        "id": "3dfee95210a547fd9c0547d191a32951",
+        "genre": "Country",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Country song in C# Minor that modulates to the parallel Major.",
+        "file_id": "Country_key-modulation_to-the-parallel-Major_3dfee95210a547fd9c0547d191a32951"
+    },
+    {
+        "id": "e42b8b84bc3a4c3fb051cf890134d404",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "0.25 (60 to 75)",
+        "prompt": "Generate a Country song at 60 BPM that increases to 75.",
+        "file_id": "Country_tempo-change_0.25-(60-to-75)_e42b8b84bc3a4c3fb051cf890134d404"
+    },
+    {
+        "id": "499e4832254043608b5573bcee1510f1",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "0.25 (117 to 146)",
+        "prompt": "Generate a Country song at 117 BPM that increases to 146.",
+        "file_id": "Country_tempo-change_0.25-(117-to-146)_499e4832254043608b5573bcee1510f1"
+    },
+    {
+        "id": "c8b042d02db047d9ac83b7701015a1ad",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "0.25 (141 to 176)",
+        "prompt": "Generate a Country song at 141 BPM that increases to 176.",
+        "file_id": "Country_tempo-change_0.25-(141-to-176)_c8b042d02db047d9ac83b7701015a1ad"
+    },
+    {
+        "id": "2f4f7ad8bfa040a3b68c5a18b1c4d032",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "-0.25 (71 to 53)",
+        "prompt": "Generate a Country song at 71 BPM that decreases to 53.",
+        "file_id": "Country_tempo-change_-0.25-(71-to-53)_2f4f7ad8bfa040a3b68c5a18b1c4d032"
+    },
+    {
+        "id": "6f6e868b4a984fd387ab17fcc97e64d3",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "-0.25 (100 to 75)",
+        "prompt": "Generate a Country song at 100 BPM that decreases to 75.",
+        "file_id": "Country_tempo-change_-0.25-(100-to-75)_6f6e868b4a984fd387ab17fcc97e64d3"
+    },
+    {
+        "id": "5a2428fc060840db87514940ab840f4e",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "-0.25 (168 to 126)",
+        "prompt": "Generate a Country song at 168 BPM that decreases to 126.",
+        "file_id": "Country_tempo-change_-0.25-(168-to-126)_5a2428fc060840db87514940ab840f4e"
+    },
+    {
+        "id": "47793f94f30a451999557a1b841e79d5",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "0.5 (77 to 115)",
+        "prompt": "Generate a Country song at 77 BPM that increases to 115.",
+        "file_id": "Country_tempo-change_0.5-(77-to-115)_47793f94f30a451999557a1b841e79d5"
+    },
+    {
+        "id": "fb4a8346543241ee83432ec3c5078946",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "0.5 (113 to 169)",
+        "prompt": "Generate a Country song at 113 BPM that increases to 169.",
+        "file_id": "Country_tempo-change_0.5-(113-to-169)_fb4a8346543241ee83432ec3c5078946"
+    },
+    {
+        "id": "6c1e7e5c79164ee29fdc725f3f332605",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "0.5 (172 to 258)",
+        "prompt": "Generate a Country song at 172 BPM that increases to 258.",
+        "file_id": "Country_tempo-change_0.5-(172-to-258)_6c1e7e5c79164ee29fdc725f3f332605"
+    },
+    {
+        "id": "fcecd34ee7cd41e6851217b9557ea2cd",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "-0.5 (73 to 36)",
+        "prompt": "Generate a Country song at 73 BPM that decreases to 36.",
+        "file_id": "Country_tempo-change_-0.5-(73-to-36)_fcecd34ee7cd41e6851217b9557ea2cd"
+    },
+    {
+        "id": "f837a644ff104e3796a78230e9f1268f",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "-0.5 (129 to 64)",
+        "prompt": "Generate a Country song at 129 BPM that decreases to 64.",
+        "file_id": "Country_tempo-change_-0.5-(129-to-64)_f837a644ff104e3796a78230e9f1268f"
+    },
+    {
+        "id": "734cc647b32545828d9acd0579882eab",
+        "genre": "Country",
+        "task": "tempo change",
+        "target": "-0.5 (177 to 88)",
+        "prompt": "Generate a Country song at 177 BPM that decreases to 88.",
+        "file_id": "Country_tempo-change_-0.5-(177-to-88)_734cc647b32545828d9acd0579882eab"
+    },
+    {
+        "id": "f8e3ff849eb44c38ac0f82d769dd942f",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Country song with a 4/4 time signature at 62 BPM.",
+        "file_id": "Country_time-signature_4/4_f8e3ff849eb44c38ac0f82d769dd942f"
+    },
+    {
+        "id": "65609c8d9786496a81a1a7f6c958f3b6",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Country song with a 4/4 time signature at 116 BPM.",
+        "file_id": "Country_time-signature_4/4_65609c8d9786496a81a1a7f6c958f3b6"
+    },
+    {
+        "id": "93319100eb324227a3a634c2c1d79cc9",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Country song with a 4/4 time signature at 149 BPM.",
+        "file_id": "Country_time-signature_4/4_93319100eb324227a3a634c2c1d79cc9"
+    },
+    {
+        "id": "326341de70d542d5ab7dda08c5512464",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Country song with a 3/4 time signature at 82 BPM.",
+        "file_id": "Country_time-signature_3/4_326341de70d542d5ab7dda08c5512464"
+    },
+    {
+        "id": "444fbf6f6b8849bdae4d99066222e6d0",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Country song with a 3/4 time signature at 107 BPM.",
+        "file_id": "Country_time-signature_3/4_444fbf6f6b8849bdae4d99066222e6d0"
+    },
+    {
+        "id": "a39e8fad3ac64b22b949e24b74ad4f48",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Country song with a 3/4 time signature at 174 BPM.",
+        "file_id": "Country_time-signature_3/4_a39e8fad3ac64b22b949e24b74ad4f48"
+    },
+    {
+        "id": "f5f2fdb8c8dd4c018257a3b359f8a08a",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Country song with a 5/4 time signature at 67 BPM.",
+        "file_id": "Country_time-signature_5/4_f5f2fdb8c8dd4c018257a3b359f8a08a"
+    },
+    {
+        "id": "f80ced1ae4de4f5681f39b4cc2e6f694",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Country song with a 5/4 time signature at 100 BPM.",
+        "file_id": "Country_time-signature_5/4_f80ced1ae4de4f5681f39b4cc2e6f694"
+    },
+    {
+        "id": "a83d4b8356d24243bf39ff5c79c90c1e",
+        "genre": "Country",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Country song with a 5/4 time signature at 151 BPM.",
+        "file_id": "Country_time-signature_5/4_a83d4b8356d24243bf39ff5c79c90c1e"
+    },
+    {
+        "id": "459f4f31f7974f98acfd740453ece0e0",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "61",
+        "prompt": "Generate a Blues song at 61 BPM.",
+        "file_id": "Blues_tempo_61_459f4f31f7974f98acfd740453ece0e0"
+    },
+    {
+        "id": "ca7f75be4e4744998a67d79402e495e8",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "65",
+        "prompt": "Generate a Blues song at 65 BPM.",
+        "file_id": "Blues_tempo_65_ca7f75be4e4744998a67d79402e495e8"
+    },
+    {
+        "id": "8fa1b8e53f1444ddaac410e6432e1759",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "68",
+        "prompt": "Generate a Blues song at 68 BPM.",
+        "file_id": "Blues_tempo_68_8fa1b8e53f1444ddaac410e6432e1759"
+    },
+    {
+        "id": "53c0e1ed14a641c0935dc079299badca",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "67",
+        "prompt": "Generate a Blues song at 67 BPM.",
+        "file_id": "Blues_tempo_67_53c0e1ed14a641c0935dc079299badca"
+    },
+    {
+        "id": "12df97d672ed473d80ea5cae7b1b1313",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "111",
+        "prompt": "Generate a Blues song at 111 BPM.",
+        "file_id": "Blues_tempo_111_12df97d672ed473d80ea5cae7b1b1313"
+    },
+    {
+        "id": "290af84b9e094ab9b2b6d8325a4fe253",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "115",
+        "prompt": "Generate a Blues song at 115 BPM.",
+        "file_id": "Blues_tempo_115_290af84b9e094ab9b2b6d8325a4fe253"
+    },
+    {
+        "id": "8ca471c64b46422e99fb652514b06f4d",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "101",
+        "prompt": "Generate a Blues song at 101 BPM.",
+        "file_id": "Blues_tempo_101_8ca471c64b46422e99fb652514b06f4d"
+    },
+    {
+        "id": "ed09af260cbd41b4a16c3ce1ea8a9cc5",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "104",
+        "prompt": "Generate a Blues song at 104 BPM.",
+        "file_id": "Blues_tempo_104_ed09af260cbd41b4a16c3ce1ea8a9cc5"
+    },
+    {
+        "id": "2a26f7bd44fc4fa1b321a9c774f132d4",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "155",
+        "prompt": "Generate a Blues song at 155 BPM.",
+        "file_id": "Blues_tempo_155_2a26f7bd44fc4fa1b321a9c774f132d4"
+    },
+    {
+        "id": "cebbb0b3d11b488b8e6677a46133fef6",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "160",
+        "prompt": "Generate a Blues song at 160 BPM.",
+        "file_id": "Blues_tempo_160_cebbb0b3d11b488b8e6677a46133fef6"
+    },
+    {
+        "id": "e79065302fb4440d9307da194376e31f",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "170",
+        "prompt": "Generate a Blues song at 170 BPM.",
+        "file_id": "Blues_tempo_170_e79065302fb4440d9307da194376e31f"
+    },
+    {
+        "id": "355b0d3cbd0f43c69b1d1ca26d8fd9cb",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "166",
+        "prompt": "Generate a Blues song at 166 BPM.",
+        "file_id": "Blues_tempo_166_355b0d3cbd0f43c69b1d1ca26d8fd9cb"
+    },
+    {
+        "id": "fb2c27d771734661a22280196650b8f0",
+        "genre": "Blues",
+        "task": "key",
+        "target": "C Major",
+        "prompt": "Generate a Blues song in C Major.",
+        "file_id": "Blues_key_C-Major_fb2c27d771734661a22280196650b8f0"
+    },
+    {
+        "id": "83c7b06d3773408ca1c2fa787319398e",
+        "genre": "Blues",
+        "task": "key",
+        "target": "C Minor",
+        "prompt": "Generate a Blues song in C Minor.",
+        "file_id": "Blues_key_C-Minor_83c7b06d3773408ca1c2fa787319398e"
+    },
+    {
+        "id": "cb02c3117cff418f864e50131a36817f",
+        "genre": "Blues",
+        "task": "key",
+        "target": "D Major",
+        "prompt": "Generate a Blues song in D Major.",
+        "file_id": "Blues_key_D-Major_cb02c3117cff418f864e50131a36817f"
+    },
+    {
+        "id": "1677ca974306463a9b31a4bf64928d4b",
+        "genre": "Blues",
+        "task": "key",
+        "target": "D Minor",
+        "prompt": "Generate a Blues song in D Minor.",
+        "file_id": "Blues_key_D-Minor_1677ca974306463a9b31a4bf64928d4b"
+    },
+    {
+        "id": "828d7d753dec4b9a9dcd866d5174b8ea",
+        "genre": "Blues",
+        "task": "key",
+        "target": "F Major",
+        "prompt": "Generate a Blues song in F Major.",
+        "file_id": "Blues_key_F-Major_828d7d753dec4b9a9dcd866d5174b8ea"
+    },
+    {
+        "id": "eee7bb2a15484e97ae09ec0f56889bdb",
+        "genre": "Blues",
+        "task": "key",
+        "target": "F Minor",
+        "prompt": "Generate a Blues song in F Minor.",
+        "file_id": "Blues_key_F-Minor_eee7bb2a15484e97ae09ec0f56889bdb"
+    },
+    {
+        "id": "366d95e652f24d03a25a8326f39f84b5",
+        "genre": "Blues",
+        "task": "key",
+        "target": "B Major",
+        "prompt": "Generate a Blues song in B Major.",
+        "file_id": "Blues_key_B-Major_366d95e652f24d03a25a8326f39f84b5"
+    },
+    {
+        "id": "a85f7972eb884efbb19b81e79c3b47a7",
+        "genre": "Blues",
+        "task": "key",
+        "target": "B Minor",
+        "prompt": "Generate a Blues song in B Minor.",
+        "file_id": "Blues_key_B-Minor_a85f7972eb884efbb19b81e79c3b47a7"
+    },
+    {
+        "id": "9e3fda06da7d4b9aa0bb90132e88b1d4",
+        "genre": "Blues",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": "Generate a Blues song in C# Major.",
+        "file_id": "Blues_key_C#-Major_9e3fda06da7d4b9aa0bb90132e88b1d4"
+    },
+    {
+        "id": "a36c5bf30c7145c0a291617b7cb86a40",
+        "genre": "Blues",
+        "task": "key",
+        "target": "C# Minor",
+        "prompt": "Generate a Blues song in C# Minor.",
+        "file_id": "Blues_key_C#-Minor_a36c5bf30c7145c0a291617b7cb86a40"
+    },
+    {
+        "id": "e2caa8e9bdfa4e04817def5ecf8eea38",
+        "genre": "Blues",
+        "task": "key",
+        "target": "F# Major",
+        "prompt": "Generate a Blues song in F# Major.",
+        "file_id": "Blues_key_F#-Major_e2caa8e9bdfa4e04817def5ecf8eea38"
+    },
+    {
+        "id": "20b0fb542eb54cb699505ac798873247",
+        "genre": "Blues",
+        "task": "key",
+        "target": "F# Minor",
+        "prompt": "Generate a Blues song in F# Minor.",
+        "file_id": "Blues_key_F#-Minor_20b0fb542eb54cb699505ac798873247"
+    },
+    {
+        "id": "e29bba8d909b4ab8bd35e7f642350e2b",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Blues song in C Minor that modulates to the fifth degree.",
+        "file_id": "Blues_key-modulation_to-the-fifth-degree_e29bba8d909b4ab8bd35e7f642350e2b"
+    },
+    {
+        "id": "c1a7e39a3fdd4e02843f7f24873fc470",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the fifth degree",
+        "prompt": "Generate a Blues song in D Major that modulates to the fifth degree.",
+        "file_id": "Blues_key-modulation_to-the-fifth-degree_c1a7e39a3fdd4e02843f7f24873fc470"
+    },
+    {
+        "id": "459e15fb3e4d457f82f57ae4e794a7e7",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Blues song in C# Major that modulates to the relative Minor.",
+        "file_id": "Blues_key-modulation_to-the-relative-Minor_459e15fb3e4d457f82f57ae4e794a7e7"
+    },
+    {
+        "id": "39f7f0b00ca247778d7fa6ac5574ce8b",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the relative Minor",
+        "prompt": "Generate a Blues song in F Major that modulates to the relative Minor.",
+        "file_id": "Blues_key-modulation_to-the-relative-Minor_39f7f0b00ca247778d7fa6ac5574ce8b"
+    },
+    {
+        "id": "e3a4e5f084eb4419892cc135ff14e682",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Blues song in B Minor that modulates to the relative Major.",
+        "file_id": "Blues_key-modulation_to-the-relative-Major_e3a4e5f084eb4419892cc135ff14e682"
+    },
+    {
+        "id": "50de707a2969480bb7f198087cf25d7b",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the relative Major",
+        "prompt": "Generate a Blues song in F Minor that modulates to the relative Major.",
+        "file_id": "Blues_key-modulation_to-the-relative-Major_50de707a2969480bb7f198087cf25d7b"
+    },
+    {
+        "id": "eadb2b51adf14e9ab8718126c7d3b7e7",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Blues song in C Major that modulates to the parallel Minor.",
+        "file_id": "Blues_key-modulation_to-the-parallel-Minor_eadb2b51adf14e9ab8718126c7d3b7e7"
+    },
+    {
+        "id": "a4253a62fe2249dc8d0f7191e4e189d1",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the parallel Minor",
+        "prompt": "Generate a Blues song in F Major that modulates to the parallel Minor.",
+        "file_id": "Blues_key-modulation_to-the-parallel-Minor_a4253a62fe2249dc8d0f7191e4e189d1"
+    },
+    {
+        "id": "9a5940a3375743e48b6e2b2f084143a2",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Blues song in C# Minor that modulates to the parallel Major.",
+        "file_id": "Blues_key-modulation_to-the-parallel-Major_9a5940a3375743e48b6e2b2f084143a2"
+    },
+    {
+        "id": "ddda7d594e7a49c8a6cf9c344201eb9f",
+        "genre": "Blues",
+        "task": "key modulation",
+        "target": "to the parallel Major",
+        "prompt": "Generate a Blues song in F Minor that modulates to the parallel Major.",
+        "file_id": "Blues_key-modulation_to-the-parallel-Major_ddda7d594e7a49c8a6cf9c344201eb9f"
+    },
+    {
+        "id": "4eb037aab6b348c1ace5325d1beecc0f",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "0.25 (70 to 87)",
+        "prompt": "Generate a Blues song at 70 BPM that increases to 87.",
+        "file_id": "Blues_tempo-change_0.25-(70-to-87)_4eb037aab6b348c1ace5325d1beecc0f"
+    },
+    {
+        "id": "4c7d9961c3704a4f85c4d199295951c7",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "0.25 (122 to 152)",
+        "prompt": "Generate a Blues song at 122 BPM that increases to 152.",
+        "file_id": "Blues_tempo-change_0.25-(122-to-152)_4c7d9961c3704a4f85c4d199295951c7"
+    },
+    {
+        "id": "9964e4f747ff46ad81af2511c00bd5fd",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "0.25 (161 to 201)",
+        "prompt": "Generate a Blues song at 161 BPM that increases to 201.",
+        "file_id": "Blues_tempo-change_0.25-(161-to-201)_9964e4f747ff46ad81af2511c00bd5fd"
+    },
+    {
+        "id": "5a40abaa087e4d86826346e47153d880",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "-0.25 (84 to 63)",
+        "prompt": "Generate a Blues song at 84 BPM that decreases to 63.",
+        "file_id": "Blues_tempo-change_-0.25-(84-to-63)_5a40abaa087e4d86826346e47153d880"
+    },
+    {
+        "id": "915e929bac634bb1af80659c94bb5c57",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "-0.25 (107 to 80)",
+        "prompt": "Generate a Blues song at 107 BPM that decreases to 80.",
+        "file_id": "Blues_tempo-change_-0.25-(107-to-80)_915e929bac634bb1af80659c94bb5c57"
+    },
+    {
+        "id": "fefdaf4a5d6540cbb03a70f1b1e6998a",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "-0.25 (155 to 116)",
+        "prompt": "Generate a Blues song at 155 BPM that decreases to 116.",
+        "file_id": "Blues_tempo-change_-0.25-(155-to-116)_fefdaf4a5d6540cbb03a70f1b1e6998a"
+    },
+    {
+        "id": "123c18c954cf4ec4b99f806e54534378",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "0.5 (61 to 91)",
+        "prompt": "Generate a Blues song at 61 BPM that increases to 91.",
+        "file_id": "Blues_tempo-change_0.5-(61-to-91)_123c18c954cf4ec4b99f806e54534378"
+    },
+    {
+        "id": "7f23412ef6b443c5bceb6aa1985200af",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "0.5 (116 to 174)",
+        "prompt": "Generate a Blues song at 116 BPM that increases to 174.",
+        "file_id": "Blues_tempo-change_0.5-(116-to-174)_7f23412ef6b443c5bceb6aa1985200af"
+    },
+    {
+        "id": "126833f600d042b080ee4f200deb8268",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "0.5 (158 to 237)",
+        "prompt": "Generate a Blues song at 158 BPM that increases to 237.",
+        "file_id": "Blues_tempo-change_0.5-(158-to-237)_126833f600d042b080ee4f200deb8268"
+    },
+    {
+        "id": "3a19e8be0c144227b7e0e3e60ba5ec05",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "-0.5 (64 to 32)",
+        "prompt": "Generate a Blues song at 64 BPM that decreases to 32.",
+        "file_id": "Blues_tempo-change_-0.5-(64-to-32)_3a19e8be0c144227b7e0e3e60ba5ec05"
+    },
+    {
+        "id": "d711a71e325f4108bba7d46c42b5b633",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "-0.5 (122 to 61)",
+        "prompt": "Generate a Blues song at 122 BPM that decreases to 61.",
+        "file_id": "Blues_tempo-change_-0.5-(122-to-61)_d711a71e325f4108bba7d46c42b5b633"
+    },
+    {
+        "id": "b249d9bb62c64354b8b7b4859d6e3a41",
+        "genre": "Blues",
+        "task": "tempo change",
+        "target": "-0.5 (156 to 78)",
+        "prompt": "Generate a Blues song at 156 BPM that decreases to 78.",
+        "file_id": "Blues_tempo-change_-0.5-(156-to-78)_b249d9bb62c64354b8b7b4859d6e3a41"
+    },
+    {
+        "id": "5c2df06c7b194716afe003e6d4e5c1aa",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Blues song with a 4/4 time signature at 70 BPM.",
+        "file_id": "Blues_time-signature_4/4_5c2df06c7b194716afe003e6d4e5c1aa"
+    },
+    {
+        "id": "f4d565b791af4133a6b4c26e71ef40b5",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Blues song with a 4/4 time signature at 126 BPM.",
+        "file_id": "Blues_time-signature_4/4_f4d565b791af4133a6b4c26e71ef40b5"
+    },
+    {
+        "id": "393b0ca062014cd2bfbd696c00f4cc9d",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "4/4",
+        "prompt": "Generate a Blues song with a 4/4 time signature at 162 BPM.",
+        "file_id": "Blues_time-signature_4/4_393b0ca062014cd2bfbd696c00f4cc9d"
+    },
+    {
+        "id": "146ca89f57544940af23620010bc59e7",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Blues song with a 3/4 time signature at 63 BPM.",
+        "file_id": "Blues_time-signature_3/4_146ca89f57544940af23620010bc59e7"
+    },
+    {
+        "id": "21a8183b040a4c948c8617b042059e62",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Blues song with a 3/4 time signature at 107 BPM.",
+        "file_id": "Blues_time-signature_3/4_21a8183b040a4c948c8617b042059e62"
+    },
+    {
+        "id": "55d04b6cf3034174947ed51aea1316e4",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "3/4",
+        "prompt": "Generate a Blues song with a 3/4 time signature at 145 BPM.",
+        "file_id": "Blues_time-signature_3/4_55d04b6cf3034174947ed51aea1316e4"
+    },
+    {
+        "id": "f5d71980cfe24154a635776de20e1478",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Blues song with a 5/4 time signature at 75 BPM.",
+        "file_id": "Blues_time-signature_5/4_f5d71980cfe24154a635776de20e1478"
+    },
+    {
+        "id": "25c3603162a341eeb06b107a68245324",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Blues song with a 5/4 time signature at 101 BPM.",
+        "file_id": "Blues_time-signature_5/4_25c3603162a341eeb06b107a68245324"
+    },
+    {
+        "id": "bf72d3392809485b8152715ec5f9c86c",
+        "genre": "Blues",
+        "task": "time signature",
+        "target": "5/4",
+        "prompt": "Generate a Blues song with a 5/4 time signature at 159 BPM.",
+        "file_id": "Blues_time-signature_5/4_bf72d3392809485b8152715ec5f9c86c"
+    }
+]
