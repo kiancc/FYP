@@ -1,5 +1,3 @@
-import os, time, json, datetime
-import pandas as pd
 from acestep.pipeline_ace_step import ACEStepPipeline
 from core.generators.base import MusicGenerator
 
@@ -26,4 +24,12 @@ class AceStepAdapter(MusicGenerator):
         )
 
     def generate(self, prompt):
+        self.model(
+            audio_duration=float(self.audio_duration),
+            prompt=prompt,
+            lyrics='[Instrumental]',
+            infer_step=int(self.infer_steps),
+            guidance_scale=float(self.guidance_scale),
+            save_path=self.out_path
+        )
         return audio_bytes
