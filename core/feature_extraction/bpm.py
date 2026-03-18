@@ -9,4 +9,5 @@ def extract_bpm_librosa(audio, sr, file_id):
 def extract_bpm_essentia(audio, file_id):
     rhythm_extractor = es.RhythmExtractor2013(method="multifeature")
     bpm, beats, confidence, _, _ = rhythm_extractor(audio)
+
     return {"file_id": file_id, "bpm_essentia": bpm, "beats_confidence": confidence, "beats_essentia": beats.tolist()}

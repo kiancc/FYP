@@ -11,11 +11,11 @@ class FeaturePipeline:
     def process_file(self, file_path, file_id):
         row = {}
 
-        librosa_audio, sr = librosa.load(file_path, sr=None, mono=True)
-        essentia_audio = es.MonoLoader(filename=file_path)()
-        row.update(extract_bpm_essentia(librosa_audio, file_id))
-        row.update(extract_bpm_librosa(essentia_audio, sr, file_id))
-        row.update(extract_essentia_key_scale(essentia_audio, file_id))
+        audio, sr = librosa.load(file_path, sr=44100, mono=True)
+
+        row.update(extract_bpm_essentia(audio, file_id))
+        row.update(extract_bpm_librosa(audio, sr, file_id))
+        row.update(extract_essentia_key_scale(audio, file_id))
 
         print(f'Extracted features for {file_path}')
         return row
