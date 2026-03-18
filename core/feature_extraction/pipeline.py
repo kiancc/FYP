@@ -3,22 +3,20 @@ import librosa
 import essentia.standard as es
 import pandas as pd
 
+from core.feature_extraction.bpm import extract_bpm_librosa, extract_bpm_essentia
+from core.feature_extraction.key_scale import extract_essentia_key_scale
+
 class FeaturePipeline:
-    def __init__(self, extractors):
-        # extractors: list of (audio_type, fn) tuples
-        # audio_type is 'librosa' or 'essentia'
-        self.extractors = extractors
 
     def process_file(self, file_path, file_id):
-        librosa_audio, sr = librosa.load(file_path, sr=None, mono=True)
-        essentia_audio = es.MonoLoader(filename=file_path)()
         row = {}
 
-        for audio_type, extractor in self.extractors:
-            if audio_type == 'librosa':
-                row.update(extractor(librosa_audio, sr, file_id))
-            elif audio_type == 'essentia':
-                row.update(extractor(essentia_audio, file_id))
+        librosa_audio, sr = librosa.load(file_path, sr=None, mono=True)
+        essentia_audio = es.MonoLoader(filename=file_path)()
+        row.update(extract_bpm_essentia(librosa_audio, file_id))
+        row.update(extract_bpm_librosa(essentia_audio, sr, file_id))
+        row.update(extract_essentia_key_scale(essentia_audio, file_id))
+
         print(f'Extracted features for {file_path}')
         return row
 
