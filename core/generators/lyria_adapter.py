@@ -5,6 +5,7 @@ import requests
 
 from core.generators.base import MusicGenerator
 from config.api_config import LYRIA_MODEL
+from core.generators.utils import exponential_backoff_request
 
 BATCH_SAMPLE_COUNT = 1
 
@@ -55,7 +56,8 @@ class LyriaAdapter(MusicGenerator):
             "Content-Type": "application/json",
         }
 
-        response = requests.post(api_endpoint, headers=headers, json=data)
+        # response = requests.post(api_endpoint, headers=headers, json=data)
+        response = exponential_backoff_request('POST', api_endpoint, headers=headers, json=data)
         response.raise_for_status()
         return response.json()
 
@@ -65,5 +67,3 @@ class LyriaAdapter(MusicGenerator):
         return resp["predictions"]
 
     # --- END OF THIRD-PARTY CODE ---
-
-
