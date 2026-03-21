@@ -1,15 +1,9 @@
 import numpy as np
 
-def extract_bpm_change(self, audio, window_size=15):
+def extract_bpm_change(bpm, beats, window_size=15):
     """
     Analyzes the audio to see if tempo increased from start to finish.
     """
-    # Initialize Essentia's Rhythm Extractor
-    rhythm_extractor = es.RhythmExtractor2013(method="multifeature")
-    
-    # bpm: Global average BPM
-    # ticks: The exact time (in seconds) of every detected beat
-    bpm, beats, confidence, estimates, bpm_intervals = rhythm_extractor(audio)
 
     # If the algorithm failed to find enough beats, return fail state
     if len(beats) < (window_size * 2):
@@ -44,6 +38,5 @@ def extract_bpm_change(self, audio, window_size=15):
         "global_bpm": bpm,
         "start_bpm": round(start_bpm, 2),
         "end_bpm": round(end_bpm, 2),
-        "tempo_increased": bool(increased),
-        "rhythm_confidence": confidence
+        "tempo_increased": bool(increased)
     }

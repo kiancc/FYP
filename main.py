@@ -4,7 +4,7 @@ from core.generators.lyria_adapter import LyriaAdapter
 # from core.generators.acestep_adapter import AceStepAdapter
 from core.feature_extraction.pipeline import FeaturePipeline
 
-generation_outputs_dir_cloud = "/content/drive/MyDrive" # for google cloud
+generation_outputs_dir_cloud = "/content/drive/MyDrive/fyp_audio" # for google cloud
 generation_outputs_dir_local = 'data/audio_files' # for package
 
 # TODO:  run generation
@@ -41,6 +41,7 @@ def run_feature_extraction(generation_outputs_dir):
     for subdir in os.listdir(generation_outputs_dir):
         subdir_path = os.path.join(generation_outputs_dir, subdir)
         root = subdir_path.split('/')[0]
+        
         outdir = os.path.join(root, f'features')
 
         if not os.path.isdir(subdir_path):
