@@ -2,17 +2,25 @@ import os
 import pandas as pd
 
 from core.generators.lyria_adapter import LyriaAdapter
-# from core.generators.acestep_adapter import AceStepAdapter
-# from core.feature_extraction.pipeline import FeaturePipeline
+from core.generators.acestep_adapter import AceStepAdapter
+from core.feature_extraction.pipeline import FeaturePipeline
 
-def run_generation(output_dir, prompt_csv):
+def run_generation(output_dir, prompt_csv, generator_names=None):
     if not os.path.exists(prompt_csv):
         raise FileNotFoundError(f"Prompt file not found at {prompt_csv}")
 
     prompt_tasks_df = pd.read_csv(prompt_csv, dtype=str)
     # when you have setup the adapter for a new model, 
     # just add it to the list of generators
-    generators = [LyriaAdapter()]
+    generator_map = {
+        'acestep': AceStepAdapter,
+        'lyria': LyriaAdapter,
+    }
+
+    if not generator_names:
+        generator_names = list(generator_map.keys())
+        
+    generators = [generator_map[name]() for name in generator_names if name in generator_map]
 
     for generator in generators:
         model_path = os.path.join(output_dir, generator.model_name)
