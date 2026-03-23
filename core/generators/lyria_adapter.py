@@ -1,13 +1,14 @@
 import base64
 import google.auth
 import google.auth.transport.requests
+import logging
 import requests
 
 from core.generators.base import MusicGenerator
 from config.api_config import LYRIA_MODEL
 from core.generators.utils import exponential_backoff_request
 
-BATCH_SAMPLE_COUNT = 1
+logger = logging.getLogger(__name__)
 
 class LyriaAdapter(MusicGenerator):
     
@@ -55,10 +56,15 @@ class LyriaAdapter(MusicGenerator):
             "Authorization": f"Bearer {access_token}",
             "Content-Type": "application/json",
         }
-
-        response = requests.post(api_endpoint, headers=headers, json=data)
-        response.raise_for_status()
-        return response.json()
+        
+        try:
+            response = requests.post(api_endpoint, headers=headers, json=data)
+            response.raise_for_status()
+            return response.json()
+        except requests.exceptions.HTTPError as e:
+            if e.response is not None and e.response.status_code == 400:
+                logger.error("Google API 400: %s", e.response.text)
+            raise
 
     def generate_music(self, request: dict):
         req = {"instances": [request], "parameters": {}}
