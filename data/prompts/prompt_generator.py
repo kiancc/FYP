@@ -30,7 +30,7 @@ class GeneratePrompts:
 
         print(df['task'].value_counts())
 
-        df.to_excel('master_prompts_v2.xlsx', index=False)
+        df.to_excel('master_prompts.xlsx', index=False)
         print('Generated Prompts')
 
     def add_record(self, genre, task, target, prompt):
@@ -106,5 +106,5 @@ class GeneratePrompts:
                 prompt = f'Generate a {genre} song with a {time_sig} time signature at {bpm} BPM.'
                 self.add_record(genre, 'time signature', time_sig, prompt)
 
-prompt_generator = GeneratePrompts()
-prompt_generator.generate_prompts()
+# prompt_generator = GeneratePrompts()
+# prompt_generator.generate_prompts()

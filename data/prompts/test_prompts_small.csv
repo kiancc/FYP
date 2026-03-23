@@ -1,0 +1,6 @@
+id,genre,task,target,prompt,file_id
+TEST_e2caa8e9bdfa4e04817def5ecf8eea38,Blues,key,F# Major,Generate a Blues song in F# Major.,TEST_Blues_key_F#-Major_e2caa8e9bdfa4e04817def5ecf8eea38
+TEST_e29bba8d909b4ab8bd35e7f642350e2b,Blues,key modulation,to the fifth degree,Generate a Blues song in C Minor that modulates to the fifth degree.,TEST_Blues_key-modulation_to-the-fifth-degree_e29bba8d909b4ab8bd35e7f642350e2b
+TEST_355b0d3cbd0f43c69b1d1ca26d8fd9cb,Blues,tempo,166,Generate a Blues song at 166 BPM.,TEST_Blues_tempo_166_355b0d3cbd0f43c69b1d1ca26d8fd9cb
+TEST_4c7d9961c3704a4f85c4d199295951c7,Blues,tempo change,0.25 (122 to 152),Generate a Blues song at 122 BPM that increases to 152.,TEST_Blues_tempo-change_0.25-(122-to-152)_4c7d9961c3704a4f85c4d199295951c7
+TEST_21a8183b040a4c948c8617b042059e62,Blues,time signature,03-Apr,Generate a Blues song with a 3/4 time signature at 107 BPM.,TEST_Blues_time-signature_3/4_21a8183b040a4c948c8617b042059e62

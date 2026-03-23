@@ -9,8 +9,6 @@ def run_generation(output_dir, prompt_csv):
         raise FileNotFoundError(f"Prompt file not found at {prompt_csv}")
 
     prompt_tasks_df = pd.read_csv(prompt_csv, dtype=str)
-    
-    
     generators = [LyriaAdapter(), AceStepAdapter()]
 
     for generator in generators:
@@ -42,25 +40,43 @@ def run_feature_extraction(audio_dir):
     processed_files = set()
 
     for model_features_csv in os.listdir(features_out_dir):
+        model_name = model_features_csv.split('_')[0]
         features_df = pd.read_csv(os.path.join(features_out_dir, model_features_csv))
-        processed_files.update(features_df.get("file_id", pd.Series()).unique())
-
+        processed_files.update(f"{model_name}_{file_id}" for file_id in features_df.get("file_id", pd.Series()).unique())
+    
     for model_name in os.listdir(audio_dir):
         model_path = os.path.join(audio_dir, model_name)
+
         if not os.path.isdir(model_path):
             continue
             
         print(f"Extracting features for model: {model_name}")
         df = pipeline.process_directory(model_path, processed_files)
+
+        if df.empty:
+            print(f"No new features to extract for {model_name}")
+            continue
         
         output_file = os.path.join(features_out_dir, f"{model_name}_features.csv")
-        df.to_csv(output_file, index=False)
-        print(f"Saved features to {output_file}")
+        
+        if os.path.exists(output_file):
+            existing_df = pd.read_csv(output_file)
+            overlap = set(df.get("file_id", pd.Series())) & set(existing_df.get("file_id", pd.Series()))
+            if overlap:
+                print(f"file_id's already exist in {output_file}")
+                continue
+
+            combined_df = pd.concat([existing_df, df], ignore_index=True)
+            combined_df.to_csv(output_file, index=False)
+            print(f"extended {output_file} with {len(df)} new records")
+        else:
+            df.to_csv(output_file, index=False)
+            print(f"Created {output_file} with {len(df)} records")
 
 if __name__ == "__main__":
     # Local defaults for when running main.py directly
     LOCAL_AUDIO = 'data/audio_files'
-    LOCAL_PROMPTS = 'data/prompts/master_prompts_v2.csv'
+    LOCAL_PROMPTS = 'data/prompts/master_prompts.csv'
     
     run_generation(LOCAL_AUDIO, LOCAL_PROMPTS)
     run_feature_extraction(LOCAL_AUDIO)

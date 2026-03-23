@@ -25,8 +25,15 @@ class FeaturePipeline:
 
     def process_directory(self, dir_path, processed_files):
         rows = []
+        
         for filename in os.listdir(dir_path):
-            file_id = os.path.splitext(filename)[0]
+            # this hackyness is because the audio file generated my each model is {model_name}_{file_id}
+            # i.e. Lyria-002_Pop_tempo_100_80d685f3b5a24783b91ac231d61a3b4a.wav.
+            # Due to the directory structure we can just have the file_id without risk of colliding filenames
+            # but for sake of speed will just do this as this requires change and this hacky logic is already
+            # coupled in other code ffs
+            file_id = '_'.join(os.path.splitext(filename)[0].split('_')[1:])
+            
             if file_id in processed_files:
                 print(f'File already processed: {filename}')
                 continue
