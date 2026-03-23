@@ -5,12 +5,13 @@ import essentia.streaming as es
 # not that elegant but will fix later, it works for now.
 
 def extract_essentia_key_scale(audio, file_id):
-    key, scale = essentia_detect_key(audio)
+    key, scale, strength = essentia_detect_key(audio)
     
     return {
         'file_id': file_id,
         'key': key,
-        'scale': scale
+        'scale': scale,
+        'strength': strength
     }
     
 # Taken from https://essentia.upf.edu/tutorial_tonal_hpcpkeyscale.html
@@ -69,4 +70,4 @@ def essentia_detect_key(audio):
 
     # print("Estimated key and scale:", pool['tonal.key_key'] + " " + pool['tonal.key_scale'])
 
-    return (pool['tonal.key_key'], pool['tonal.key_scale'])
+    return (pool['tonal.key_key'], pool['tonal.key_scale'], pool['tonal.key_strength'])

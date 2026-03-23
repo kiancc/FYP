@@ -2,7 +2,7 @@ import os
 import pandas as pd
 from core.generators.lyria_adapter import LyriaAdapter
 # from core.generators.acestep_adapter import AceStepAdapter
-# from core.feature_extraction.pipeline import FeaturePipeline
+from core.feature_extraction.pipeline import FeaturePipeline
 
 generation_outputs_dir_cloud = "/content/drive/MyDrive/fyp_audio" # for google cloud
 prompt_tasks_path_cloud = "/content/master_prompts_v2.csv"
@@ -84,8 +84,8 @@ def run_feature_extraction(generation_outputs_dir):
 
 
 def main():
-    run_generation(generation_outputs_dir_local, prompt_tasks_path_local)
-    # run_feature_extraction()
+    # run_generation(generation_outputs_dir_local, prompt_tasks_path_local)
+    run_feature_extraction(generation_outputs_dir_local)
     # run_plotting_analysis()
     # run_feature_extraction(generation_outputs_dir_local)
 

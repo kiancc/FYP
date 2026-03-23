@@ -6,6 +6,7 @@ import pandas as pd
 from core.feature_extraction.bpm import extract_bpm_librosa, extract_bpm_essentia
 from core.feature_extraction.key_scale import extract_essentia_key_scale
 from core.feature_extraction.bpm_change import extract_bpm_change
+from core.feature_extraction.mirex_key import mirex_key
 
 class FeaturePipeline:
 
