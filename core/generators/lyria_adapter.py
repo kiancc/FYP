@@ -20,6 +20,8 @@ class LyriaAdapter(MusicGenerator):
         prediction = self.generate_music(
             {"prompt": prompt}
         )
+        if not prediction:
+            return None
 
         audio_bytes = dict(prediction[0])["bytesBase64Encoded"] # use to be called bytes_b64
         # decoded_audio_data = base64.b64decode(bytes_b64)
@@ -59,7 +61,7 @@ class LyriaAdapter(MusicGenerator):
         
         try:
             response = requests.post(api_endpoint, headers=headers, json=data)
-            # response.raise_for_status()
+            response.raise_for_status()
             return response.json()
         except requests.exceptions.HTTPError as e:
             if e.response is not None and e.response.status_code == 400:
