@@ -6,7 +6,6 @@ import requests
 
 from core.generators.base import MusicGenerator
 from config.api_config import LYRIA_MODEL
-from core.generators.utils import exponential_backoff_request
 
 logger = logging.getLogger(__name__)
 
