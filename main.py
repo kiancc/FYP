@@ -39,13 +39,19 @@ def run_feature_extraction(audio_dir):
     features_out_dir = os.path.join(parent_dir, "features")
     os.makedirs(features_out_dir, exist_ok=True)
 
+    processed_files = set()
+
+    for model_features_csv in os.listdir(features_out_dir):
+        features_df = pd.read_csv(os.path.join(features_out_dir, model_features_csv))
+        processed_files.update(features_df.get("file_id", pd.Series()).unique())
+
     for model_name in os.listdir(audio_dir):
         model_path = os.path.join(audio_dir, model_name)
         if not os.path.isdir(model_path):
             continue
             
         print(f"Extracting features for model: {model_name}")
-        df = pipeline.process_directory(model_path)
+        df = pipeline.process_directory(model_path, processed_files)
         
         output_file = os.path.join(features_out_dir, f"{model_name}_features.csv")
         df.to_csv(output_file, index=False)
