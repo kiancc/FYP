@@ -23,10 +23,13 @@ class FeaturePipeline:
         print(f'Extracted features for {file_path}')
         return row
 
-    def process_directory(self, dir_path):
+    def process_directory(self, dir_path, processed_files):
         rows = []
         for filename in os.listdir(dir_path):
             file_id = os.path.splitext(filename)[0]
+            if file_id in processed_files:
+                continue
+            
             if '.mp3' in filename or '.wav' in filename:
                 try:
                     rows.append(self.process_file(os.path.join(dir_path, filename), file_id))
