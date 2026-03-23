@@ -3,7 +3,7 @@ librosa
 # git+https://github.com/ace-step/ACE-Step.git
 seaborn
 pandas
-matplotlib
+# matplotlib
 google
 google-auth
 requests
