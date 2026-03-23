@@ -24,12 +24,11 @@ class AceStepAdapter(MusicGenerator):
         )
 
     def generate(self, prompt):
-        self.model(
+        return self.model(
             audio_duration=float(self.audio_duration),
             prompt=prompt,
             lyrics='[Instrumental]',
             infer_step=int(self.infer_steps),
             guidance_scale=float(self.guidance_scale),
-            save_path=self.out_path
         )
-        return audio_bytes
+        
