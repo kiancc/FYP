@@ -23,12 +23,13 @@ class AceStepAdapter(MusicGenerator):
             cpu_offload=self.cpu_offload
         )
 
-    def generate(self, prompt):
+    def generate(self, prompt, out_path):
         return self.model(
             audio_duration=float(self.audio_duration),
             prompt=prompt,
             lyrics='[Instrumental]',
             infer_step=int(self.infer_steps),
             guidance_scale=float(self.guidance_scale),
+            save_path=out_path
         )
         

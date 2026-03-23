@@ -15,7 +15,7 @@ class LyriaAdapter(MusicGenerator):
         self.model_name = 'Lyria-002'
         self.music_model = LYRIA_MODEL # model is limited to 30 seconds
 
-    def generate(self, prompt):
+    def generate(self, prompt, out_path):
         prediction = self.generate_music(
             {"prompt": prompt}
         )
@@ -24,6 +24,7 @@ class LyriaAdapter(MusicGenerator):
 
         audio_bytes = dict(prediction[0])["bytesBase64Encoded"] # use to be called bytes_b64
         # decoded_audio_data = base64.b64decode(bytes_b64)
+        self.save(audio_bytes, out_path)
         return audio_bytes
     
     # --- START OF THIRD-PARTY CODE ---
@@ -75,3 +76,8 @@ class LyriaAdapter(MusicGenerator):
         return resp["predictions"]
 
     # --- END OF THIRD-PARTY CODE ---
+
+    def save(self, audio_b64, out_path):
+        
+        with open(out_path, "wb") as f:
+            f.write(base64.b64decode(audio_b64))

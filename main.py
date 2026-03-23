@@ -39,7 +39,7 @@ def run_generation(output_dir, prompt_csv, generator_names=None):
                 continue
                 
             print(f"Generating [{generator.model_name}]: {prompt_text[:30]}...")
-            audio_b64 = generator.generate(prompt_text)
+            audio_b64 = generator.generate(prompt_text, out_path)
 
             if audio_b64:
                 generator.save(audio_b64, out_path)
