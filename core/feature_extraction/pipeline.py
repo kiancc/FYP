@@ -28,8 +28,9 @@ class FeaturePipeline:
         for filename in os.listdir(dir_path):
             file_id = os.path.splitext(filename)[0]
             if file_id in processed_files:
+                print(f'File already processed: {filename}')
                 continue
-            
+
             if '.mp3' in filename or '.wav' in filename:
                 try:
                     rows.append(self.process_file(os.path.join(dir_path, filename), file_id))
