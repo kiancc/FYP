@@ -69,6 +69,8 @@ class LyriaAdapter(MusicGenerator):
     def generate_music(self, request: dict):
         req = {"instances": [request], "parameters": {}}
         resp = self.send_request_to_google_api(self.music_model, req)
+        if not resp:
+            return None
         return resp["predictions"]
 
     # --- END OF THIRD-PARTY CODE ---
