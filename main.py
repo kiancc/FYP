@@ -29,7 +29,8 @@ def run_generation(output_dir, prompt_csv):
                 
             print(f"Generating [{generator.model_name}]: {prompt_text[:30]}...")
             audio_b64 = generator.generate(prompt_text)
-            generator.save(audio_b64, out_path)
+            if audio_b64:
+                generator.save(audio_b64, out_path)
 
 def run_feature_extraction(audio_dir):
     pipeline = FeaturePipeline()

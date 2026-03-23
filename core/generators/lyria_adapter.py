@@ -64,7 +64,7 @@ class LyriaAdapter(MusicGenerator):
         except requests.exceptions.HTTPError as e:
             if e.response is not None and e.response.status_code == 400:
                 logger.error("Google API 400: %s", e.response.text)
-            raise
+            return None
 
     def generate_music(self, request: dict):
         req = {"instances": [request], "parameters": {}}
