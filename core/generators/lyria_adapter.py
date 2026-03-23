@@ -17,7 +17,7 @@ class LyriaAdapter(MusicGenerator):
 
     def generate(self, prompt):
         prediction = self.generate_music(
-            {"prompt": prompt, "sample_count": BATCH_SAMPLE_COUNT}
+            {"prompt": prompt}
         )
 
         audio_bytes = dict(prediction[0])["bytesBase64Encoded"] # use to be called bytes_b64
@@ -56,8 +56,7 @@ class LyriaAdapter(MusicGenerator):
             "Content-Type": "application/json",
         }
 
-        # response = requests.post(api_endpoint, headers=headers, json=data)
-        response = exponential_backoff_request('POST', api_endpoint, headers=headers, json=data)
+        response = requests.post(api_endpoint, headers=headers, json=data)
         response.raise_for_status()
         return response.json()
 
