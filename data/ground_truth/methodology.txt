@@ -1,0 +1,16 @@
+basically had to get bpm and key data for tracks from FMA. To do this I used FMA K and fma_medium and the echonest features. I then made the 
+following scripts:
+- fma_key_mode_sample.py
+- fma_bpm_sampe.py
+And these extracted random sample of 5 tracks per genre, excluding Metal as its not in FMA, with BPM and key annotations.
+Then, fma_match_ground_truth_to_audio takes the track ids from the csv files generated with the annotations, and 
+matches the track_ids to the audio files. A new directory is then made with these audio files copied over with only the files
+we need. 
+
+The reason I did this was initially I was trying to manually download the tracks from the freemusicarchive website, but it was
+extremely tedious using the UI to find a song, look up its track id, check if its in the fma k dataset for key or the echnoest 
+dataset for BPM. By automating the process by merging the relevant dataframes, echonest.csv and tracks.csv for BPM, and 
+{whatever fma keys is called}.csv and tracks.csv using the fma_medium subset, we can randomly select a choice number of tracks
+for each genre and feature in a repeatable process, and is algorithmically guaranteed to be free of human error.
+Further expansion could be made into generalising the ground truth dataset
+ingestion and processing for features.
