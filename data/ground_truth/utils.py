@@ -1,5 +1,6 @@
-import dotenv
-import pydot
+# # Adapted from https://github.com/stellaywong/fma_keys/blob/master/utils.py
+# import dotenv
+# import pydot
 import requests
 import numpy as np
 import pandas as pd
@@ -10,14 +11,13 @@ import multiprocessing.sharedctypes as sharedctypes
 import os.path
 import ast
 
-
 # Number of samples per 30s audio clip.
 # TODO: fix dataset to be constant.
 NB_AUDIO_SAMPLES = 1321967
 SAMPLING_RATE = 44100
 
 # Load the environment from the .env file.
-dotenv.load_dotenv(dotenv.find_dotenv())
+# dotenv.load_dotenv(dotenv.find_dotenv())
 
 
 class FreeMusicArchive:
@@ -130,54 +130,54 @@ class FreeMusicArchive:
         return df
 
 
-class Genres:
+# class Genres:
 
-    def __init__(self, genres_df):
-        self.df = genres_df
+#     def __init__(self, genres_df):
+#         self.df = genres_df
 
-    def create_tree(self, roots, depth=None):
+#     def create_tree(self, roots, depth=None):
 
-        if type(roots) is not list:
-            roots = [roots]
-        graph = pydot.Dot(graph_type='digraph', strict=True)
+#         if type(roots) is not list:
+#             roots = [roots]
+#         graph = pydot.Dot(graph_type='digraph', strict=True)
 
-        def create_node(genre_id):
-            title = self.df.at[genre_id, 'title']
-            ntracks = self.df.at[genre_id, '#tracks']
-            # name = self.df.at[genre_id, 'title'] + '\n' + str(genre_id)
-            name = '"{}\n{} / {}"'.format(title, genre_id, ntracks)
-            return pydot.Node(name)
+#         def create_node(genre_id):
+#             title = self.df.at[genre_id, 'title']
+#             ntracks = self.df.at[genre_id, '#tracks']
+#             # name = self.df.at[genre_id, 'title'] + '\n' + str(genre_id)
+#             name = '"{}\n{} / {}"'.format(title, genre_id, ntracks)
+#             return pydot.Node(name)
 
-        def create_tree(root_id, node_p, depth):
-            if depth == 0:
-                return
-            children = self.df[self.df['parent'] == root_id]
-            for child in children.iterrows():
-                genre_id = child[0]
-                node_c = create_node(genre_id)
-                graph.add_edge(pydot.Edge(node_p, node_c))
-                create_tree(genre_id, node_c,
-                            depth-1 if depth is not None else None)
+#         def create_tree(root_id, node_p, depth):
+#             if depth == 0:
+#                 return
+#             children = self.df[self.df['parent'] == root_id]
+#             for child in children.iterrows():
+#                 genre_id = child[0]
+#                 node_c = create_node(genre_id)
+#                 graph.add_edge(pydot.Edge(node_p, node_c))
+#                 create_tree(genre_id, node_c,
+#                             depth-1 if depth is not None else None)
 
-        for root in roots:
-            node_p = create_node(root)
-            graph.add_node(node_p)
-            create_tree(root, node_p, depth)
+#         for root in roots:
+#             node_p = create_node(root)
+#             graph.add_node(node_p)
+#             create_tree(root, node_p, depth)
 
-        return graph
+#         return graph
 
-    def find_roots(self):
-        roots = []
-        for gid, row in self.df.iterrows():
-            parent = row['parent']
-            title = row['title']
-            if parent == 0:
-                roots.append(gid)
-            elif parent not in self.df.index:
-                msg = '{} ({}) has parent {} which is missing'.format(
-                        gid, title, parent)
-                raise RuntimeError(msg)
-        return roots
+#     def find_roots(self):
+#         roots = []
+#         for gid, row in self.df.iterrows():
+#             parent = row['parent']
+#             title = row['title']
+#             if parent == 0:
+#                 roots.append(gid)
+#             elif parent not in self.df.index:
+#                 msg = '{} ({}) has parent {} which is missing'.format(
+#                         gid, title, parent)
+#                 raise RuntimeError(msg)
+#         return roots
 
 
 def load(filepath):
@@ -225,6 +225,8 @@ def load(filepath):
 
         return tracks
 
+    if 'keys' in filename:
+        return pd.read_csv(filepath, index_col=0, header=[0, 1])
 
 def get_audio_path(audio_dir, track_id):
     """
