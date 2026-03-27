@@ -7,6 +7,7 @@ from fma_prompt_utils import (
     RANDOM_SEED,
     build_minimal_prompt_record,
     write_prompt_records_json,
+    padded_track_id,
 )
 # okay so first is to load data, then we join echonest and genres, then we find our genre and bpm
 # this will be used for creating the BPM tests
@@ -59,6 +60,8 @@ output_df = sample_5_per_genre[[
 output_df.columns = ["title", "genre", "key_and_mode"]
 output_df.insert(0, "track_id", sample_5_per_genre.index)
 output_df = output_df.reset_index(drop=True)
+output_df["track_id"] = output_df["track_id"].astype(int)
+output_df["track_id"] = output_df["track_id"].apply(padded_track_id)
 
 output_file = "ground_truth_fma_key-mode.csv"
 output_df.to_csv(output_file, index=False)

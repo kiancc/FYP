@@ -32,7 +32,10 @@ class FeaturePipeline:
             # Due to the directory structure we can just have the file_id without risk of colliding filenames
             # but for sake of speed will just do this as this requires change and this hacky logic is already
             # coupled in other code ffs
-            file_id = '_'.join(os.path.splitext(filename)[0].split('_')[1:])
+            if '_' in filename:
+                file_id = '_'.join(os.path.splitext(filename)[0].split('_')[1:])
+            else:
+                file_id = os.path.splitext(filename)[0]
             
             if file_id in processed_files:
                 print(f'File already processed: {filename}')

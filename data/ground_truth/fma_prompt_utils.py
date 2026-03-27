@@ -19,35 +19,20 @@ RANDOM_SEED = 42
 def normalize_genre(genre):
     return str(genre)
 
-
-def track_stem_from_id(track_id):
-    return f"{int(track_id):06d}"
-
-
-def build_file_id(track_id=None, file_path=None, prefix=None):
-    if file_path is not None:
-        base = Path(str(file_path)).stem
-    elif track_id is not None:
-        base = track_stem_from_id(track_id)
-    else:
-        raise ValueError("Either track_id or file_path must be provided")
-
-    if prefix:
-        return f"{prefix}{base}"
-    return base
-
-
-def build_minimal_prompt_record(genre, task, target, track_id=None, file_path=None, prefix=None):
+def build_minimal_prompt_record(genre, task, target, track_id):
     target_str = str(target)
     return {
-        "file_id": build_file_id(track_id=track_id, file_path=file_path, prefix=prefix),
+        "file_id": f"{int(track_id):06d}",
         "genre": normalize_genre(genre),
         "task": task,
         "target": target_str,
         "prompt": None,
     }
 
-
+def padded_track_id(value):
+    track_id = int(str(value).strip())
+    return f"{track_id:06d}"
+    
 def write_prompt_records_json(records, output_path):
     with open(output_path, "w", encoding="utf-8") as f:
         json.dump(records, f, indent=4)

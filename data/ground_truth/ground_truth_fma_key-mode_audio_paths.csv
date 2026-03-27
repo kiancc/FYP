@@ -1,41 +1,41 @@
-track_id,title,genre,key_and_mode,track_id_padded,audio_path
-1046,Eulb,Blues,G minor,001046,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/001/001046.mp3
-59173,She Gets All That She Wants,Blues,C# Major,059173,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/059/059173.mp3
-1045,Baltimore Raven,Blues,D# Major,001045,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/001/001045.mp3
-50892,Slow Burn,Blues,A minor,050892,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/050/050892.mp3
-50891,Dirt Rhodes,Blues,E minor,050891,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/050/050891.mp3
-59068,"Brownie, You're Doing a Heck of a Job",Classical,C minor,059068,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/059/059068.mp3
-65673,Variatio 9 a 1 Clav. Canone alla Terza,Classical,G Major,065673,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065673.mp3
-65671,Variatio 11 a 2 Clav.,Classical,G Major,065671,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065671.mp3
-65669,Variatio 13 a 2 Clav.,Classical,G Major,065669,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065669.mp3
-65660,Variatio 22 a 1 Clav,Classical,G Major,065660,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065660.mp3
-14908,Quit Barking at Me,Country,G Major,014908,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014908.mp3
-14954,Circus Clown,Country,E Major,014954,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014954.mp3
-14942,Muleskinner,Country,A Major,014942,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014942.mp3
-13912,I Want To Be A Cowboy's Sweetheart,Country,G Major,013912,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/013/013912.mp3
-14014,Good BBQ,Country,E Major,014014,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014014.mp3
-98993,Glow Slowly,Electronic,E minor,098993,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/098/098993.mp3
-105674,Outro,Electronic,A minor,105674,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/105/105674.mp3
-67464,Lucky,Electronic,G Major,067464,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/067/067464.mp3
-71957,My school,Electronic,E minor,071957,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/071/071957.mp3
-63966,Insomnia,Electronic,F minor,063966,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/063/063966.mp3
-89188,The Test,Hip-Hop,C Major,089188,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/089/089188.mp3
-75381,Peaceburgh,Hip-Hop,A minor,075381,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/075/075381.mp3
-95911,blood clot lunch,Hip-Hop,F minor,095911,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/095/095911.mp3
-30033,The Skies Don't Lie! (But I Does),Hip-Hop,D minor,030033,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/030/030033.mp3
-63768,Freshin Up Your Taste,Hip-Hop,D# Major,063768,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/063/063768.mp3
-47035,Yellow,Jazz,C Major,047035,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/047/047035.mp3
-83642,la mar,Jazz,E Major,083642,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/083/083642.mp3
-17439,The Infinite Infiniteness of Infinity,Jazz,C# minor,017439,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/017/017439.mp3
-83646,Silenci,Jazz,G Major,083646,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/083/083646.mp3
-83647,Fez,Jazz,G minor,083647,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/083/083647.mp3
-67334,Spears,Pop,E Major,067334,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/067/067334.mp3
-26178,The Club,Pop,F Major,026178,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/026/026178.mp3
-76129,942 Miles,Pop,D minor,076129,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/076/076129.mp3
-46842,I Can't Without You,Pop,B minor,046842,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/046/046842.mp3
-29047,Friends Forget,Pop,G# Major,029047,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/029/029047.mp3
-112313,Parliament,Rock,A Major,112313,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/112/112313.mp3
-69781,Secret Wave,Rock,B Major,069781,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/069/069781.mp3
-114198,"From The Outside, Looking In",Rock,D minor,114198,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/114/114198.mp3
-4401,Bums On a Rock,Rock,E Major,004401,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/004/004401.mp3
-68916,Numb (ft. Broto Verbo),Rock,F minor,068916,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/068/068916.mp3
+track_id,title,genre,key_and_mode,audio_path
+001046,Eulb,Blues,G minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/001/001046.mp3
+059173,She Gets All That She Wants,Blues,C# Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/059/059173.mp3
+001045,Baltimore Raven,Blues,D# Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/001/001045.mp3
+050892,Slow Burn,Blues,A minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/050/050892.mp3
+050891,Dirt Rhodes,Blues,E minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/050/050891.mp3
+059068,"Brownie, You're Doing a Heck of a Job",Classical,C minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/059/059068.mp3
+065673,Variatio 9 a 1 Clav. Canone alla Terza,Classical,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065673.mp3
+065671,Variatio 11 a 2 Clav.,Classical,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065671.mp3
+065669,Variatio 13 a 2 Clav.,Classical,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065669.mp3
+065660,Variatio 22 a 1 Clav,Classical,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/065/065660.mp3
+014908,Quit Barking at Me,Country,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014908.mp3
+014954,Circus Clown,Country,E Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014954.mp3
+014942,Muleskinner,Country,A Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014942.mp3
+013912,I Want To Be A Cowboy's Sweetheart,Country,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/013/013912.mp3
+014014,Good BBQ,Country,E Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/014/014014.mp3
+098993,Glow Slowly,Electronic,E minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/098/098993.mp3
+105674,Outro,Electronic,A minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/105/105674.mp3
+067464,Lucky,Electronic,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/067/067464.mp3
+071957,My school,Electronic,E minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/071/071957.mp3
+063966,Insomnia,Electronic,F minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/063/063966.mp3
+089188,The Test,Hip-Hop,C Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/089/089188.mp3
+075381,Peaceburgh,Hip-Hop,A minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/075/075381.mp3
+095911,blood clot lunch,Hip-Hop,F minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/095/095911.mp3
+030033,The Skies Don't Lie! (But I Does),Hip-Hop,D minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/030/030033.mp3
+063768,Freshin Up Your Taste,Hip-Hop,D# Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/063/063768.mp3
+047035,Yellow,Jazz,C Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/047/047035.mp3
+083642,la mar,Jazz,E Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/083/083642.mp3
+017439,The Infinite Infiniteness of Infinity,Jazz,C# minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/017/017439.mp3
+083646,Silenci,Jazz,G Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/083/083646.mp3
+083647,Fez,Jazz,G minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/083/083647.mp3
+067334,Spears,Pop,E Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/067/067334.mp3
+026178,The Club,Pop,F Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/026/026178.mp3
+076129,942 Miles,Pop,D minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/076/076129.mp3
+046842,I Can't Without You,Pop,B minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/046/046842.mp3
+029047,Friends Forget,Pop,G# Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/029/029047.mp3
+112313,Parliament,Rock,A Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/112/112313.mp3
+069781,Secret Wave,Rock,B Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/069/069781.mp3
+114198,"From The Outside, Looking In",Rock,D minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/114/114198.mp3
+004401,Bums On a Rock,Rock,E Major,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/004/004401.mp3
+068916,Numb (ft. Broto Verbo),Rock,F minor,/home/kian/fyp-final/FYP/data/ground_truth/fma_medium/fma_medium/068/068916.mp3

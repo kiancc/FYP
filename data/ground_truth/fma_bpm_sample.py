@@ -7,6 +7,7 @@ from fma_prompt_utils import (
 	RANDOM_SEED,
 	build_minimal_prompt_record,
 	write_prompt_records_json,
+    padded_track_id,
 )
 # okay so first is to load data, then we join echonest and genres, then we find our genre and bpm
 # this will be used for creating the BPM tests
@@ -34,6 +35,8 @@ target_genres = TARGET_GENRES
 final_df = merged_data.dropna()
 final_df = final_df[final_df['genre'].isin(target_genres)]
 final_df = final_df.reset_index().rename(columns={'index': 'track_id'})
+final_df["track_id"] = final_df["track_id"].astype(int)
+final_df["track_id"] = final_df["track_id"].apply(padded_track_id)
 
 samples_per_genre = SAMPLES_PER_GENRE
 random_seed = RANDOM_SEED

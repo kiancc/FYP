@@ -12,7 +12,7 @@ def match_csv(input_csv, output_csv, audio_dir, out_dir):
     df = pd.read_csv(input_csv)
 
     df["track_id"] = df["track_id"].astype(int)
-    df["track_id_padded"] = df["track_id"].apply(padded_track_id)
+    df["track_id"] = df["track_id"].apply(padded_track_id)
 
     df["audio_path"] = df["track_id"].apply(
         lambda tid: str(Path(utils.get_audio_path(str(audio_dir), int(tid))))
