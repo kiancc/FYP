@@ -2,7 +2,7 @@ import os
 import pandas as pd
 
 from core.generators.lyria_adapter import LyriaAdapter
-from core.generators.acestep_adapter import AceStepAdapter
+# from core.generators.acestep_adapter import AceStepAdapter # for local testing on laptop convenient to comment out so you dont have to dwnload the whole acestep package to run other models or feature extraction
 from core.feature_extraction.pipeline import FeaturePipeline
 
 def run_generation(output_dir, prompt_csv, generator_names=None):
@@ -13,7 +13,7 @@ def run_generation(output_dir, prompt_csv, generator_names=None):
     # when you have setup the adapter for a new model, 
     # just add it to the list of generators
     generator_map = {
-        'acestep': AceStepAdapter,
+        # 'acestep': AceStepAdapter,
         'lyria': LyriaAdapter,
     }
 
@@ -88,5 +88,5 @@ if __name__ == "__main__":
     LOCAL_AUDIO = 'data/audio_files'
     LOCAL_PROMPTS = 'data/prompts/master_prompts.csv'
     
-    run_generation(LOCAL_AUDIO, LOCAL_PROMPTS)
+    # run_generation(LOCAL_AUDIO, LOCAL_PROMPTS)
     run_feature_extraction(LOCAL_AUDIO)
