@@ -1,0 +1,282 @@
+[
+    {
+        "file_id": "001046",
+        "genre": "Blues",
+        "task": "key",
+        "target": "G minor",
+        "prompt": null
+    },
+    {
+        "file_id": "059173",
+        "genre": "Blues",
+        "task": "key",
+        "target": "C# Major",
+        "prompt": null
+    },
+    {
+        "file_id": "001045",
+        "genre": "Blues",
+        "task": "key",
+        "target": "D# Major",
+        "prompt": null
+    },
+    {
+        "file_id": "050892",
+        "genre": "Blues",
+        "task": "key",
+        "target": "A minor",
+        "prompt": null
+    },
+    {
+        "file_id": "050891",
+        "genre": "Blues",
+        "task": "key",
+        "target": "E minor",
+        "prompt": null
+    },
+    {
+        "file_id": "059068",
+        "genre": "Classical",
+        "task": "key",
+        "target": "C minor",
+        "prompt": null
+    },
+    {
+        "file_id": "065673",
+        "genre": "Classical",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "065671",
+        "genre": "Classical",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "065669",
+        "genre": "Classical",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "065660",
+        "genre": "Classical",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "014908",
+        "genre": "Country",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "014954",
+        "genre": "Country",
+        "task": "key",
+        "target": "E Major",
+        "prompt": null
+    },
+    {
+        "file_id": "014942",
+        "genre": "Country",
+        "task": "key",
+        "target": "A Major",
+        "prompt": null
+    },
+    {
+        "file_id": "013912",
+        "genre": "Country",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "014014",
+        "genre": "Country",
+        "task": "key",
+        "target": "E Major",
+        "prompt": null
+    },
+    {
+        "file_id": "098993",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "E minor",
+        "prompt": null
+    },
+    {
+        "file_id": "105674",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "A minor",
+        "prompt": null
+    },
+    {
+        "file_id": "067464",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "071957",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "E minor",
+        "prompt": null
+    },
+    {
+        "file_id": "063966",
+        "genre": "Electronic",
+        "task": "key",
+        "target": "F minor",
+        "prompt": null
+    },
+    {
+        "file_id": "089188",
+        "genre": "Hip-Hop",
+        "task": "key",
+        "target": "C Major",
+        "prompt": null
+    },
+    {
+        "file_id": "075381",
+        "genre": "Hip-Hop",
+        "task": "key",
+        "target": "A minor",
+        "prompt": null
+    },
+    {
+        "file_id": "095911",
+        "genre": "Hip-Hop",
+        "task": "key",
+        "target": "F minor",
+        "prompt": null
+    },
+    {
+        "file_id": "030033",
+        "genre": "Hip-Hop",
+        "task": "key",
+        "target": "D minor",
+        "prompt": null
+    },
+    {
+        "file_id": "063768",
+        "genre": "Hip-Hop",
+        "task": "key",
+        "target": "D# Major",
+        "prompt": null
+    },
+    {
+        "file_id": "047035",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "C Major",
+        "prompt": null
+    },
+    {
+        "file_id": "083642",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "E Major",
+        "prompt": null
+    },
+    {
+        "file_id": "017439",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "C# minor",
+        "prompt": null
+    },
+    {
+        "file_id": "083646",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "G Major",
+        "prompt": null
+    },
+    {
+        "file_id": "083647",
+        "genre": "Jazz",
+        "task": "key",
+        "target": "G minor",
+        "prompt": null
+    },
+    {
+        "file_id": "067334",
+        "genre": "Pop",
+        "task": "key",
+        "target": "E Major",
+        "prompt": null
+    },
+    {
+        "file_id": "026178",
+        "genre": "Pop",
+        "task": "key",
+        "target": "F Major",
+        "prompt": null
+    },
+    {
+        "file_id": "076129",
+        "genre": "Pop",
+        "task": "key",
+        "target": "D minor",
+        "prompt": null
+    },
+    {
+        "file_id": "046842",
+        "genre": "Pop",
+        "task": "key",
+        "target": "B minor",
+        "prompt": null
+    },
+    {
+        "file_id": "029047",
+        "genre": "Pop",
+        "task": "key",
+        "target": "G# Major",
+        "prompt": null
+    },
+    {
+        "file_id": "112313",
+        "genre": "Rock",
+        "task": "key",
+        "target": "A Major",
+        "prompt": null
+    },
+    {
+        "file_id": "069781",
+        "genre": "Rock",
+        "task": "key",
+        "target": "B Major",
+        "prompt": null
+    },
+    {
+        "file_id": "114198",
+        "genre": "Rock",
+        "task": "key",
+        "target": "D minor",
+        "prompt": null
+    },
+    {
+        "file_id": "004401",
+        "genre": "Rock",
+        "task": "key",
+        "target": "E Major",
+        "prompt": null
+    },
+    {
+        "file_id": "068916",
+        "genre": "Rock",
+        "task": "key",
+        "target": "F minor",
+        "prompt": null
+    }
+]

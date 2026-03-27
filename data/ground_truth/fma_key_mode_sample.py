@@ -1,6 +1,13 @@
 # Adapted from https://github.com/mdeff/fma/blob/master/usage.ipynb
 import numpy as np
 import utils
+from fma_prompt_utils import (
+    TARGET_GENRES,
+    SAMPLES_PER_GENRE,
+    RANDOM_SEED,
+    build_minimal_prompt_record,
+    write_prompt_records_json,
+)
 # okay so first is to load data, then we join echonest and genres, then we find our genre and bpm
 # this will be used for creating the BPM tests
 
@@ -24,7 +31,7 @@ joined["key_and_mode"].groupby(["key_and_mode"])["key_and_mode"].size().sort_val
 
 
 # Genres you want to allow
-target_genres = ['Pop', 'Rock', 'Jazz', 'Electronic', 'Hip-Hop', 'Classical', 'Country', 'Blues'] # missing metal, will need to find other example tracks
+target_genres = TARGET_GENRES
 
 # Keep only rows in those genres
 filtered = joined[
@@ -34,13 +41,13 @@ filtered = joined[
 
 # Take up to 5 random songs per selected genre.
 # This avoids pandas groupby.apply column-dropping behavior across versions.
-rng = np.random.default_rng(42)
+rng = np.random.default_rng(RANDOM_SEED)
 sample_5_per_genre = (
     filtered
     .assign(_rand=rng.random(len(filtered)))
     .sort_values([("track", "genre_top"), "_rand"])
     .groupby(("track", "genre_top"), group_keys=False)
-    .head(5)
+    .head(SAMPLES_PER_GENRE)
     .drop(columns=["_rand"])
 )
 
@@ -53,9 +60,23 @@ output_df.columns = ["title", "genre", "key_and_mode"]
 output_df.insert(0, "track_id", sample_5_per_genre.index)
 output_df = output_df.reset_index(drop=True)
 
-output_file = "target_genres_key_mode_sampled.csv"
+output_file = "ground_truth_fma_key-mode.csv"
 output_df.to_csv(output_file, index=False)
+
+json_output_file = "ground_truth_fma_key-mode.json"
+json_records = [
+    build_minimal_prompt_record(
+        genre=row["genre"],
+        task="key",
+        target=row["key_and_mode"],
+        track_id=row["track_id"],
+    )
+    for _, row in output_df.iterrows()
+]
+
+write_prompt_records_json(json_records, json_output_file)
 
 print("\nUp to 5 random songs per genre:")
 print(output_df)
 print("\nSaved", len(output_df), "rows to", output_file)
+print("Saved", len(json_records), "rows to", json_output_file)

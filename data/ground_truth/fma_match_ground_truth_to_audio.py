@@ -33,12 +33,12 @@ def main():
 
     jobs = [
         (
-            "target_genres_bpm_sampled.csv",
-            "target_genres_bpm_sampled_with_audio_paths.csv",
+            "ground_truth_fma_bpm.csv",
+            "ground_truth_fma_bpm_audio_paths.csv",
         ),
         (
-            "target_genres_key_mode_sampled.csv",
-            "target_genres_key_mode_sampled_with_audio_paths.csv",
+            "ground_truth_fma_key-mode.csv",
+            "ground_truth_fma_key-mode_audio_paths.csv",
         ),
     ]
 

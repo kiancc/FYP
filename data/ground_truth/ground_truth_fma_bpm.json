@@ -1,0 +1,247 @@
+[
+    {
+        "file_id": "006655",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "127",
+        "prompt": null
+    },
+    {
+        "file_id": "020447",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "141",
+        "prompt": null
+    },
+    {
+        "file_id": "035456",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "130",
+        "prompt": null
+    },
+    {
+        "file_id": "006662",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "103",
+        "prompt": null
+    },
+    {
+        "file_id": "018197",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "110",
+        "prompt": null
+    },
+    {
+        "file_id": "004787",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "168",
+        "prompt": null
+    },
+    {
+        "file_id": "066851",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "170",
+        "prompt": null
+    },
+    {
+        "file_id": "037726",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "135",
+        "prompt": null
+    },
+    {
+        "file_id": "027569",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "138",
+        "prompt": null
+    },
+    {
+        "file_id": "115386",
+        "genre": "Electronic",
+        "task": "tempo",
+        "target": "188",
+        "prompt": null
+    },
+    {
+        "file_id": "076500",
+        "genre": "Rock",
+        "task": "tempo",
+        "target": "117",
+        "prompt": null
+    },
+    {
+        "file_id": "026018",
+        "genre": "Hip-Hop",
+        "task": "tempo",
+        "target": "74",
+        "prompt": null
+    },
+    {
+        "file_id": "016023",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "105",
+        "prompt": null
+    },
+    {
+        "file_id": "015857",
+        "genre": "Hip-Hop",
+        "task": "tempo",
+        "target": "153",
+        "prompt": null
+    },
+    {
+        "file_id": "050369",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "120",
+        "prompt": null
+    },
+    {
+        "file_id": "028118",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "36",
+        "prompt": null
+    },
+    {
+        "file_id": "055550",
+        "genre": "Hip-Hop",
+        "task": "tempo",
+        "target": "112",
+        "prompt": null
+    },
+    {
+        "file_id": "011777",
+        "genre": "Hip-Hop",
+        "task": "tempo",
+        "target": "84",
+        "prompt": null
+    },
+    {
+        "file_id": "004683",
+        "genre": "Hip-Hop",
+        "task": "tempo",
+        "target": "88",
+        "prompt": null
+    },
+    {
+        "file_id": "013197",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "116",
+        "prompt": null
+    },
+    {
+        "file_id": "048403",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "122",
+        "prompt": null
+    },
+    {
+        "file_id": "047755",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "138",
+        "prompt": null
+    },
+    {
+        "file_id": "077572",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "120",
+        "prompt": null
+    },
+    {
+        "file_id": "013328",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "115",
+        "prompt": null
+    },
+    {
+        "file_id": "016237",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "83",
+        "prompt": null
+    },
+    {
+        "file_id": "014053",
+        "genre": "Jazz",
+        "task": "tempo",
+        "target": "240",
+        "prompt": null
+    },
+    {
+        "file_id": "001649",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "241",
+        "prompt": null
+    },
+    {
+        "file_id": "021799",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "90",
+        "prompt": null
+    },
+    {
+        "file_id": "011397",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "111",
+        "prompt": null
+    },
+    {
+        "file_id": "023141",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "90",
+        "prompt": null
+    },
+    {
+        "file_id": "010806",
+        "genre": "Pop",
+        "task": "tempo",
+        "target": "47",
+        "prompt": null
+    },
+    {
+        "file_id": "011758",
+        "genre": "Classical",
+        "task": "tempo",
+        "target": "101",
+        "prompt": null
+    },
+    {
+        "file_id": "019133",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "155",
+        "prompt": null
+    },
+    {
+        "file_id": "001047",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "97",
+        "prompt": null
+    },
+    {
+        "file_id": "021800",
+        "genre": "Blues",
+        "task": "tempo",
+        "target": "119",
+        "prompt": null
+    }
+]

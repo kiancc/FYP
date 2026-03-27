@@ -1,7 +1,7 @@
 # # Adapted from https://github.com/stellaywong/fma_keys/blob/master/utils.py
 # import dotenv
 # import pydot
-import requests
+# import requests
 import numpy as np
 import pandas as pd
 import ctypes
@@ -27,41 +27,41 @@ class FreeMusicArchive:
     def __init__(self, api_key):
         self.api_key = api_key
 
-    def get_recent_tracks(self):
-        URL = 'https://freemusicarchive.org/recent.json'
-        r = requests.get(URL)
-        r.raise_for_status()
-        tracks = []
-        artists = []
-        date_created = []
-        for track in r.json()['aTracks']:
-            tracks.append(track['track_id'])
-            artists.append(track['artist_name'])
-            date_created.append(track['track_date_created'])
-        return tracks, artists, date_created
+    # def get_recent_tracks(self):
+    #     URL = 'https://freemusicarchive.org/recent.json'
+    #     r = requests.get(URL)
+    #     r.raise_for_status()
+    #     tracks = []
+    #     artists = []
+    #     date_created = []
+    #     for track in r.json()['aTracks']:
+    #         tracks.append(track['track_id'])
+    #         artists.append(track['artist_name'])
+    #         date_created.append(track['track_date_created'])
+    #     return tracks, artists, date_created
 
-    def _get_data(self, dataset, fma_id, fields=None):
-        url = self.BASE_URL + dataset + 's.json?'
-        url += dataset + '_id=' + str(fma_id) + '&api_key=' + self.api_key
-        # print(url)
-        r = requests.get(url)
-        r.raise_for_status()
-        if r.json()['errors']:
-            raise Exception(r.json()['errors'])
-        data = r.json()['dataset'][0]
-        r_id = data[dataset + '_id']
-        if r_id != str(fma_id):
-            raise Exception('The received id {} does not correspond to'
-                            'the requested one {}'.format(r_id, fma_id))
-        if fields is None:
-            return data
-        if type(fields) is list:
-            ret = {}
-            for field in fields:
-                ret[field] = data[field]
-            return ret
-        else:
-            return data[fields]
+    # def _get_data(self, dataset, fma_id, fields=None):
+    #     url = self.BASE_URL + dataset + 's.json?'
+    #     url += dataset + '_id=' + str(fma_id) + '&api_key=' + self.api_key
+    #     # print(url)
+    #     r = requests.get(url)
+    #     r.raise_for_status()
+    #     if r.json()['errors']:
+    #         raise Exception(r.json()['errors'])
+    #     data = r.json()['dataset'][0]
+    #     r_id = data[dataset + '_id']
+    #     if r_id != str(fma_id):
+    #         raise Exception('The received id {} does not correspond to'
+    #                         'the requested one {}'.format(r_id, fma_id))
+    #     if fields is None:
+    #         return data
+    #     if type(fields) is list:
+    #         ret = {}
+    #         for field in fields:
+    #             ret[field] = data[field]
+    #         return ret
+    #     else:
+    #         return data[fields]
 
     def get_track(self, track_id, fields=None):
         return self._get_data('track', track_id, fields)
