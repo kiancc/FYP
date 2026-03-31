@@ -1,5 +1,4 @@
 from abc import ABC, abstractmethod
-import base64, os
 
 class MusicGenerator(ABC):
 
